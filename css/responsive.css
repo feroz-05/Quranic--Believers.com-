@@ -92,4 +92,10 @@
     .logo-image{
         width: 220px;
     }
+
+    .heading-arabic{
+        font-size: 18px;
+        font-weight: none;
+        letter-spacing: 1px;
+    }
 }
