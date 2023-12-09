@@ -54,7 +54,7 @@ body{
 .logo-image{
     width: 300px;
     flex: 1;
-    padding-top: 60px;
+    margin-top: 60px;
     fill: white;
 }
 
