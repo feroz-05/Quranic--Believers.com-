@@ -1,0 +1,23 @@
+.container .item:hover{
+    border-color: rgb(17, 147, 187);
+    color: rgb(17, 147, 187);
+    cursor: pointer;
+}
+
+.display-names span:hover{
+    background-color:rgb(17, 147, 187); 
+    color: white;
+    cursor: pointer;
+}
+
+.logo-image:hover{
+    fill: rgb(252, 52, 52);
+    }
+
+    .header-main:hover{
+        opacity: 1;
+    }
+
+    .header-logo:hover, .header-icons{
+        cursor: pointer;
+    }
