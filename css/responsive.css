@@ -43,6 +43,10 @@
     }
 }
 @media (375px <= width <= 650px){
+    body{
+        margin: 0px 20px;
+    }
+
     .display-names{
         grid-template-columns: 1fr 1fr 1fr;
         margin: 0px 18px;
@@ -51,9 +55,7 @@
         width: 250px;
     }
 
-    body{
-        margin: 0px 20px;
-    }
+    
 
     .search-bar{
         width: 80%;
@@ -74,7 +76,7 @@
         margin: 0px 40px;
     }
     body{
-        margin: 0px 5px;
+        margin: 0px 0px;
     }
 
     .search-bar{
@@ -90,12 +92,20 @@
     }
 
     .logo-image{
-        width: 220px;
+        width: 200px;
     }
 
     .heading-arabic{
         font-size: 18px;
         font-weight: none;
         letter-spacing: 1px;
+        text-align: end;
+    }
+    .heading{
+        font-size: 12px;
+
+    }
+    .subtitle{
+        font-size: 8px;
     }
 }

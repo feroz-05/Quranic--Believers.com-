@@ -124,7 +124,7 @@ font-family: roboto;
 
 .container .item{
     display: grid;
-    grid-template-columns: 45px 1fr 135px;
+    grid-template-columns: 40px 1fr 130px;
     align-items: center;
     justify-content: center;
     padding: 10px 10px;
@@ -164,12 +164,16 @@ font-family: roboto;
     font-size: 22px;
     font-weight: none;
     letter-spacing: 1px;
+    text-align: end;
 }
 
 .subtitle{
     font-size: 10px;
-    margin-left: 2px;
-    margin-top: 0px;
+}
+
+.subtitle-arabic{
+    font-size: 10px;
+    text-align: end;
 }
 
 .surah-name-arabic{
