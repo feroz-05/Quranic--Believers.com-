@@ -42,10 +42,10 @@
         margin: 0px 35px;
     }
 }
-@media (width <= 650px){
+@media (375px <= width <= 650px){
     .display-names{
         grid-template-columns: 1fr 1fr 1fr;
-        margin: 0px 18%;
+        margin: 0px 18px;
     }
     body{
         margin: 0px 20px;
@@ -61,6 +61,27 @@
 
     .container{
         grid-template-columns: 1fr;
-        margin: 0px 20px;
+    }
+}
+
+@media (width <= 375px){
+    .display-names{
+        grid-template-columns: 1fr 1fr ;
+        margin: 0px 40px;
+    }
+    body{
+        margin: 0px 5px;
+    }
+
+    .search-bar{
+        width: 80%;
+    }
+
+    .search{
+        margin: 0px 0px 0px 10% ;
+    }
+
+    .container{
+        grid-template-columns: 1fr;
     }
 }
