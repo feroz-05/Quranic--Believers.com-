@@ -10,7 +10,7 @@ namesOfSurah.forEach((name)=>{
         <div class="subtitle">${name.subname}</div>
     </div>
     <div class="surah-name-arabic">
-        <div class="heading">
+        <div class="heading-arabic">
             ${name.image}
         </div>
         <div class="subtitle">
