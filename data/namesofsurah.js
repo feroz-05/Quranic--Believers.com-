@@ -3,7 +3,7 @@ const namesOfSurah = [
         'number' : '1',
         'firstname':'Al-Fatihah',
         'subname':'The Opener',
-        'image':'فاتِحَةُ الكِتاب',
+        'image':'الفاتِحَةُ',
         'ayahs': '7 ayahs'
     },{
         'number' : '2',
