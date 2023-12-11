@@ -115,6 +115,11 @@ body{
     transition: all 0.3s;
 }
 
+.button-item{
+    background-color: transparent;
+    border: none;
+}
+
 .container{
 display: grid;
 grid-template-columns: 1fr;
