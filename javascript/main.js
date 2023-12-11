@@ -1,4 +1,5 @@
 
+import { namesOfSurah } from "../data/namesofsurah.js";
 let namesHTML ='';
 namesOfSurah.forEach((name)=>{
     namesHTML +=`<div class="item">

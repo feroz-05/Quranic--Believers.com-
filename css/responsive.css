@@ -15,7 +15,11 @@
     .container{
         grid-template-columns: 1fr 1fr 1fr;
     }
-    body{
+    .container .item{
+        display: grid;
+        grid-template-columns: 40px 1fr 140px;
+    }
+        body{
         margin: 0px 60px;
     }
 }

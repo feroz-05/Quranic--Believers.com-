@@ -1,4 +1,4 @@
-const namesOfSurah = [
+export const namesOfSurah = [
     {
         'number' : '1',
         'firstname':'Al-Fatihah',
@@ -207,7 +207,7 @@ const namesOfSurah = [
         'number' : '35',
         'firstname':'Fatir',
         'subname':'Originator',
-        'image':'فاطِر (المَلائِكة)',
+        'image':'فاطِر',
         'ayahs': '45 ayahs'
     },{
         'number' : '36',
@@ -272,7 +272,7 @@ const namesOfSurah = [
     },{
         'number' : '46',
         'firstname':'Al-Ahqaf',
-        'subname':'The Wind-Curved Sandhills',
+        'subname':'Wind-Curved Sandhills',
         'image':'الأحقاف',
         'ayahs': '35 ayahs'
     },{
