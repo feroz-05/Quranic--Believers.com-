@@ -67,23 +67,31 @@ body{
     border-radius: 20px;
 }
 
-.language a{
+.language button{
     flex: 1;
+    border: none;
+    background-color: transparent;
     color: white;
-    text-decoration: none;
-    font-size: 15px;
+    font-size: 17px;
     font-weight:400;
     padding: 10px 15px;
     transition: all 0.3s;
 }
-.language a:hover{
+.language button:hover{
     color:  rgba(17, 147, 187, 0.664);
 }
 
 .surah{
     flex: 1;
-    font-size: 18px;
-    line-height: 25px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.surah-arabic{
+    letter-spacing: 1px;
+    font-size: 25px;
+    line-height: 40px;
+    font-weight: bold;
 }
 
 .audio-container-both{

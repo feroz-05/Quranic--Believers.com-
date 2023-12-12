@@ -43,6 +43,18 @@
     .audio-container-both{
         margin: 0px 100px;
     }
+    .surah{
+        flex: 1;
+        font-size: 22px;
+        line-height: 35px;
+    }
+    
+    .surah-arabic{
+        letter-spacing: 1.5px;
+        font-size: 33px;
+        line-height: 40px;
+        font-weight: bold;
+    }
 }
 
 
