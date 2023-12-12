@@ -1,0 +1,109 @@
+*{
+    font-family: roboto;
+}
+
+body{
+    background-color: #272f33;
+    margin: 0px 50px;
+    color: white;
+}
+
+
+.heading , .Audio-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading h3{
+    flex: 1;
+    font-size: 30px;
+        padding: 0;
+}
+
+.heading span{
+    flex: 1;
+    justify-content: start;
+    margin: 0;
+    font-size: 15px;
+    padding-left: 80px;
+}
+
+.audio-arb{
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.play-next button{
+    flex: 1;
+    margin-right: 10px;
+    background-color: rgb(17, 147, 187);
+    border: none;
+    border-radius: 20px;
+    width: 130px;
+    color: white;
+    font-size: 18px;
+    padding: 5px 10px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+.play-next button:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgba(17, 147, 187, 0.664);
+}
+
+.play-next button span{
+    font-size: 13px;
+    text-align: center;
+}
+
+
+.display-surah-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #202122;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+
+.language a{
+    flex: 1;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight:400;
+    padding: 10px 15px;
+    transition: all 0.3s;
+}
+.language a:hover{
+    color:  rgba(17, 147, 187, 0.664);
+}
+
+.surah{
+    flex: 1;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.audio-container-both{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    font-size: 20px;
+    gap: 20px;
+}
+
+.audio-eng, .audio-eng-arb{
+    flex: 1;
+    width: 90%;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+

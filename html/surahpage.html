@@ -4,34 +4,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>surah</title>
+    <link rel="stylesheet" href="/css/surahpage.css">
 </head>
 <body>
     <header></header>
-    <main>
+    <main class="main-container">
         <div class="name-audio-container">
             <div class="heading">
-                <h3>1. Surah Al-Fatiha</h3>
-                <span>The Opening</span>
+                <h3>1. Surah Al-Fatiha<br>
+                    <span>The Opening</span>
+                </h3>
+                
             </div>
             <div class="Audio-box">
-                <audio controls>
+                <audio controls class="audio-arb">
                     <source src="/audio/001.mp3" type="audio/mpeg">
                 </audio>
                 <div class="play-next">
                     <button>&#8592; <span>Play Previous</span></button>
-                    <button>&#8594;<span>Play Next</span></button>
+                    <button><span>Play Next</span> &#8594; </button>
                 </div>
-            </div>
+        </div>
 
             <div class="display-surah-container">
                 <div class="language">
                     <a href="">English</a>
                     <a href="">Arabic</a>
                     <a href="">Translation</a>
+                    <hr>
                 </div>
+                
                 <div class="surah">
                     <ol>
-                        <li>Bismillaahir Rahmaanir Raheem</li>
+                        <h5>Bismillaahir Rahmaanir Raheem</h5>
                             <li>  Alhamdu lillaahi Rabbil 'aalameen</li>
                                 <li>  Ar-Rahmaanir-Raheem</li>
                                     <li>   Maaliki Yawmid-Deen</li>
@@ -40,23 +45,24 @@
                                                 <li>     Siraatal-lazeena an'amta 'alaihim ghayril-maghdoobi 'alaihim wa lad-daaalleen</li>
                     </ol>
                 </div>
-
-
-                <div class="audio-eng">
+            </div>
+            <div class="audio-container-both">
+                <div>
                     Audio: English
-                    <audio controls>
+                    <audio controls class="audio-eng" >
                         <source src="/audio/001-eng.mp3">
                     </audio>
                 </div>
 
-                <div class="audio-eng-arb">
+                <div >
                     Audio: Arabic & English
-                    <audio controls>
+                    <audio controls class="audio-eng-arb">
                         <source src="/audio/001-both.mp3">
                     </audio>
                 </div>
             </div>
         </div>
     </main>
+    <footer></footer>
 </body>
 </html>
