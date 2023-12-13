@@ -174,11 +174,13 @@ font-family: roboto;
 
 .subtitle{
     font-size: 10px;
+    color: rgb(17, 147, 187);
 }
 
 .subtitle-arabic{
     font-size: 10px;
     text-align: end;
+    color: rgb(17, 147, 187);
 }
 
 .surah-name-arabic{

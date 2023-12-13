@@ -39,7 +39,7 @@ document.querySelector(".click-arabic")
     .addEventListener('click', ()=> {
         const data = surahs[surahNumber-1].arb;
     surahHtml = `<ol>
-    <h4>Bismillaahir Rahmaanir Raheem</h4>
+    <h4>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h4>
         ${data}
     </ol>`
     document.querySelector(".surah").innerHTML = surahHtml;

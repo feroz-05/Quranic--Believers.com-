@@ -126,7 +126,7 @@
 
     .container{
         grid-template-columns: 1fr;
-        margin: 5px 0px;
+        margin: 10px 8px;
     }
 
     .logo-image{
@@ -134,16 +134,17 @@
     }
 
     .heading-arabic{
-        font-size: 18px;
+        font-size: 20px;
         font-weight: none;
         letter-spacing: 1px;
         text-align: end;
     }
     .heading{
-        font-size: 12px;
+        font-size: 15px;
+        padding-bottom: 3px;
     }
     .subtitle{
-        font-size: 8px;
+        font-size: 11px;
     }
     .surah{
         flex: 1;
@@ -153,10 +154,11 @@
 
     .surah h4{
         font-size: 20px;
+        text-align: center;
     }
 
     .surah li{
-        padding: 15px 0px;
+        padding: 15px 5px;
     }
 
     .surah-arabic{

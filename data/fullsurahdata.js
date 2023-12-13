@@ -2,7 +2,6 @@
 export    const surahs=[
     {
         'arb':`
-        <li> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
         <li> الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
         <li> الرَّحْمَٰنِ الرَّحِيمِ
         <li> مَالِكِ يَوْمِ الدِّينِ
@@ -19,8 +18,7 @@ export    const surahs=[
         <li>Siraatal-lazeena an'amta 'alaihim ghayril-maghdoobi 'alaihim wa lad-daaalleen`
         ,
         //translation
-        'translation':`<li>In the name of Allah, Most Gracious, Most Merciful
-        <li>Praise be to Allah, the Cherisher and Sustainer of the worlds;
+        'translation':`<li>Praise be to Allah, the Cherisher and Sustainer of the worlds;
         <li>Most Gracious, Most Merciful;
         <li>Master of the Day of Judgment.
         <li>Thee do we worship, and Thine aid we seek.
