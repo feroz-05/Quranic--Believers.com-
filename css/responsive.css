@@ -163,6 +163,7 @@
 
     .surah-arabic{
         letter-spacing: 1px;
+        line-height: 40px;
         font-size: 25px;
         font-weight: bold;
         margin-right: 10px;

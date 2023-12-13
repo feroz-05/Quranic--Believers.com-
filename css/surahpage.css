@@ -1,5 +1,5 @@
 *{
-    font-family: roboto;
+    font-family: sans-serif;
 }
 
 body{
@@ -85,14 +85,17 @@ body{
     flex: 1;
     font-size: 20px;
     line-height: 30px;
+    font-family: serif;
 }
 
 .surah-arabic{
     letter-spacing: 1px;
+    line-height: 40px;
     font-size: 25px;
     line-height: 40px;
     font-weight: bold;
     text-align: end;
+    font-family: roboto;
 }
 
 .audio-container-both{
