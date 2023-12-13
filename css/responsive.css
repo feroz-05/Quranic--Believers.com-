@@ -107,7 +107,7 @@
     }
 }
 
-@media (width <= 375px){
+@media (0px <= width <= 555px){
     .display-names{
         grid-template-columns: 1fr 1fr ;
         margin: 0px 40px;
@@ -126,6 +126,7 @@
 
     .container{
         grid-template-columns: 1fr;
+        margin: 5px 0px;
     }
 
     .logo-image{
@@ -143,5 +144,26 @@
     }
     .subtitle{
         font-size: 8px;
+    }
+    .surah{
+        flex: 1;
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .surah h4{
+        font-size: 20px;
+    }
+
+    .surah li{
+        padding: 15px 0px;
+    }
+
+    .surah-arabic{
+        letter-spacing: 1px;
+        font-size: 25px;
+        font-weight: bold;
+        margin-right: 10px;
+        padding: 20px 0px;
     }
 }

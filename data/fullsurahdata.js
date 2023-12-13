@@ -1,13 +1,14 @@
 // this file is full of surahs
 export    const surahs=[
     {
-        'arb':`1. بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ<br>
-        2. الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ<br>
-        3. الرَّحْمَٰنِ الرَّحِيمِ<br>
-        4. مَالِكِ يَوْمِ الدِّينِ<br>
-        5. إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ<br>
-        6. اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ<br>
-        7. صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+        'arb':`
+        <li> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+        <li> الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+        <li> الرَّحْمَٰنِ الرَّحِيمِ
+        <li> مَالِكِ يَوْمِ الدِّينِ
+        <li> إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+        <li> اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
+        <li> صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
         `,
         //english
         'eng':`<li>Alhamdu lillaahi Rabbil 'aalameen
@@ -19,12 +20,12 @@ export    const surahs=[
         ,
         //translation
         'translation':`<li>In the name of Allah, Most Gracious, Most Merciful
-        <i>Praise be to Allah, the Cherisher and Sustainer of the worlds;
-        <i>Most Gracious, Most Merciful;
-        <i>Master of the Day of Judgment.
-        <i>Thee do we worship, and Thine aid we seek.
-        <i>Show us the straight way,
-        <i>The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.`
+        <li>Praise be to Allah, the Cherisher and Sustainer of the worlds;
+        <li>Most Gracious, Most Merciful;
+        <li>Master of the Day of Judgment.
+        <li>Thee do we worship, and Thine aid we seek.
+        <li>Show us the straight way,
+        <li>The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.`
     },
     //2
     {
