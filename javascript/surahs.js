@@ -2,10 +2,13 @@
 //console.log("pk",attribute);
 
 import {surahs} from "../data/fullsurahdata.js";
+import { namesOfSurah } from "../data/namesofsurah.js";
 export let attributevalue=[];
 
 const surahNumber = (JSON.parse(localStorage.getItem('attribute')));
+console.log(surahNumber);
 
+// this codde is to display the surah;
 let surahHtml='';
     const data = surahs[surahNumber-1].eng;
     surahHtml = `<ol>
@@ -13,13 +16,59 @@ let surahHtml='';
         ${data}
     </ol>`
     document.querySelector(".surah").innerHTML = surahHtml;
+//end
+
+//this below code is used to display the names of surahFirstname;
+let namesHtml =`<h3>${ namesOfSurah[surahNumber-1].number}. ${namesOfSurah[surahNumber-1].firstname}<br>
+    <span>${namesOfSurah[surahNumber-1].subname}</span>
+    </h3>`;
+    document.querySelector(".heading-name").innerHTML=namesHtml;
+//end 
 
     //function to delete the local storage value;
-function deleteStorage() {
+    function deleteStorage() {
         localStorage.removeItem('attribute');
     };
     //deleteStorage();
+
+
+
+//this below code is to go prevous and next page;
+    document.querySelector('.previous').addEventListener('click',()=>{
+        deleteStorage();
+        let attribute = '';
+
+        if(surahNumber > 1){
+            attribute = surahNumber-1;
+        }
+        else{
+            attribute = 114;
+        }
+        localStorage.setItem('attribute',JSON.stringify(attribute));
+        window.location.href="/html/surahpage.html";
+    })
+    document.querySelector('.next').addEventListener('click',()=>{
+        deleteStorage();
+        let attribute = '';
+
+        if(surahNumber < 114){
+            attribute = surahNumber + 1;
+        }
+        else{
+            attribute = 1;
+        }
+        localStorage.setItem('attribute',JSON.stringify(attribute));
+        window.location.href="/html/surahpage.html";
+    })
+    //end
+
+
+
     
+
+
+
+
 // click on arabic and english
 //this is for english button;
 document.querySelector(".click-english")

@@ -73,7 +73,7 @@ export const namesOfSurah = [
         'ayahs': '111 ayahs'
     },{
         'number' : '13',
-        'firstname':'Ar-Ra\'d',
+        'firstname':'Ar-Rad',
         'subname':'The Thunder',
         'image':'الرَّعد',
         'ayahs': '43 ayahs'

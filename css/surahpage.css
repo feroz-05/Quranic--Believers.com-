@@ -38,23 +38,24 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
+
 }
-s
+
 .heading-name h3{
     flex: 1;
-    font-size: 33px;
-        padding: 0;
-        text-align: center;
+    font-size: 30px;
+    padding: 0;
+    text-align: center;
 }
 
 .heading-name span{
     flex: 1;
     justify-content: center;
-    margin: 0;
-    font-size: 15px;
-    padding-left: 38px;
+    margin: 5px 5px;
+    font-size: 13px;
     text-align: center;
-
+    display: block;
 }
 
 .audio-arb{

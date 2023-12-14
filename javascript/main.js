@@ -9,7 +9,8 @@ let namesHTML ='';
 function generateHtml(){
     namesOfSurah.forEach((name)=>{
         namesHTML +=`<button class="button-item" 
-        data-surah-no='${name.number}'>
+        data-surah-no='${name.number}' data-surah-firstname='${name.firstname}'
+        data-surah-subname='${name.subname}'>
         <div class="item">
             <div class="sequence-ayahs">
                 ${name.number}
@@ -39,7 +40,12 @@ document.querySelectorAll(".button-item")
     .forEach((item)=>{
         item.addEventListener('click', ()=>{
             const  attribute = item.dataset.surahNo;
+            const  firstname = item.dataset.surahFirstname;
+            const  subname = item.dataset.surahSubname;
+
             localStorage.setItem('attribute',JSON.stringify(attribute));
+            localStorage.setItem('firstname',JSON.stringify(firstname));
+            localStorage.setItem('subname',JSON.stringify(subname));
             window.location.href="/html/surahpage.html";
         })
 
