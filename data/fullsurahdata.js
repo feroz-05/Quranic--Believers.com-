@@ -15961,5 +15961,3542 @@ export    const surahs=[
         <li> And if any of your wives deserts you to the Unbelievers, and ye have an accession (by the coming over of a woman from the other side), then pay to those whose wives have deserted the equivalent of what they had spent (on their dower). And fear Allah, in Whom ye believe.
         <li> O Prophet! When believing women come to thee to take the oath of fealty to thee, that they will not associate in worship any other thing whatever with Allah, that they will not steal, that they will not commit adultery (or fornication), that they will not kill their children, that they will not utter slander, intentionally forging falsehood, and that they will not disobey thee in any just matter,- then do thou receive their fealty, and pray to Allah for the forgiveness (of their sins): for Allah is Oft-Forgiving, Most Merciful.
         <li> O ye who believe! Turn not (for friendship) to people on whom is the Wrath of Allah, of the Hereafter they are already in despair, just as the Unbelievers are in despair about those (buried) in graves.`
+    },
+    //61
+    {
+        'arb':`
+        <li> سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+        <li> يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ
+        <li> كَبُرَ مَقْتًا عِنْدَ اللَّهِ أَنْ تَقُولُوا مَا لَا تَفْعَلُونَ
+        <li> إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُمْ بُنْيَانٌ مَرْصُوصٌ
+        <li> وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ لِمَ تُؤْذُونَنِي وَقَدْ تَعْلَمُونَ أَنِّي رَسُولُ اللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
+        <li> وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَا بَنِي إِسْرَائِيلَ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَيَّ مِنَ التَّوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ أَحْمَدُ ۖ فَلَمَّا جَاءَهُمْ بِالْبَيِّنَاتِ قَالُوا هَٰذَا سِحْرٌ مُبِينٌ
+        <li> وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ وَهُوَ يُدْعَىٰ إِلَى الْإِسْلَامِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
+        <li> يُرِيدُونَ لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ
+        <li> هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
+        <li>  يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ
+        <li>  تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ
+        <li>  يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ
+        <li>  وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌ مِنَ اللَّهِ وَفَتْحٌ قَرِيبٌ ۗ وَبَشِّرِ الْمُؤْمِنِينَ
+        <li>  يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا أَنْصَارَ اللَّهِ كَمَا قَالَ عِيسَى ابْنُ مَرْيَمَ لِلْحَوَارِيِّينَ مَنْ أَنْصَارِي إِلَى اللَّهِ ۖ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنْصَارُ اللَّهِ ۖ فَآمَنَتْ طَائِفَةٌ مِنْ بَنِي إِسْرَائِيلَ وَكَفَرَتْ طَائِفَةٌ ۖ فَأَيَّدْنَا الَّذِينَ آمَنُوا عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا ظَاهِرِينَ`,
+        //english
+    'eng': `
+<li> Sabbaha lillaahi maa fisamaawaati wa maa fil ardi wa huwal 'Azeezul Hakeem
+<li> Yaa ayyuhal lazeena aamanoo lima taqooloona maa laa taf'aloon
+<li> Kabura maqtan 'indal laahi an taqooloo maa laa taf'aloon
+<li> Innal laaha yuhibbul lazeena yuqaatiloona fee sabeelihee saffan ka annahum bunyaanum marsoos
+<li> Wa iz qaala Moosa liqawmihee yaa qawmi lima tu'zoonanee wa qat ta'lamoona annee Rasoolul laahi ilaikum falammaa zaaghooo azaaghal laahu quloobahum; wallaahu laa yahdil qawmal faasiqeen
+<li> Wa iz qaala 'Eesab-nu-Maryama yaa Banee Israaa'eela innee Rasoolul laahi ilaikum musaddiqal limaa baina yadayya minat Tawraati wa mubashshiram bi Rasooliny yaatee mim ba'dis muhooo Ahmad; falammaa jaaa'ahum bil baiyinaati qaaloo haazaa sihrum mubeen
+<li> Wa man azlamu mimma nif taraa 'alal laahil kaziba wa huwa yad'aaa ilal Islaam; wallaahu laa yahdil qawmaz zaalimeen
+<li> Yureedoona liyutfi'oo nooral laahi bi afwaahihim wallaahu mutimmu noorihee wa law karihal kaafiroon
+<li> Huwal lazee arsala Rasoolahoo bilhudaa wa deenil haqqi liyuzhirahoo 'alad deeni kullihee wa law karihal mushrikoon
+<li> Yaaa ayyuhal lazeena aamanoo hal adullukum 'alaa tijaaratin tunjeekum min 'azaabin aleem
+<li> Tu'minoona billaahi wa Rasoolihee wa tujaahidoona fee sabeelil laahi bi amwaalikum wa anfusikum; zaalikum khairul lakum in kuntum ta'lamoon
+<li> Yaghfir lakum zunoobakum wa yudkhilkum Jannaatin tajree min tahtihal anhaaru wa masaakina taiyibatan fee Jannaati 'Adn; zaalikal fawzul 'Azeem
+<li> Wa ukhraa tuhibboonahaa nasrum minal laahi wa fat hun qareeb; wa bashshiril mu 'mineen
+<li> Yaaa ayyuhal lazeena aamanoo koonooo ansaaral laahi kamaa qaala 'Eesab-nu-Maryama lil Hawaariyyeena man ansaareee ilal laah; qaalal Hawaariyyoona nahnu ansaa rul laahi fa aamanat taaa'ifatum mim Banee Israaa'eela wa kafarat taaa'ifatun fa ayyadnal lazeena aamanoo 'alaa 'aduwwihim fa asbahoo zaahireen`,
+
+        //trans
+        'translation':`
+        <li>Whatever is in the heavens and on earth, let it declare the Praises and Glory of Allah: for He is the Exalted in Might, the Wise.
+<li> O ye who believe! Why say ye that which ye do not?
+<li> Grievously odious is it in the sight of Allah that ye say that which ye do not.
+<li> Truly Allah loves those who fight in His Cause in battle array, as if they were a solid cemented structure.
+<li> And remember, Moses said to his people: "O my people! why do ye vex and insult me, though ye know that I am the messenger of Allah (sent) to you?" Then when they went wrong, Allah let their hearts go wrong. For Allah guides not those who are rebellious transgressors.
+<li> And remember, Jesus, the son of Mary, said: "O Children of Israel! I am the messenger of Allah (sent) to you, confirming the Law (which came) before me, and giving Glad Tidings of a Messenger to come after me, whose name shall be Ahmad." But when he came to them with Clear Signs, they said, "this is evident sorcery!"
+<li> Who doth greater wrong than one who invents falsehood against Allah, even as he is being invited to Islam? And Allah guides not those who do wrong.
+<li> Their intention is to extinguish Allah�s Light (by blowing) with their mouths: But Allah will complete (the revelation of) His Light, even though the Unbelievers may detest (it).
+<li> It is He Who has sent His Messenger with Guidance and the Religion of Truth, that he may proclaim it over all religion, even though the Pagans may detest (it).
+<li> O ye who believe! Shall I lead you to a bargain that will save you from a grievous Penalty?-
+<li> That ye believe in Allah and His Messenger, and that ye strive (your utmost) in the Cause of Allah, with your property and your persons: That will be best for you, if ye but knew!
+<li> He will forgive you your sins, and admit you to Gardens beneath which Rivers flow, and to beautiful mansions in Gardens of Eternity: that is indeed the Supreme Achievement.
+<li> And another (favour will He bestow,) which ye do love,- help from Allah and a speedy victory. So give the Glad Tidings to the Believers.
+<li> O ye who believe! Be ye helpers of Allah: As said Jesus the son of Mary to the Disciples, "Who will be my helpers to (the work of) Allah?" Said the disciples, "We are Allah�s helpers!" then a portion of the Children of Israel believed, and a portion disbelieved: But We gave power to those who believed, against their enemies, and they became the ones that prevailed.`
+	},
+    //62
+    {
+        'arb':`
+<li> يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ
+<li> هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِينٍ
+<li> وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+<li> ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ
+<li> مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا ۚ بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
+<li> قُلْ يَا أَيُّهَا الَّذِينَ هَادُوا إِنْ زَعَمْتُمْ أَنَّكُمْ أَوْلِيَاءُ لِلَّهِ مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِنْ كُنْتُمْ صَادِقِينَ
+<li> وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ
+<li> قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
+<li> يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ
+<li>  فَإِذَا قُضِيَتِ الصَّلَاةُ فَانْتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِنْ فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ
+<li>  وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا ۚ قُلْ مَا عِنْدَ اللَّهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِ ۚ وَاللَّهُ خَيْرُ الرَّازِقِينَ`,
+        //english
+        'eng': `
+<li> Yusabbihu lilaahi maa fis samaawaati wa maa fil ardil Malikil Quddoosil 'Azeezil Hakeem
+<li> Huwal lazee ba'asa fil ummiyyeena Rasoolam min hum yatloo 'alaihim aayaatihee wa yuzakkeehim wa yu'allimuhumul Kitaaba wal Hikmata wa in kaanoo min qablu lafee dalaalim mubeen
+<li> Wa aakhareena minhum lammaa yalhaqoo bihim wa huwal 'azeezul hakeem
+<li> Zaalika fadlul laahi yu'teehi many-yashaaa; wallaahu zul fadlil 'azeem
+<li> Masalul lazeena hum milut tawraata summa lam yahmiloohaa kamasalil himaari yah milu asfaaraa; bi'sa masalul qawmil lazeena kaazzaboo bi aayaatil laah; wallaahu laa yahdil qawmazzaalimeen
+<li> Qul yaaa ayyuhal lazeena haadoo in za'amtum annakum awliyaaa'u lilaahi min doonin naasi fatamannawul mawta in kuntum saadiqeen
+<li> Wa laa yatamannaw nahooo abadam bimaa qaddamat aydeehim; wallaahu 'aleemum biz zaalimeen
+<li> Qul innal mawtal lazee tafirroona minhu fa innahoo mulaaqeekum summa turaddoona ilaa 'Aalimil Ghaibi wash shahaadati fa yunabbi'ukum bimaa kuntum ta'maloon
+<li> Yaaa ayyuhal lazeena aamanoo izaa noodiya lis-Salaati miny yawmil Jumu'ati fas'aw ilaa zikril laahi wa zarul bai'; zaalikum khayrul lakum in kuntum ta'lamoon
+<li> Fa-izaa qudiyatis Salaatu fantashiroo fil ardi wabtaghoo min fadlil laahi wazkurul laaha kaseeral la'allakum tuflihoon
+<li> Wa izaa ra'aw tijaaratan aw lahwanin faddooo ilaihaa wa tarakooka qaaa'imaa; qul maa 'indal laahi khairum minal lahwi wa minat tijaarah; wallaahu khayrur raaziqeen`,
+        //trans
+        'translation':`
+<li> Whatever is in the heavens and on earth, doth declare the Praises and Glory of Allah,- the Sovereign, the Holy One, the Exalted in Might, the Wise.
+<li> It is He Who has sent amongst the Unlettered a messenger from among themselves, to rehearse to them His Signs, to sanctify them, and to instruct them in Scripture and Wisdom,- although they had been, before, in manifest error;-
+<li> As well as (to confer all these benefits upon) others of them, who have not already joined them: And He is exalted in Might, Wise.
+<li> Such is the Bounty of Allah, which He bestows on whom He will: and Allah is the Lord of the highest bounty.
+<li> The similitude of those who were charged with the (obligations of the) Mosaic Law, but who subsequently failed in those (obligations), is that of a donkey which carries huge tomes (but understands them not). Evil is the similitude of people who falsify the Signs of Allah: and Allah guides not people who do wrong.
+<li> Say: "O ye that stand on Judaism! If ye think that ye are friends to Allah, to the exclusion of (other) men, then express your desire for Death, if ye are truthful!"
+<li> But never will they express their desire (for Death), because of the (deeds) their hands have sent on before them! and Allah knows well those that do wrong!
+<li> Say: "The Death from which ye flee will truly overtake you: then will ye be sent back to the Knower of things secret and open: and He will tell you (the truth of) the things that ye did!"
+<li> O ye who believe! When the call is proclaimed to prayer on Friday (the Day of Assembly), hasten earnestly to the Remembrance of Allah, and leave off business (and traffic): That is best for you if ye but knew!
+<li> And when the Prayer is finished, then may ye disperse through the land, and seek of the Bounty of Allah: and celebrate the Praises of Allah often (and without stint): that ye may prosper.
+<li> But when they see some bargain or some amusement, they disperse headlong to it, and leave thee standing. Say: "The (blessing) from the Presence of Allah is better than any amusement or bargain! and Allah is the Best to provide (for all needs)."`
+    },
+    //63
+    {
+            'arb':`
+<li> إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ ۗ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ
+<li> اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ ۚ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ
+<li> ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ
+<li> وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَاتَلَهُمُ اللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ
+<li> وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ لَوَّوْا رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُمْ مُسْتَكْبِرُونَ
+<li> سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَنْ يَغْفِرَ اللَّهُ لَهُمْ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
+<li> هُمُ الَّذِينَ يَقُولُونَ لَا تُنْفِقُوا عَلَىٰ مَنْ عِنْدَ رَسُولِ اللَّهِ حَتَّىٰ يَنْفَضُّوا ۗ وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ
+<li> يَقُولُونَ لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ ۚ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ
+<li> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ
+<li>  وَأَنْفِقُوا مِنْ مَا رَزَقْنَاكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ أَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَىٰ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُنْ مِنَ الصَّالِحِينَ
+<li>  وَلَنْ يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا ۚ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ`,
+            //english
+            'eng': `
+<li> Izaa jaaa'akal munaafiqoona qaaloo nashhadu innaka la rasoolul laah; wallaahu ya'lamu innaka la rasooluhoo wallaahu yashhadu innal munaafiqeena lakaaziboon
+<li> Ittakhazoo aymaanahum junnatan fasaddoo 'an sabeelil laah; innahum saaa'a maa kaanoo ya'maloon
+<li> Zaalika bi annahum aamanoo summa kafaroo fatubi'a 'alaa quloobihim fahum laa yafqahoon
+<li> Wa izaa ra aytahum tu'jibuka ajsaamuhum wa iny yaqooloo tasma' liqawlihim ka'annahum khushubum musannadah; yahsaboona kulla saihatin 'alaihim; humul 'aduwwu fahzarhum; qaatalahumul laahu annaa yu'fakoon
+<li> Wa izaa qeela lahum ta'aalaw yastaghfir lakum rasoolul laahi lawwaw ru'oo sahum wa ra aytahum yasuddoona wa hum mustakbiroon
+<li> Sawaaa'un 'alaihim as taghfarta lahum am lam tastaghfir lahum lany yaghfiral laahu lahum; innal laaha laa yahdil qawmal faasiqeen
+<li> Humul lazeena yaqooloona laa tunfiqoo 'alaa man inda Rasoolil laahi hatta yanfaddoo; wa lillaahi khazaaa' inus samaawaati wal ardi wa laakinnal munaafiqeena la yafqahoon
+<li> Yaqooloona la'ir raja'naaa ilal madeenati la yukhrijannal a'azzu minhal azall; wa lillaahil 'izzatu wa li Rasoolihee wa lilmu'mineena wa laakinnal munaafiqeena laa ya'lamoon
+<li> Yaaa ayyuhal lazeena aamanoo la tulhikum amwaalukum wa laa awlaadukum 'anzikril laah; wa mai-yaf'al zaalika fa-ulaaa'ika humul khaasiroon
+<li> Wa anfiqoo mim maa razaqnaakum min qabli any-ya'tiya ahadakumul mawtu fa yaqoola rabbi law laaa akhkhartaneee ilaaa ajalin qareebin fa assaddaqa wa akum minassaaliheen
+<li> Wa lany yu 'akhkhiral laahu nafsan izaa jaaa'a ajaluhaa; wallaahu khabeerum bimaa ta'maloon`,
+            //trans
+            'translation':`
+<li> When the Hypocrites come to thee, they say, "We bear witness that thou art indeed the Messenger of Allah." Yea, Allah knoweth that thou art indeed His Messenger, and Allah beareth witness that the Hypocrites are indeed liars.
+<li> They have made their oaths a screen (for their misdeeds): thus they obstruct (men) from the Path of Allah: truly evil are their deeds.
+<li> That is because they believed, then they rejected Faith: So a seal was set on their hearts: therefore they understand not.
+<li> When thou lookest at them, their exteriors please thee; and when they speak, thou listenest to their words. They are as (worthless as hollow) pieces of timber propped up, (unable to stand on their own). They think that every cry is against them. They are the enemies; so beware of them. The curse of Allah be on them! How are they deluded (away from the Truth)!
+<li> And when it is said to them, "Come, the Messenger of Allah will pray for your forgiveness", they turn aside their heads, and thou wouldst see them turning away their faces in arrogance.
+<li> It is equal to them whether thou pray for their forgiveness or not. Allah will not forgive them. Truly Allah guides not rebellious transgressors.
+<li> They are the ones who say, "Spend nothing on those who are with Allah�s Messenger, to the end that they may disperse (and quit Medina)." But to Allah belong the treasures of the heavens and the earth; but the Hypocrites understand not.
+<li> They say, "If we return to Medina, surely the more honourable (element) will expel therefrom the meaner." But honour belongs to Allah and His Messenger, and to the Believers; but the Hypocrites know not.
+<li> O ye who believe! Let not your riches or your children divert you from the remembrance of Allah. If any act thus, the loss is their own.
+<li> and spend something (in charity) out of the substance which We have bestowed on you, before Death should come to any of you and he should say, "O my Lord! why didst Thou not give me respite for a little while? I should then have given (largely) in charity, and I should have been one of the doers of good".
+<li> But to no soul will Allah grant respite when the time appointed (for it) has come; and Allah is well acquainted with (all) that ye do.`
+    },
+    //64
+    {
+        'arb':`
+        <li> يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+        <li> هُوَ الَّذِي خَلَقَكُمْ فَمِنْكُمْ كَافِرٌ وَمِنْكُمْ مُؤْمِنٌ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+        <li> خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ الْمَصِيرُ
+        <li> يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ ۚ وَاللَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
+        <li> أَلَمْ يَأْتِكُمْ نَبَأُ الَّذِينَ كَفَرُوا مِنْ قَبْلُ فَذَاقُوا وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+        <li> ذَٰلِكَ بِأَنَّهُ كَانَتْ تَأْتِيهِمْ رُسُلُهُمْ بِالْبَيِّنَاتِ فَقَالُوا أَبَشَرٌ يَهْدُونَنَا فَكَفَرُوا وَتَوَلَّوْا ۚ وَاسْتَغْنَى اللَّهُ ۚ وَاللَّهُ غَنِيٌّ حَمِيدٌ
+        <li> زَعَمَ الَّذِينَ كَفَرُوا أَنْ لَنْ يُبْعَثُوا ۚ قُلْ بَلَىٰ وَرَبِّي لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ
+        <li> فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنْزَلْنَا ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+        <li> يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ۖ ذَٰلِكَ يَوْمُ التَّغَابُنِ ۗ وَمَنْ يُؤْمِنْ بِاللَّهِ وَيَعْمَلْ صَالِحًا يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ
+        <li>  وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ النَّارِ خَالِدِينَ فِيهَا ۖ وَبِئْسَ الْمَصِيرُ
+        <li>  مَا أَصَابَ مِنْ مُصِيبَةٍ إِلَّا بِإِذْنِ اللَّهِ ۗ وَمَنْ يُؤْمِنْ بِاللَّهِ يَهْدِ قَلْبَهُ ۚ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ
+        <li>  وَأَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ ۚ فَإِنْ تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ
+        <li>  اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
+        <li>  يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ وَأَوْلَادِكُمْ عَدُوًّا لَكُمْ فَاحْذَرُوهُمْ ۚ وَإِنْ تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
+        <li>  إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ ۚ وَاللَّهُ عِنْدَهُ أَجْرٌ عَظِيمٌ
+        <li>  فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوا وَأَطِيعُوا وَأَنْفِقُوا خَيْرًا لِأَنْفُسِكُمْ ۗ وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
+        <li>  إِنْ تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ ۚ وَاللَّهُ شَكُورٌ حَلِيمٌ
+        <li>  عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الْحَكِيمُ`,
+         //english
+        'eng': `<li>Yusabbihu lillaahi maa fis samaawaati wa maa fil ardi lahul mulku wa lahul hamd, wa Huwa 'alaa kulli shai 'in Qadeer
+        <li> Huwal lazee khalaqakum faminkum kaafirunw wa min kum mu'min ; wallaahu bimaa ta'maloona Baseer
+        <li> Khalaqas samaawaati wal arda bilhaqqi wa sawwarakum fa ahsana suwarakum wa ilaihil maseer
+        <li> Ya'lamu maa fis samaawaati wal ardi wa ya'lamu maa tusirroona wa maa tu'linoon; wallaahu 'Aleemum bizaatis sudoor
+        <li> Alam ya'tikum naba'ul lazeena kafaroo min qablu fazaaqoo wabaala amrihim wa lahum 'azaabun aleem
+        <li> Zaalika bi annahoo kaanat ta'teehim  Rusuluhum bilbaiyinaati faqaaloo a basharuny yahdoonanaa fakafaroo  wa tawallaw; wastaghnal laah; wallaahu ghaniyyun hameed
+        <li> Za'amal lazeena kafarooo al-lany yub'asoo; qul balaa wa rabbee latub'asunna summa latunabba'unna bimaa 'amiltum; wa zaalika 'alal laahi yaseer
+        <li> Fa-aaminoo billaahi wa rasoolihee wannooril lazeee anzalnaa; wallaahu bima ta'maloona khabeer
+        <li> Yawma yajma'ukum li yawmil jam'i zaalika yawmut taghaabun; wa many-yumim billaahi wa ya'mal saalihany yukaffir 'anhu sayyi aatihee wa yudkhilhu jannaatin tajree min tahtihal anhaaru khaalideena feehaaa abadaa; zaalikal fawzul 'azeem
+        <li> Wallazeena kafaroo wa kazzaboo bi aayaaatinaaa ulaaa'ika ashaabun naari khaalideena feehaa wa bi'sal maseer
+        <li> Maaa asaaba mim musee batin illaa bi-iznil laah; wa many yu'mim billaahi yahdi qalbah; wallaahu bikulli shai'in Aleem
+        <li> Wa atee'ul laaha wa atee'ur Rasool; fa in tawallaitum fa innamaa 'alaa Rasoolinal balaaghul mubeen
+        <li> Allaahu laaa ilaaha illaa Hoo; wa 'alal laahi falyata wakkalil mu'minoon
+        <li> Yaaa ayyuhal lazeena aamanooo inna min azwaaji kum wa awlaadikum 'aduwwal lakum fahzaroohum; wa in ta'foo wa tasfahoo wa taghfiroo fa innal laaha ghafoorur Raheem
+        <li> Innamaa amwaalukum wa awlaadukum fitnah; wallaahu 'indahooo ajrun 'azeem
+        <li> Fattaqul laaha mastata'tum wasma'oo wa atee'oo wa anfiqoo khairal li anfusikum; wa many-yooqa shuh ha nafsihee fa-ulaaa'ika humul muflihoon
+        <li> In tuqridul laaha qardan hasanany yudaaifhu lakum wa yaghfir lakum; wallaahu Shakoorun Haleem
+        <li> 'Aalimul-Ghaibi wash-shahaadatil 'Azeezul Hakeem`,
+     //trans
+        'translation':`Whatever is in the heavens and on earth, doth declare the Praises and Glory of Allah: to Him belongs dominion, and to Him belongs praise: and He has power over all things.
+        <li> It is He Who has created you; and of you are some that are Unbelievers, and some that are Believers: and Allah sees well all that ye do.
+        <li> He has created the heavens and the earth in just proportions, and has given you shape, and made your shapes beautiful: and to Him is the final Goal.
+        <li> He knows what is in the heavens and on earth; and He knows what ye conceal and what ye reveal: yea, Allah knows well the (secrets) of (all) hearts.
+        <li> Has not the story reached you, of those who rejected Faith aforetime? So they tasted the evil result of their conduct; and they had a grievous Penalty.
+        <li> That was because there came to them messengers with Clear Signs, but they said: "Shall (mere) human beings direct us?" So they rejected (the Message) and turned away. But Allah can do without (them): and Allah is free of all needs, worthy of all praise.
+        <li> The Unbelievers think that they will not be raised up (for Judgment). Say: "Yea, By my Lord, Ye shall surely be raised up: then shall ye be told (the truth) of all that ye did. And that is easy for Allah."
+        <li> Believe, therefore, in Allah and His Messenger, and in the Light which we have sent down. And Allah is well acquainted with all that ye do.
+        <li> The Day that He assembles you (all) for a Day of Assembly,- that will be a Day of mutual loss and gain (among you), and those who believe in Allah and work righteousness,- He will remove from them their ills, and He will admit them to Gardens beneath which Rivers flow, to dwell therein for ever: that will be the Supreme Achievement.
+        <li> But those who reject Faith and treat Our Signs as falsehoods, they will be Companions of the Fire, to dwell therein for aye: and evil is that Goal.
+        <li> No kind of calamity can occur, except by the leave of Allah: and if any one believes in Allah, (Allah) guides his heart (aright): for Allah knows all things.
+        <li> So obey Allah, and obey His Messenger: but if ye turn back, the duty of Our Messenger is but to proclaim (the Message) clearly and openly.
+        <li> Allah! There is no god but He: and on Allah, therefore, let the Believers put their trust.
+        <li> O ye who believe! Truly, among your wives and your children are (some that are) enemies to yourselves: so beware of them! But if ye forgive and overlook, and cover up (their faults), verily Allah is Oft-Forgiving, Most Merciful.
+        <li> Your riches and your children may be but a trial: but in the Presence of Allah, is the highest, Reward.
+        <li> So fear Allah as much as ye can; listen and obey and spend in charity for the benefit of your own soul and those saved from the covetousness of their own souls,- they are the ones that achieve prosperity.
+        <li> If ye loan to Allah, a beautiful loan, He will double it to your (credit), and He will grant you Forgiveness: for Allah is most Ready to appreciate (service), Most Forbearing,-
+        <li> Knower of what is open, Exalted in Might, Full of Wisdom.`
+    },
+    //65
+    {
+        'arb':`
+        <li> يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا الْعِدَّةَ ۖ وَاتَّقُوا اللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَقَدْ ظَلَمَ نَفْسَهُ ۚ لَا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا
+        <li> فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِ مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا
+        <li> وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ ۚ إِنَّ اللَّهَ بَالِغُ أَمْرِهِ ۚ قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا
+        <li> وَاللَّائِي يَئِسْنَ مِنَ الْمَحِيضِ مِنْ نِسَائِكُمْ إِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَاثَةُ أَشْهُرٍ وَاللَّائِي لَمْ يَحِضْنَ ۚ وَأُولَاتُ الْأَحْمَالِ أَجَلُهُنَّ أَنْ يَضَعْنَ حَمْلَهُنَّ ۚ وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مِنْ أَمْرِهِ يُسْرًا
+        <li> ذَٰلِكَ أَمْرُ اللَّهِ أَنْزَلَهُ إِلَيْكُمْ ۚ وَمَنْ يَتَّقِ اللَّهَ يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُعْظِمْ لَهُ أَجْرًا
+        <li> أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنْتُمْ مِنْ وُجْدِكُمْ وَلَا تُضَارُّوهُنَّ لِتُضَيِّقُوا عَلَيْهِنَّ ۚ وَإِنْ كُنَّ أُولَاتِ حَمْلٍ فَأَنْفِقُوا عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ ۚ فَإِنْ أَرْضَعْنَ لَكُمْ فَآتُوهُنَّ أُجُورَهُنَّ ۖ وَأْتَمِرُوا بَيْنَكُمْ بِمَعْرُوفٍ ۖ وَإِنْ تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُ أُخْرَىٰ
+        <li> لِيُنْفِقْ ذُو سَعَةٍ مِنْ سَعَتِهِ ۖ وَمَنْ قُدِرَ عَلَيْهِ رِزْقُهُ فَلْيُنْفِقْ مِمَّا آتَاهُ اللَّهُ ۚ لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا مَا آتَاهَا ۚ سَيَجْعَلُ اللَّهُ بَعْدَ عُسْرٍ يُسْرًا
+        <li> وَكَأَيِّنْ مِنْ قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِ فَحَاسَبْنَاهَا حِسَابًا شَدِيدًا وَعَذَّبْنَاهَا عَذَابًا نُكْرًا
+        <li> فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَاقِبَةُ أَمْرِهَا خُسْرًا
+        <li>  أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ فَاتَّقُوا اللَّهَ يَا أُولِي الْأَلْبَابِ الَّذِينَ آمَنُوا ۚ قَدْ أَنْزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا
+        <li>  رَسُولًا يَتْلُو عَلَيْكُمْ آيَاتِ اللَّهِ مُبَيِّنَاتٍ لِيُخْرِجَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنَ الظُّلُمَاتِ إِلَى النُّورِ ۚ وَمَنْ يُؤْمِنْ بِاللَّهِ وَيَعْمَلْ صَالِحًا يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ قَدْ أَحْسَنَ اللَّهُ لَهُ رِزْقًا
+        <li>  اللَّهُ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ وَمِنَ الْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ الْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوا أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ وَأَنَّ اللَّهَ قَدْ أَحَاطَ بِكُلِّ شَيْءٍ عِلْمًا`,
+            //english
+            'eng': `Yaaa ayyuhan nabiyyu izaa tallaqtummun nisaaa'a fatalliqoohunna li'iddatihinna wa ahsul'iddata wattaqul laaha rabbakum; laa tukhri joohunna min bu-yootihinna wa laa yakhrujna illaaa any ya'teena bifaahishatim mubaiyinah; wa tilka hudoodul laah; wa many yata'adda hudoodal laahi faqad zalama nafsah; laa tadree la'allal laaha yuhdisu ba'dazaalika amraa
+        <li> Fa izaa balaghna ajalahunna fa amsikoohunna bima'roofin aw faariqoohunna bima'roofinw wa ashhidoo zawai 'adlim minkum wa aqeemush shahaadata lillaah; zaalikum yoo'azu bihee man kaana yu'minu billaahi wal yawmil aakhir; wa many yattaqil laaha yaj'al lahoo makhrajaa
+        <li> Wa yarzuqhu min haisu laa yahtasib; wa many yatawakkal 'alal laahi fahuwa hasbuh; innal laaha baalighu amrih; qad ja'alal laahu likulli shai'in qadraa
+        <li> Wallaaa'ee ya'isna minal maheedi min nisaaa 'ikum inir tabtum fa'iddatuhunna salaasatu ashhurinw wallaaa'ee lam yahidn; wa ulaatul ahmaali ajaluhunna any yada'na hamlahun; wa many yattaqil laaha yaj'al lahoo min amrihee yusraa
+        <li> Zaalika amrul laahi anzalahoo ilaikum; wa many yattaqil laaha yukaffir 'anhu saiyi aatihee wa yu'zim lahoo ajraa
+        <li> Askinoohunna min haisu sakantum minw wujdikum wa laa tudaaarroohunna litudaiyiqoo 'alaihinn; wa in kunna ulaati hamlin fa anfiqoo 'alaihinna hattaa yada'na hamlahunn; fain arda'na lakum fa aatoo hunna ujoorahunn; wa'tamiroo bainakum bima'roofinw wa in ta'aasartum fasaturdi'u lahooo ukhraa
+        <li> Liyunfiq zoo sa'atim min sa'atih; wa man qudira 'alaihi rizquhoo falyunfiq mimmaaa aataahul laah; laa yukalliful laahu nafsan illaa maaa aataahaa; sa yaj'alul laahu ba'da'usriny yusraa
+        <li> Wa ka ayyim min qaryatin 'atat 'an amri Rabbihaa wa Rusulihee fahaasabnaahaa hisaaban shadeedanw wa 'azzabnaahaa 'azaaban nukraa
+        <li> Fazaaqat wabbala amrihaa wa kaana 'aaqibatu amrihaa khusraa
+        <li> A'addal laahu lahum 'azaaban shadeedan fattaqul laaha yaaa ulil albaab, allazeena aammanoo; qad anzalal laahu ilaikum zikraa
+        <li> Rasoolany yatloo 'alaikum aayaatil laahi mubaiyinaatil liyukhrijal lazeena aamanoo wa 'amilus saalihaati minaz zulumaati ilan noor; wa many yu'min billaahi wa ya'mal saalihany yudkhilhu jannaatin tajree min tahtihal anhaaru khaalideena feehaa abadaa qad ahsanal laahu lahoo rizqaa
+        <li> Allaahul lazee khalaqa Sab'a Samaawaatinw wa minal ardi mislahunna yatanazzalul amru bainahunna lita'lamooo annal laaha 'alaa kulli shai'in Qadeerunw wa annal laaha qad ahaata bikulli shai'in 'ilmaa`,
+            //trans
+            'translation':`<li>O Prophet! When ye do divorce women, divorce them at their prescribed periods, and count (accurately), their prescribed periods: And fear Allah your Lord: and turn them not out of their houses, nor shall they (themselves) leave, except in case they are guilty of some open lewdness, those are limits set by Allah: and any who transgresses the limits of Allah, does verily wrong his (own) soul: thou knowest not if perchance Allah will bring about thereafter some new situation.
+        <li> Thus when they fulfil their term appointed, either take them back on equitable terms or part with them on equitable terms; and take for witness two persons from among you, endued with justice, and establish the evidence (as) before Allah. Such is the admonition given to him who believes in Allah and the Last Day. And for those who fear Allah, He (ever) prepares a way out,
+        <li> And He provides for him from (sources) he never could imagine. And if any one puts his trust in Allah, sufficient is (Allah) for him. For Allah will surely accomplish his purpose: verily, for all things has Allah appointed a due proportion.
+        <li> Such of your women as have passed the age of monthly courses, for them the prescribed period, if ye have any doubts, is three months, and for those who have no courses (it is the same): for those who carry (life within their wombs), their period is until they deliver their burdens: and for those who fear Allah, He will make their path easy.
+        <li> That is the Command of Allah, which He has sent down to you: and if any one fears Allah, He will remove his ills, from him, and will enlarge his reward.
+        <li> Let the women live (in �iddat) in the same style as ye live, according to your means: Annoy them not, so as to restrict them. And if they carry (life in their wombs), then spend (your substance) on them until they deliver their burden: and if they suckle your (offspring), give them their recompense: and take mutual counsel together, according to what is just and reasonable. And if ye find yourselves in difficulties, let another woman suckle (the child) on the (father�s) behalf.
+        <li> Let the man of means spend according to his means: and the man whose resources are restricted, let him spend according to what Allah has given him. Allah puts no burden on any person beyond what He has given him. After a difficulty, Allah will soon grant relief.
+        <li> How many populations that insolently opposed the Command of their Lord and of His messengers, did We not then call to account,- to severe account?- and We imposed on them an exemplary Punishment.
+        <li> Then did they taste the evil result of their conduct, and the End of their conduct was Perdition.
+        <li> Allah has prepared for them a severe Punishment (in the Hereafter). Therefore fear Allah, O ye men of understanding - who have believed!- for Allah hath indeed sent down to you a Message,-
+        <li> An Messenger, who rehearses to you the Signs of Allah containing clear explanations, that he may lead forth those who believe and do righteous deeds from the depths of Darkness into Light. And those who believe in Allah and work righteousness, He will admit to Gardens beneath which Rivers flow, to dwell therein for ever: Allah has indeed granted for them a most excellent Provision.
+        <li> Allah is He Who created seven Firmaments and of the earth a similar number. Through the midst of them (all) descends His Command: that ye may know that Allah has power over all things, and that Allah comprehends, all things in (His) Knowledge.`
+    },
+    //66
+    {
+            'arb':`
+        <li> يا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ ۖ تَبْتَغِي مَرْضَاتَ أَزْوَاجِكَ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ
+        <li> قدْ فَرَضَ اللَّهُ لَكُمْ تَحِلَّةَ أَيْمَانِكُمْ ۚ وَاللَّهُ مَوْلَاكُمْ ۖ وَهُوَ الْعَلِيمُ الْحَكِيمُ
+        <li> وإِذْ أَسَرَّ النَّبِيُّ إِلَىٰ بَعْضِ أَزْوَاجِهِ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِ وَأَظْهَرَهُ اللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُ وَأَعْرَضَ عَنْ بَعْضٍ ۖ فَلَمَّا نَبَّأَهَا بِهِ قَالَتْ مَنْ أَنْبَأَكَ هَٰذَا ۖ قَالَ نَبَّأَنِيَ الْعَلِيمُ الْخَبِيرُ
+        <li> إنْ تَتُوبَا إِلَى اللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَإِنْ تَظَاهَرَا عَلَيْهِ فَإِنَّ اللَّهَ هُوَ مَوْلَاهُ وَجِبْرِيلُ وَصَالِحُ الْمُؤْمِنِينَ ۖ وَالْمَلَائِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ
+        <li> عسَىٰ رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ مُسْلِمَاتٍ مُؤْمِنَاتٍ قَانِتَاتٍ تَائِبَاتٍ عَابِدَاتٍ سَائِحَاتٍ ثَيِّبَاتٍ وَأَبْكَارًا
+        <li> يا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ شِدَادٌ لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ
+        <li> يا أَيُّهَا الَّذِينَ كَفَرُوا لَا تَعْتَذِرُوا الْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ
+        <li> يا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً نَصُوحًا عَسَىٰ رَبُّكُمْ أَنْ يُكَفِّرَ عَنْكُمْ سَيِّئَاتِكُمْ وَيُدْخِلَكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ يَوْمَ لَا يُخْزِي اللَّهُ النَّبِيَّ وَالَّذِينَ آمَنُوا مَعَهُ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَانِهِمْ يَقُولُونَ رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+        <li> يا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمَصِيرُ
+        <li> ضَرَبَ اللَّهُ مَثَلًا لِلَّذِينَ كَفَرُوا امْرَأَتَ نُوحٍ وَامْرَأَتَ لُوطٍ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَالِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ اللَّهِ شَيْئًا وَقِيلَ ادْخُلَا النَّارَ مَعَ الدَّاخِلِينَ
+        <li> وَضَرَبَ اللَّهُ مَثَلًا لِلَّذِينَ آمَنُوا امْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ابْنِ لِي عِنْدَكَ بَيْتًا فِي الْجَنَّةِ وَنَجِّنِي مِنْ فِرْعَوْنَ وَعَمَلِهِ وَنَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ
+        <li> وَمَرْيَمَ ابْنَتَ عِمْرَانَ الَّتِي أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِنْ رُوحِنَا وَصَدَّقَتْ بِكَلِمَاتِ رَبِّهَا وَكُتُبِهِ وَكَانَتْ مِنَ الْقَانِتِينَ`,
+        //english
+        'eng': `
+        <li> Yaaa ayyuhan nabiyyu lima tuharrimu maaa ahallal laahu laka tabtaghee mardaata azwaajik; wallaahu ghafoorur raheem
+        <li> Qad faradal laahu lakum tahillata aymaanikum; wallaahu mawlaakum wa huwal 'aleemul hakeem
+        <li> Wa iz asarran nabiyyu ilaa ba'di azwaajihee hadeesan falammaa nabba at bihee wa azharahul laahu 'alaihi 'arrafa ba'dahoo wa a'rada 'am ba'din falammaa nabba ahaa bihee qaalat man amba aka haaza qaala nabba aniyal 'aleemul khabeer
+        <li> In tatoobaaa ilal laahi faqad saghat quloobukumaa wa in tazaaharaa 'alaihi fa innal laaha huwa mawlaahu wa jibreelu wa saalihul mu'mineen; wal malaaa'ikatu ba'da zaalika zaheer
+        <li> 'Asaa rabbuhooo in tallaqakunna anyyubdilahooo azwaajan khairam minkunna muslimaatim mu'minaatin qaanitaatin taaa'ibaatin 'aabidaatin saaa'ihaatin saiyibaatinw wa abkaaraa
+        <li> Yaaa ayyuhal lazeena aamanoo qooo anfusakum wa ahleekum naaranw waqoodu han naasu wal hijaaratu 'alaihaa malaaa'ikatun ghilaazun shidaadul laa ya'soonal laaha maa amarahum wa yaf'aloona maa yu'maroon
+        <li> Yaaa ayyuhal lazeena kafaroo la ta'tazirul yawma innamaa tujzawna maa kuntum ta'maloon
+        <li> Yaaa ayyuhal lazeena aamanoo toobooo ilal laahi tawbatan nasoohan 'asaa rabbukum any-yukaffira 'ankum sayyi aatikum wa yudkhilakum jannaatin tajree min tahtihal anhaaru yawma laa yukhzil laahun nabiyya wallazeena aamanoo ma'ahoo nooruhum yas'aa baina aydeehim wa bi aymaanihim yaqooloona rabbanaaa atmim lanaa nooranaa waghfir lana innaka 'alaa kulli shai'in qadeer
+        <li> Yaaa ayyuhan nabiyyu jaahidil kuffaara walmunaa-fiqeena waghluz 'alaihim; wa ma'waahum jahannamu wa bi'sal maseer
+        <li> Darabal laahu masalal lillazeena kafarum ra ata Noohinw wamra ata Loot, kaanataa tahta 'abdaini min 'ibaadinaa saalihaini fakhaanataahumaa falam yughniyaa 'anhumaa minal laahi shai anw-wa qeelad khulan naara ma'ad Daakhileen
+        <li> Wa darabal laahu masalal lil lezeena aamanumra ata Fir'awn; iz qaalat rab bibni lee 'indaka baitan fil jannati wa najjinee min Fir'awna wa 'amalihee wa najjinee minal qawmiz zaalimeen
+        <li> Wa Maryamab nata 'Imraanal lateee ahsanat farjahaa fanafakhnaa feehee mir roohinaa wa saddaqat bi kalimaati Rabbihaa wa Kutubihee wakaanat minal qaaniteen (End Juz 28)`,
+            //trans
+            'translation':`
+        <li> O Prophet! Why holdest thou to be forbidden that which Allah has made lawful to thee? Thou seekest to please thy consorts. But Allah is Oft-Forgiving, Most Merciful.
+        <li> Allah has already ordained for you, (O men), the dissolution of your oaths (in some cases): and Allah is your Protector, and He is Full of Knowledge and Wisdom.
+        <li> When the Prophet disclosed a matter in confidence to one of his consorts, and she then divulged it (to another), and Allah made it known to him, he confirmed part thereof and repudiated a part. Then when he told her thereof, she said, "Who told thee this? "He said, "He told me Who knows and is well-acquainted (with all things)."
+        <li> If ye two turn in repentance to Him, your hearts are indeed so inclined; But if ye back up each other against him, truly Allah is his Protector, and Gabriel, and (every) righteous one among those who believe,- and furthermore, the angels - will back (him) up.
+        <li> It may be, if he divorced you (all), that Allah will give him in exchange consorts better than you,- who submit (their wills), who believe, who are devout, who turn to Allah in repentance, who worship (in humility), who travel (for Faith) and fast,- previously married or virgins.
+        <li> O ye who believe! save yourselves and your families from a Fire whose fuel is Men and Stones, over which are (appointed) angels stern (and) severe, who flinch not (from executing) the Commands they receive from Allah, but do (precisely) what they are commanded.
+        <li> (They will say), "O ye Unbelievers! Make no excuses this Day! Ye are being but requited for all that ye did!"
+        <li> O ye who believe! Turn to Allah with sincere repentance: In the hope that your Lord will remove from you your ills and admit you to Gardens beneath which Rivers flow,- the Day that Allah will not permit to be humiliated the Prophet and those who believe with him. Their Light will run forward before them and by their right hands, while they say, "Our Lord! Perfect our Light for us, and grant us Forgiveness: for Thou hast power over all things."
+        <li> O Prophet! Strive hard against the Unbelievers and the Hypocrites, and be firm against them. Their abode is Hell,- an evil refuge (indeed).
+        <li> Allah sets forth, for an example to the Unbelievers, the wife of Noah and the wife of Lut: they were (respectively) under two of our righteous servants, but they were false to their (husbands), and they profited nothing before Allah on their account, but were told: "Enter ye the Fire along with (others) that enter!"
+        <li> And Allah sets forth, as an example to those who believe the wife of Pharaoh: Behold she said: "O my Lord! Build for me, in nearness to Thee, a mansion in the Garden, and save me from Pharaoh and his doings, and save me from those that do wrong";
+        <li> And Mary the daughter of �Imran, who guarded her chastity; and We breathed into (her body) of Our spirit; and she testified to the truth of the words of her Lord and of His Revelations, and was one of the devout (servants).`
+    },
+    //67
+    {
+        'arb':`
+        <li> تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+        <li> الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ
+        <li> الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا ۖ مَا تَرَىٰ فِي خَلْقِ الرَّحْمَٰنِ مِنْ تَفَاوُتٍ ۖ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِنْ فُطُورٍ
+        <li> ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنْقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ
+        <li> وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُجُومًا لِلشَّيَاطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ
+        <li> وَلِلَّذِينَ كَفَرُوا بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ الْمَصِيرُ
+        <li> إِذَا أُلْقُوا فِيهَا سَمِعُوا لَهَا شَهِيقًا وَهِيَ تَفُورُ
+        <li> تَكَادُ تَمَيَّزُ مِنَ الْغَيْظِ ۖ كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ نَذِيرٌ
+        <li> قَالُوا بَلَىٰ قَدْ جَاءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللَّهُ مِنْ شَيْءٍ إِنْ أَنْتُمْ إِلَّا فِي ضَلَالٍ كَبِيرٍ
+        <li>  وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ
+        <li>  فَاعْتَرَفُوا بِذَنْبِهِمْ فَسُحْقًا لِأَصْحَابِ السَّعِيرِ
+        <li>  إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
+        <li>  وَأَسِرُّوا قَوْلَكُمْ أَوِ اجْهَرُوا بِهِ ۖ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
+        <li>  أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ
+        <li>  هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي مَنَاكِبِهَا وَكُلُوا مِنْ رِزْقِهِ ۖ وَإِلَيْهِ النُّشُورُ
+        <li>  أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِيَ تَمُورُ
+        <li>  أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ
+        <li>  وَلَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
+        <li>  أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا الرَّحْمَٰنُ ۚ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ
+        <li>  أَمَّنْ هَٰذَا الَّذِي هُوَ جُنْدٌ لَكُمْ يَنْصُرُكُمْ مِنْ دُونِ الرَّحْمَٰنِ ۚ إِنِ الْكَافِرُونَ إِلَّا فِي غُرُورٍ
+        <li>  أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ ۚ بَلْ لَجُّوا فِي عُتُوٍّ وَنُفُورٍ
+        <li>  أَفَمَنْ يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّنْ يَمْشِي سَوِيًّا عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ
+        <li>  قُلْ هُوَ الَّذِي أَنْشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۖ قَلِيلًا مَا تَشْكُرُونَ
+        <li>  قُلْ هُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
+        <li>  وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ
+        <li>  قُلْ إِنَّمَا الْعِلْمُ عِنْدَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُبِينٌ
+        <li>  فَلَمَّا رَأَوْهُ زُلْفَةً سِيئَتْ وُجُوهُ الَّذِينَ كَفَرُوا وَقِيلَ هَٰذَا الَّذِي كُنْتُمْ بِهِ تَدَّعُونَ
+        <li>  قُلْ أَرَأَيْتُمْ إِنْ أَهْلَكَنِيَ اللَّهُ وَمَنْ مَعِيَ أَوْ رَحِمَنَا فَمَنْ يُجِيرُ الْكَافِرِينَ مِنْ عَذَابٍ أَلِيمٍ
+        <li>  قُلْ هُوَ الرَّحْمَٰنُ آمَنَّا بِهِ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِي ضَلَالٍ مُبِينٍ
+        <li>  قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ بِمَاءٍ مَعِينٍ`,
+            //english
+            'eng': `
+        <li> Tabaarakal lazee biyadihil mulku wa huwa 'alaa kulli shai-in qadeer
+        <li> Allazee khalaqal mawta walhayaata liyabluwakum ayyukum ahsanu 'amalaa; wa huwal 'azeezul ghafoor
+        <li> Allazee khalaqa sab'a samaawaatin tibaaqam maa taraa fee khalqir rahmaani min tafaawut farji'il basara hal taraa min futoor
+        <li> Summar ji'il basara karrataini yanqalib ilaikal basaru khaasi'anw wa huwa haseer
+        <li> Wa laqad zaiyannas samaaa'ad dunyaa bimasaa beeha wa ja'alnaahaa rujoomal lish shayaateeni wa a'tadnaa lahum 'azaabas sa'eer
+        <li> Wa lillazeena kafaroo bi rabbihim 'azaabu jahannama wa bi'sal maseer
+        <li> Izaaa ulqoo feehaa sami'oo lahaa shaheeqanw wa hiya tafoor
+        <li> Takaadu tamayyazu minal ghaizz kullamaaa ulqiya feehaa fawjun sa alahum khazanatuhaaa alam ya'tikum nazeer
+        <li> Qaaloo balaa qad jaaa'anaa nazeerun fakazzabnaa wa qulnaa maa nazzalal laahu min shai in in antum illaa fee dalaalin kabeer
+        <li> Wa qaaloo law kunnaa nasma'u awna'qilu maa kunnaa feee as haabis sa'eer
+        <li> Fa'tarafoo bizambihim fasuhqal li as haabis sa'eer
+        <li> Innal lazeena yakhshawna rabbahum bilghaibi lahum maghfiratunw wa ajrun kabeer
+        <li> Wa asirroo qawlakum awijharoo bih; innahoo 'aleemum bizaatis sudoor
+        <li> Alaa ya'lamu man khalaqa wa huwal lateeful khabeer
+        <li> Huwal lazee ja'ala lakumul arda zaloolan famshoo fee manaakibihaa wa kuloo mir rizqih; wa ilaihin nushoor
+        <li> 'A-amintum man fissamaaa'i aiyakhsifa bi kumul arda fa izaa hiya tamoor
+        <li> Am amintum man fissamaaa'i ai yursila 'alaikum haasiban fasata'lamoona kaifa nazeer
+        <li> Wa laqad kazzabal lazeena min qablihim fakaifa kaana nakeer
+        <li> Awalam yaraw ilat tairi fawqahum saaaffaatinw wa yaqbidn; maa yumsikuhunna il'lar rahmaan; innahoo bikulli shai in baseer
+        <li> Amman haazal lazee huwa jundul lakum yansurukum min doonir rahmaan; inilkaafiroona illaa fee ghuroor
+        <li> Amman haazal lazee yarzuqukum in amsaka rizqah; bal lajjoo fee 'utuwwinw wa nufoor
+        <li> Afamai yamshee mukibban 'alaa wajhihee ahdaaa ammany yamshee sawiyyan 'alaa siratim mustaqeem
+        <li> Qul huwal lazee ansha akum wa ja'ala lakumus sam'a wal absaara wal af'idata qaleelam maa tashkuroon
+        <li> Qul huwal lazee zara akum fil ardi wa ilaihi tuhsharoon
+        <li> Wa yaqooloona mataa haazal wa'du in kuntum saadiqeen
+        <li> Qul innamal 'ilmu 'indallaahi wa innamaaa ana nazeerum mubeen
+        <li> Falammaa ra-awhu zulfatan seee'at wujoohul lazeena kafaroo wa qeela haazal lazee kuntum bihee tadda'oon
+        <li> Qul ara'aytum in ahlaka niyal laahu wa mam ma'iya aw rahimanaa famai-yujeerul kaafireena min 'azaabin aleem
+        <li> Qul huwar rahmaanu aamannaa bihee wa 'alaihi tawakkalnaa fasata'lamoona man huwa fee dalaalim mubeen
+        <li> Qul ara'aytum in asbaha maaa'ukum ghawran famai ya'teekum bimaaa'im ma'een`,
+            //trans
+            'translation':`
+        <li> Blessed be He in Whose hands is Dominion; and He over all things hath Power;-
+        <li> He Who created Death and Life, that He may try which of you is best in deed: and He is the Exalted in Might, Oft-Forgiving;-
+        <li> He Who created the seven heavens one above another: No want of proportion wilt thou see in the Creation of (Allah) Most Gracious. So turn thy vision again: seest thou any flaw?
+        <li> Again turn thy vision a second time: (thy) vision will come back to thee dull and discomfited, in a state worn out.
+        <li> And we have, (from of old), adorned the lowest heaven with Lamps, and We have made such (Lamps) (as) missiles to drive away the Evil Ones, and have prepared for them the Penalty of the Blazing Fire.
+        <li> For those who reject their Lord (and Cherisher) is the Penalty of Hell: and evil is (such), Destination.
+        <li> When they are cast therein, they will hear the (terrible) drawing in of its breath even as it blazes forth,
+        <li> Almost bursting with fury: Every time a Group is cast therein, its Keepers will ask, "Did no Warner come to you?"
+        <li> They will say: "Yes indeed; a Warner did come to us, but we rejected him and said, �Allah never sent down any (Message): ye are nothing but an egregious delusion!�"
+        <li> They will further say: "Had we but listened or used our intelligence, we should not (now) be among the Companions of the Blazing Fire!"
+        <li> They will then confess their sins: but far will be (Forgiveness) from the Companions of the Blazing Fire!
+        <li> As for those who fear their Lord unseen, for them is Forgiveness and a great Reward.
+        <li> And whether ye hide your word or publish it, He certainly has (full) knowledge, of the secrets of (all) hearts.
+        <li> Should He not know,- He that created? and He is the One that understands the finest mysteries (and) is well-acquainted (with them).
+        <li> It is He Who has made the earth manageable for you, so traverse ye through its tracts and enjoy of the Sustenance which He furnishes: but unto Him is the Resurrection.
+        <li> Do ye feel secure that He Who is in heaven will not cause you to be swallowed up by the earth when it shakes (as in an earthquake)?
+        <li> Or do ye feel secure that He Who is in Heaven will not send against you a violent tornado (with showers of stones), so that ye shall know how (terrible) was My warning?
+        <li> But indeed men before them rejected (My warning): then how (terrible) was My rejection (of them)?
+        <li> Do they not observe the birds above them, spreading their wings and folding them in? None can uphold them except (Allah) Most Gracious: Truly (Allah) Most Gracious: Truly it is He that watches over all things.
+        <li> Nay, who is there that can help you, (even as) an army, besides (Allah) Most Merciful? In nothing but delusion are the Unbelievers.
+        <li> Or who is there that can provide you with Sustenance if He were to withhold His provision? Nay, they obstinately persist in insolent impiety and flight (from the Truth).
+        <li> Is then one who walks headlong, with his face grovelling, better guided,- or one who walks evenly on a Straight Way?
+        <li> Say: "It is He Who has created you (and made you grow), and made for you the faculties of hearing, seeing, feeling and understanding: little thanks it is ye give.
+        <li> Say: "It is He Who has multiplied you through the earth, and to Him shall ye be gathered together."
+        <li> They ask: When will this promise be (fulfilled)? - If ye are telling the truth.
+        <li> Say: "As to the knowledge of the time, it is with Allah alone: I am (sent) only to warn plainly in public."
+        <li> At length, when they see it close at hand, grieved will be the faces of the Unbelievers, and it will be said (to them): "This is (the promise fulfilled), which ye were calling for!"
+        <li> Say: "See ye?- If Allah were to destroy me, and those with me, or if He bestows His Mercy on us,- yet who can deliver the Unbelievers from a grievous Penalty?"
+        <li> Say: "He is (Allah) Most Gracious: We have believed in Him, and on Him have we put our trust: So, soon will ye know which (of us) it is that is in manifest error."
+        <li> Say: "See ye?- If your stream be some morning lost (in the underground earth), who then can supply you with clear-flowing water?"`
+    },
+    //68
+    {
+        'arb':`
+        <li>ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ
+        <li>مَا أَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ
+        <li>وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ
+        <li>وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ
+        <li>فَسَتُبْصِرُ وَيُبْصِرُونَ
+        <li>بِأَيْيِكُمُ الْمَفْتُونُ
+        <li>إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
+        <li>فَلَا تُطِعِ الْمُكَذِّبِينَ
+        <li>وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ
+        <li> وَلَا تُطِعْ كُلَّ حَلَّافٍ مَهِينٍ
+        <li> هَمَّازٍ مَشَّاءٍ بِنَمِيمٍ
+        <li> مَنَّاعٍ لِلْخَيْرِ مُعْتَدٍ أَثِيمٍ
+        <li> عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ
+        <li> أَنْ كَانَ ذَا مَالٍ وَبَنِينَ
+        <li> إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ
+        <li> سَنَسِمُهُ عَلَى الْخُرْطُومِ
+        <li> إِنَّا بَلَوْنَاهُمْ كَمَا بَلَوْنَا أَصْحَابَ الْجَنَّةِ إِذْ أَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِحِينَ
+        <li> وَلَا يَسْتَثْنُونَ
+        <li> فَطَافَ عَلَيْهَا طَائِفٌ مِنْ رَبِّكَ وَهُمْ نَائِمُونَ
+        <li> فَأَصْبَحَتْ كَالصَّرِيمِ
+        <li> فَتَنَادَوْا مُصْبِحِينَ
+        <li> أَنِ اغْدُوا عَلَىٰ حَرْثِكُمْ إِنْ كُنْتُمْ صَارِمِينَ
+        <li> فَانْطَلَقُوا وَهُمْ يَتَخَافَتُونَ
+        <li> أَنْ لَا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُمْ مِسْكِينٌ
+        <li> وَغَدَوْا عَلَىٰ حَرْدٍ قَادِرِينَ
+        <li> فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ
+        <li> بَلْ نَحْنُ مَحْرُومُونَ
+        <li> قَالَ أَوْسَطُهُمْ أَلَمْ أَقُلْ لَكُمْ لَوْلَا تُسَبِّحُونَ
+        <li> قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ
+        <li> فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَاوَمُونَ
+        <li> قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا طَاغِينَ
+        <li> عَسَىٰ رَبُّنَا أَنْ يُبْدِلَنَا خَيْرًا مِنْهَا إِنَّا إِلَىٰ رَبِّنَا رَاغِبُونَ
+        <li> كَذَٰلِكَ الْعَذَابُ ۖ وَلَعَذَابُ الْآخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا يَعْلَمُونَ
+        <li> إِنَّ لِلْمُتَّقِينَ عِنْدَ رَبِّهِمْ جَنَّاتِ النَّعِيمِ
+        <li> أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ
+        <li> مَا لَكُمْ كَيْفَ تَحْكُمُونَ
+        <li> أَمْ لَكُمْ كِتَابٌ فِيهِ تَدْرُسُونَ
+        <li> إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ
+        <li> أَمْ لَكُمْ أَيْمَانٌ عَلَيْنَا بَالِغَةٌ إِلَىٰ يَوْمِ الْقِيَامَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ
+        <li> سَلْهُمْ أَيُّهُمْ بِذَٰلِكَ زَعِيمٌ
+        <li> أَمْ لَهُمْ شُرَكَاءُ فَلْيَأْتُوا بِشُرَكَائِهِمْ إِنْ كَانُوا صَادِقِينَ
+        <li> يَوْمَ يُكْشَفُ عَنْ سَاقٍ وَيُدْعَوْنَ إِلَى السُّجُودِ فَلَا يَسْتَطِيعُونَ
+        <li> خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا يُدْعَوْنَ إِلَى السُّجُودِ وَهُمْ سَالِمُونَ
+        <li> فَذَرْنِي وَمَنْ يُكَذِّبُ بِهَٰذَا الْحَدِيثِ ۖ سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لَا يَعْلَمُونَ
+        <li> وَأُمْلِي لَهُمْ ۚ إِنَّ كَيْدِي مَتِينٌ
+        <li> أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ
+        <li> أَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ
+        <li> فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُنْ كَصَاحِبِ الْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
+        <li> لَوْلَا أَنْ تَدَارَكَهُ نِعْمَةٌ مِنْ رَبِّهِ لَنُبِذَ بِالْعَرَاءِ وَهُوَ مَذْمُومٌ
+        <li> فَاجْتَبَاهُ رَبُّهُ فَجَعَلَهُ مِنَ الصَّالِحِينَ
+        <li> وَإِنْ يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُولُونَ إِنَّهُ لَمَجْنُونٌ
+        <li> وَمَا هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ`,
+        //english
+        'eng': `
+        <li>Noon; walqalami wa maa yasturoon
+        <li>Maa anta bini'mati Rabbika bimajnoon
+        <li>Wa inna laka la ajran ghaira mamnoon
+        <li>Wa innaka la'alaa khuluqin 'azeem
+        <li>Fasatubsiru wa yubsiroon
+        <li>Bi ayyikumul maftoon
+        <li>Innaa Rabbaka Huwa a'lamu biman dalla 'an sabeelihee wa Huwa a'lamu bilmuhtadeen
+        <li>Falaa tuti'il mukazzibeen
+        <li>Waddoo law tudhinu fa-yudhinoon
+        <li>Wa laa tuti' kulla hallaa fim maheen
+        <li>Hammaazim mash shaaa'im binameem
+        <li>Mannaa'il lilkhairi mu'tadin aseem
+        <li>'Utullim ba'da zaalika zaneem
+        <li>An kaana zaa maalinw-wa baneen
+        <li>Izaa tutlaa 'alaihi aayaatunaa qaala asaateerul awwaleen
+        <li>Sanasimuhoo 'alal khurtoom
+        <li>Innaa balawnaahum kamaa balawnaaa As-haabal jannati iz 'aqsamoo la-yasri munnahaa musbiheen
+        <li>Wa laa yastasnoon
+        <li>Fataafa 'alaihaa taaa'i fum mir rabbika wa hum naaa'imoon
+        <li>Fa asbahat kassareem
+        <li>Fatanaadaw musbiheen
+        <li>Anighdoo 'alaa harsikum in kuntum saarimeen
+        <li>Fantalaqoo wa hum yatakhaafatoon
+        <li>Al laa yadkhulannahal yawma 'alaikum miskeen
+        <li>Wa ghadaw 'alaa hardin qaadireen
+        <li>Falammaa ra awhaa qaalooo innaa ladaaalloon
+        <li>Bal nahnu mahroomoon
+        <li>Qaala awsatuhum alam aqul lakum law laa tusabbihoon
+        <li>Qaaloo subhaana rabbinaaa innaa kunnaa zaalimeen
+        <li>Fa aqbala ba'duhum 'alaa ba'diny yatalaawamoon
+        <li>Qaaloo yaa wailanaaa innaa kunnaa taagheen
+        <li>'Asaa rabbunaaa any yubdilanaa khairam minhaaa innaaa ilaa rabbinaa raaghiboon
+        <li>Kazaalikal azaab, wa la'azaabul aakhirati akbar; law kaanoo ya'lamoon
+        <li>Inna lilmuttaqeena 'inda rabbihim jannaatin na'eem
+        <li>Afanaj'alul muslimeena kalmujrimeen
+        <li>Maa lakum kaifa tahkumoon
+        <li>Am lakum kitaabun feehi tadrusoon
+        <li>Inna lakum feehi lamaa takhaiyaroon
+        <li>Am lakum aymaanun 'alainaa baalighatun ilaa yawmil qiyaamati inna lakum lamaa tahkumoon
+        <li>Salhum ayyuhum bizaa lika za'eem
+        <li>Am lahum shurakaaa'u fal ya'too bishurakaaa 'ihim in kaanoo saadiqeen
+        <li>Yawma yukshafu 'an saaqinw wa yud'awna ilas sujoodi falaa yastatee'oon
+        <li>Khaashi'atan absaaruhum tarhaquhum zillatunw wa qad kaanoo yud'awna ilassujoodi wa hum saalimoon
+        <li>Fazarnee wa many yukazzibu bihaazal hadeesi sanastad rijuhum min haisu laa ya'lamoon
+        <li>Wa umlee lahum; inna kaidee mateen
+        <li>Am tas'aluhum ajran fahum min maghramin musqaloon
+        <li>Am 'indahumul ghaibu fahum yaktuboon
+        <li>Fasbir lihukmi rabbika wa laa takun kasaahibil hoot; iz naadaa wa huwa makzoom
+        <li>Law laaa an tadaara kahoo ni'matum mir rabbihee lanubiza bil'araaa'i wa huwa mazmoom
+        <li>Fajtabaahu rabbuhoo faja'alahoo minas saaliheen
+        <li>Wa iny-yakaadul lazeena kafaroo la-yuzliqoonaka biabsaarihim lammaa sami'uz-Zikra wa yaqooloona innahoo lamajnoon
+        <li>Wa maa huwa illaa zikrul lil'aalameen`,
+            //trans
+            'translation':`
+        <li>Nun. By the Pen and the (Record) which (men) write,-
+        <li>Thou art not, by the Grace of thy Lord, mad or possessed.
+        <li>Nay, verily for thee is a Reward unfailing:
+        <li>And thou (standest) on an exalted standard of character.
+        <li>Soon wilt thou see, and they will see,
+        <li>Which of you is afflicted with madness.
+        <li>Verily it is thy Lord that knoweth best, which (among men) hath strayed from His Path: and He knoweth best those who receive (true) Guidance.
+        <li>So hearken not to those who deny (the Truth).
+        <li>Their desire is that thou shouldst be pliant: so would they be pliant.
+        <li>Heed not the type of despicable men,- ready with oaths,
+        <li>A slanderer, going about with calumnies,
+        <li>(Habitually) hindering (all) good, transgressing beyond bounds, deep in sin,
+        <li>Violent (and cruel),- with all that, base-born,-
+        <li>Because he possesses wealth and (numerous) sons.
+        <li>When to him are rehearsed Our Signs, "Tales of the ancients", he cries!
+        <li>Soon shall We brand (the beast) on the snout!
+        <li>Verily We have tried them as We tried the People of the Garden, when they resolved to gather the fruits of the (garden) in the morning.
+        <li>But made no reservation, ("If it be Allah�s Will").
+        <li>Then there came on the (garden) a visitation from thy Lord, (which swept away) all around, while they were asleep.
+        <li>So the (garden) became, by the morning, like a dark and desolate spot, (whose fruit had been gathered).
+        <li>As the morning broke, they called out, one to another,-
+        <li>"Go ye to your tilth (betimes) in the morning, if ye would gather the fruits."
+        <li>So they departed, conversing in secret low tones, (saying)-
+        <li>"Let not a single indigent person break in upon you into the (garden) this day."
+        <li>And they opened the morning, strong in an (unjust) resolve.
+        <li>But when they saw the (garden), they said: "We have surely lost our way:
+        <li>"Indeed we are shut out (of the fruits of our labour)!"
+        <li>Said one of them, more just (than the rest): "Did I not say to you, �Why not glorify (Allah)?�"
+        <li>They said: "Glory to our Lord! Verily we have been doing wrong!"
+        <li>Then they turned, one against another, in reproach.
+        <li>They said: "Alas for us! We have indeed transgressed!
+        <li>"It may be that our Lord will give us in exchange a better (garden) than this: for we do turn to Him (in repentance)!"
+        <li>Such is the Punishment (in this life); but greater is the Punishment in the Hereafter,- if only they knew!
+        <li>Verily, for the Righteous, are Gardens of Delight, in the Presence of their Lord.
+        <li>Shall We then treat the People of Faith like the People of Sin?
+        <li>What is the matter with you? How judge ye?
+        <li>Or have ye a book through which ye learn-
+        <li>That ye shall have, through it whatever ye choose?
+        <li>Or have ye Covenants with Us to oath, reaching to the Day of Judgment, (providing) that ye shall have whatever ye shall demand?
+        <li>Ask thou of them, which of them will stand surety for that!
+        <li>Or have they some "Partners" (in Allahhead)? Then let them produce their "partners", if they are truthful!
+        <li>The Day that the shin shall be laid bare, and they shall be summoned to bow in adoration, but they shall not be able,-
+        <li>Their eyes will be cast down,- ignominy will cover them; seeing that they had been summoned aforetime to bow in adoration, while they were whole, (and had refused).
+        <li>Then leave Me alone with such as reject this Message: by degrees shall We punish them from directions they perceive not.
+        <li>A (long) respite will I grant them: truly powerful is My Plan.
+        <li>Or is it that thou dost ask them for a reward, so that they are burdened with a load of debt?-
+        <li>Or that the Unseen is in their hands, so that they can write it down?
+        <li>So wait with patience for the Command of thy Lord, and be not like the Companion of the Fish,- when he cried out in agony.
+        <li>Had not Grace from his Lord reached him, he would indeed have been cast off on the naked shore, in disgrace.
+        <li>Thus did his Lord choose him and make him of the Company of the Righteous.
+        <li>And the Unbelievers would almost trip thee up with their eyes when they hear the Message; and they say: "Surely he is possessed!"
+        <li>But it is nothing less than a Message to all the worlds.
+        `
+    },
+    //69
+    {
+        'arb':`
+    <li>    لْحَاقَّةُ
+    <li>    ما الْحَاقَّةُ
+    <li>    ومَا أَدْرَاكَ مَا الْحَاقَّةُ
+    <li>    كذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ
+    <li>    فأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ
+    <li>    وأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ
+    <li>    سخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ
+    <li>    فهَلْ تَرَىٰ لَهُمْ مِنْ بَاقِيَةٍ
+    <li>    وجَاءَ فِرْعَوْنُ وَمَنْ قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ
+    <li>    فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَابِيَةً
+    <li>    إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ
+    <li>    لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ
+    <li>    فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ
+    <li>    وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً
+    <li>    فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ
+    <li>    وَانْشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ
+    <li>    وَالْمَلَكُ عَلَىٰ أَرْجَائِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ
+    <li>    يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنْكُمْ خَافِيَةٌ
+    <li>    فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ اقْرَءُوا كِتَابِيَهْ
+    <li>    إِنِّي ظَنَنْتُ أَنِّي مُلَاقٍ حِسَابِيَهْ
+    <li>    فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ
+    <li>    فِي جَنَّةٍ عَالِيَةٍ
+    <li>    قُطُوفُهَا دَانِيَةٌ
+    <li>    كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ
+    <li>    وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي لَمْ أُوتَ كِتَابِيَهْ
+    <li>    وَلَمْ أَدْرِ مَا حِسَابِيَهْ
+    <li>    يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ
+    <li>    مَا أَغْنَىٰ عَنِّي مَالِيَهْ ۜ
+    <li>    هَلَكَ عَنِّي سُلْطَانِيَهْ
+    <li>    خُذُوهُ فَغُلُّوهُ
+    <li>    ثُمَّ الْجَحِيمَ صَلُّوهُ
+    <li>    ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ
+    <li>    إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ
+    <li>    وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ
+    <li>    فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ
+    <li>    وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ
+    <li>    لَا يَأْكُلُهُ إِلَّا الْخَاطِئُونَ
+    <li>    فَلَا أُقْسِمُ بِمَا تُبْصِرُونَ
+    <li>    وَمَا لَا تُبْصِرُونَ
+    <li>    إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ
+    <li>    وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَا تُؤْمِنُونَ
+    <li>    وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَا تَذَكَّرُونَ
+    <li>    تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ
+    <li>    وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْأَقَاوِيلِ
+    <li>    لَأَخَذْنَا مِنْهُ بِالْيَمِينِ
+    <li>    ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ
+    <li>    فَمَا مِنْكُمْ مِنْ أَحَدٍ عَنْهُ حَاجِزِينَ
+    <li>    وَإِنَّهُ لَتَذْكِرَةٌ لِلْمُتَّقِينَ
+    <li>    وَإِنَّا لَنَعْلَمُ أَنَّ مِنْكُمْ مُكَذِّبِينَ
+    <li>    وَإِنَّهُ لَحَسْرَةٌ عَلَى الْكَافِرِينَ
+    <li>    وَإِنَّهُ لَحَقُّ الْيَقِينِ
+    <li>    فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ`,
+           //english
+            'eng': `<li>Al haaaqqah
+    <li>    Mal haaaqqah
+    <li>    Wa maaa adraaka mal haaaqqah
+    <li>    Kazzabat samoodu wa 'Aadum bil qaari'ah
+    <li>    Fa-ammaa Samoodu fa uhlikoo bittaaghiyah
+    <li>    Wa ammaa 'Aadun fa uhlikoo bi reehin sarsarin 'aatiyah
+    <li>    Sakkhara haa 'alaihim sab'a la yaalinw wa samaaniyata ayyaamin husooman fataral qawma feehaa sar'aa ka annahum a'jaazu nakhlin khaawiyah
+    <li>    Fahal taraa lahum min baaqiyah
+    <li>    Wa jaaa'a Firawnu wa man qablahoo wal mu'tafikaatu bil khaati'ah
+    <li>    Fa 'asaw Rasoola Rabbihim fa akhazahum akhzatar raabiyah
+    <li>    Innaa lammaa taghal maaa'u hamalnaakum fil jaariyah
+    <li>    Li naj'alahaa lakum tazki ratanw-wa ta'iyahaa uzununw waa'iyah
+    <li>    Fa izaa nufikha fis soori nafkhatunw waahidah
+    <li>    Wa humilatil ardu wal jibaalu fadukkataa dakkatanw waahidah
+    <li>    Fa yawma'izinw waqa'atil waaqi'ah
+    <li>    Wanshaqqatis samaaa'u fahiya yawma 'izinw-waahiyah
+    <li>    Wal malaku 'alaaa arjaaa'ihaa; wa yahmilu 'Arsha Rabbika fawqahum yawma'izin samaaniyah
+    <li>    Yawma'izin tu'radoona laa takhfaa min kum khaafiyah
+    <li>    Fa ammaa man ootiya kitaabahoo biyameenihee fa yaqoolu haaa'umuq ra'oo kitaabiyah
+    <li>    Innee zannantu annee mulaaqin hisaabiyah
+    <li>    Fahuwa fee 'eeshatir raadiyah
+    <li>    Fee jannnatin 'aaliyah
+    <li>    Qutoofuhaa daaniyah
+    <li>    Kuloo washraboo haneee'am bimaaa aslaftum fil ayyaamil khaliyah
+    <li>    Wa ammaa man ootiya kitaabahoo bishimaalihee fa yaqoolu yaalaitanee lam oota kitaaabiyah
+    <li>    Wa lam adri maa hisaabiyah
+    <li>    Yaa laitahaa kaanatil qaadiyah
+    <li>    Maaa aghnaa 'annee maaliyah
+    <li>    Halaka 'annee sultaaniyah
+    <li>    Khuzoohu faghullooh
+    <li>    Summal Jaheema sallooh
+    <li>    Summa fee silsilatin zar'uhaa sab'oona ziraa'an faslukooh
+    <li>    Innahoo kaana laa yu'minu billaahil 'Azeem
+    <li>    Wa laa yahuddu 'alaa ta'aamil miskeen
+    <li>    Falaysa lahul yawma haahunaa hameem
+    <li>    Wa laa ta'aamun illaa min ghisleen
+    <li>    Laa ya'kuluhooo illal khaati'oon
+    <li>    Falaaa uqsimu bimaa tubsiroon
+    <li>    Wa maa laa tubsiroon
+    <li>    Innahoo laqawlu Rasoolin kareem
+    <li>    Wa maa huwa biqawli shaa'ir; qaleelan maa tu'minoon
+    <li>    Wa laa biqawli kaahin; qaleelan maa tazakkaroon
+    <li>    Tanzeelum mir rabbil 'aalameen
+    <li>    Wa law taqawwala 'alainaa ba'dal aqaaweel
+    <li>    La-akhaznaa minhu bilyameen
+    <li>    Summa laqata'naa minhul wateen
+    <li>    Famaa minkum min ahadin'anhu haajizeen
+    <li>    Wa innahoo latazkiratul lilmuttaqeen
+    <li>    Wa inna lana'lamu anna minkum mukazzibeen
+    <li>    Wa innahu lahasratun 'alal kaafireen
+    <li>    Wa innahoo lahaqqul yaqeen
+    <li>    Fassabbih bismi Rabbikal 'Azeem`,
+            //trans
+            'translation':`<li>The Sure Reality!
+    <li>    What is the Sure Reality?
+    <li>    And what will make thee realise what the Sure Reality is?
+    <li>    The Thamud and the �Ad People (branded) as false the Stunning Calamity!
+    <li>    But the Thamud,- they were destroyed by a terrible Storm of thunder and lightning!
+    <li>    And the �Ad, they were destroyed by a furious Wind, exceedingly violent;
+    <li>    He made it rage against them seven nights and eight days in succession: so that thou couldst see the (whole) people lying prostrate in its (path), as they had been roots of hollow palm-trees tumbled down!
+    <li>    Then seest thou any of them left surviving?
+    <li>    And Pharaoh, and those before him, and the Cities Overthrown, committed habitual Sin.
+    <li>    And disobeyed (each) the messenger of their Lord; so He punished them with an abundant Penalty.
+    <li>    We, when the water (of Noah�s Flood) overflowed beyond its limits, carried you (mankind), in the floating (Ark),
+    <li>    That We might make it a Message unto you, and that ears (that should hear the tale and) retain its memory should bear its (lessons) in remembrance.
+    <li>    Then, when one blast is sounded on the Trumpet,
+    <li>    And the earth is moved, and its mountains, and they are crushed to powder at one stroke,-
+    <li>    On that Day shall the (Great) Event come to pass.
+    <li>    And the sky will be rent asunder, for it will that Day be flimsy,
+    <li>    And the angels will be on its sides, and eight will, that Day, bear the Throne of thy Lord above them.
+    <li>    That Day shall ye be brought to Judgment: not an act of yours that ye hide will be hidden.
+    <li>    Then he that will be given his Record in his right hand will say: "Ah here! Read ye my Record!
+    <li>    "I did really understand that my Account would (One Day) reach me!"
+    <li>    And he will be in a life of Bliss,
+    <li>    In a Garden on high,
+    <li>    The Fruits whereof (will hang in bunches) low and near.
+    <li>    "Eat ye and drink ye, with full satisfaction; because of the (good) that ye sent before you, in the days that are gone!"
+    <li>    And he that will be given his Record in his left hand, will say: "Ah! Would that my Record had not been given to me!
+    <li>    "And that I had never realised how my account (stood)!
+    <li>    "Ah! Would that (Death) had made an end of me!
+    <li>    "Of no profit to me has been my wealth!
+    <li>    "My power has perished from me!"...
+    <li>    (The stern command will say): "Seize ye him, and bind ye him,
+    <li>    "And burn ye him in the Blazing Fire.
+    <li>    "Further, make him march in a chain, whereof the length is seventy cubits!
+    <li>    "This was he that would not believe in Allah Most High.
+    <li>    "And would not encourage the feeding of the indigent!
+    <li>    "So no friend hath he here this Day.
+    <li>    "Nor hath he any food except the corruption from the washing of wounds,
+    <li>    "Which none do eat but those in sin."
+    <li>    So I do call to witness what ye see,
+    <li>    And what ye see not,
+    <li>    That this is verily the word of an honoured messenger;
+    <li>    It is not the word of a poet: little it is ye believe!
+    <li>    Nor is it the word of a soothsayer: little admonition it is ye receive.
+    <li>    (This is) a Message sent down from the Lord of the Worlds.
+    <li>    And if the messenger were to invent any sayings in Our name,
+    <li>    We should certainly seize him by his right hand,
+    <li>    And We should certainly then cut off the artery of his heart:
+    <li>    Nor could any of you withhold him (from Our wrath).
+    <li>    But verily this is a Message for the Allah-fearing.
+    <li>    And We certainly know that there are amongst you those that reject (it).
+    <li>    But truly (Revelation) is a cause of sorrow for the Unbelievers.
+    <li>    But verily it is Truth of assured certainty.
+    <li>    So glorify the name of thy Lord Most High.`
+    },
+    //70
+    {
+        'arb':`
+        <li>سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ
+        <li>لِلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ
+        <li>مِنَ اللَّهِ ذِي الْمَعَارِجِ
+        <li>تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+        <li>فَاصْبِرْ صَبْرًا جَمِيلًا
+        <li>إِنَّهُمْ يَرَوْنَهُ بَعِيدًا
+        <li>وَنَرَاهُ قَرِيبًا
+        <li>يَوْمَ تَكُونُ السَّمَاءُ كَالْمُهْلِ
+        <li>وَتَكُونُ الْجِبَالُ كَالْعِهْنِ
+        <li> وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا
+        <li> يُبَصَّرُونَهُمْ ۚ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ
+        <li> وَصَاحِبَتِهِ وَأَخِيهِ
+        <li> وَفَصِيلَتِهِ الَّتِي تُؤْوِيهِ
+        <li> وَمَنْ فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنْجِيهِ
+        <li> كَلَّا ۖ إِنَّهَا لَظَىٰ
+        <li> نَزَّاعَةً لِلشَّوَىٰ
+        <li> تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّىٰ
+        <li> وَجَمَعَ فَأَوْعَىٰ
+        <li> إِنَّ الْإِنْسَانَ خُلِقَ هَلُوعًا
+        <li> إِذَا مَسَّهُ الشَّرُّ جَزُوعًا
+        <li> وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا
+        <li> إِلَّا الْمُصَلِّينَ
+        <li> الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَائِمُونَ
+        <li> وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَعْلُومٌ
+        <li> لِلسَّائِلِ وَالْمَحْرُومِ
+        <li> وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ
+        <li> وَالَّذِينَ هُمْ مِنْ عَذَابِ رَبِّهِمْ مُشْفِقُونَ
+        <li> إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ
+        <li> وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ
+        <li> إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ
+        <li> فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ
+        <li> وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
+        <li> وَالَّذِينَ هُمْ بِشَهَادَاتِهِمْ قَائِمُونَ
+        <li> وَالَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ
+        <li> أُولَٰئِكَ فِي جَنَّاتٍ مُكْرَمُونَ
+        <li> فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ
+        <li> عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ
+        <li> أَيَطْمَعُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُدْخَلَ جَنَّةَ نَعِيمٍ
+        <li> كَلَّا ۖ إِنَّا خَلَقْنَاهُمْ مِمَّا يَعْلَمُونَ
+        <li> فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ
+        <li> عَلَىٰ أَنْ نُبَدِّلَ خَيْرًا مِنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ
+        <li> فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ
+        <li> يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ
+        <li> خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ الْيَوْمُ الَّذِي كَانُوا يُوعَدُونَ`,
+        //english
+        'eng': `
+        <li> Sa'ala saaa'ilun bi 'azaabinw waaqi'
+        <li> Lil kaafireena laisa lahoo daafi'
+        <li> Minal laahi zil ma'aarij
+        <li> Ta'rujul malaaa'ikatu war Roohu ilaihi fee yawmin kaana miqdaaruhoo khamseena alfa sanah
+        <li> Fasbir sabran jameelaa
+        <li> Inaahum yarawnahoo ba'eedaa
+        <li> Wa naraahu qareebaa
+        <li> Yawma takoonus samaaa'u kalmuhl
+        <li> Wa takoonul jibaalu kal'ihn
+        <li> Wa laa yas'alu hameemun hameemaa
+        <li> Yubassaroonahum; ya waddul mujrimu law yaftadee min 'azaabi yawma'izim bibaneeh
+        <li> Wa saahibatihee wa akheeh
+        <li> Wa faseelathil latee tu'weeh
+        <li> Wa man fil ardi jamee'an summa yunjeeh
+        <li> Kallaa innahaa lazaa
+        <li> Nazzaa'atal lishshawaa
+        <li> Tad'oo man adbara wa tawallaa
+        <li> Wa jama'a fa aw'aa
+        <li> Innal insaana khuliqa haloo'aa
+        <li> Izaa massahush sharru jazoo'aa
+        <li> Wa izaa massahul khairu manoo'aa
+        <li> Illal musalleen
+        <li> Allazeena hum 'alaa Salaatihim daaa'imoon
+        <li> Wallazeena feee amwaalihim haqqun ma'loom
+        <li> Lissaaa 'ili walmahroom
+        <li> Wallazeena yusaddiqoona bi yawmid Deen
+        <li> Wallazeena hum min 'azaabi Rabbihim mushfiqoon
+        <li> Inna 'azaaba Rabbihim ghairu ma' moon
+        <li> Wallazeena hum li furoojihim haafizoon
+        <li> Illaa 'alaaa azwaajihim aw maa malakat aymaanuhum fa innahum ghairu maloomeen
+        <li> Famanib taghaa waraaa'a zaalika fa ulaaa'ika humul 'aadoon
+        <li> Wallazeena hum li amaanaatihim wa 'ahdihim raa'oon
+        <li> Wallazeena hum bi shahaadaatihim qaaa'imoon
+        <li> Wallazeena hum 'alaa salaatihim yuhaafizoon
+        <li> Ulaaa'ika fee jannaatim mukramoon
+        <li> Famaa lil lazeena kafaroo qibalaka muhti'een
+        <li> 'Anil yameeni wa 'anish shimaali 'izeen
+        <li> Ayatma'u kullum ri'im minhum anyyudkhala jannata Na'eem
+        <li> Kallaaa innaa khalaq nahum mimmaa ya'lamoon
+        <li> Falaaa uqsimu bi Rabbil mashaariqi wal maghaaribi innaa laqaadiroon
+        <li> 'Alaaa an nubaddila khairan minhum wa maa nahnu bi masbooqeen
+        <li> Fazarhum yakhoodoo wa yal'aboo hattaa yulaaqoo yawma humul lazee yoo'adoon
+        <li> Yawma yakhrujoona minal ajdaasi siraa'an ka anna hum ilaa nusubiny yoofidoon
+        <li> Khaashi'atan absaaruhum tarhaquhum zillah; zaalikal yawmul lazee kaanoo yoo'adoon`,
+            //trans
+            'translation':`
+        <li> A questioner asked about a Penalty to befall-
+        <li> The Unbelievers, the which there is none to ward off,-
+        <li> (A Penalty) from Allah, Lord of the Ways of Ascent.
+        <li> The angels and the spirit ascend unto him in a Day the measure whereof is (as) fifty thousand years:
+        <li> Therefore do thou hold Patience,- a Patience of beautiful (contentment).
+        <li> They see the (Day) indeed as a far-off (event):
+        <li> But We see it (quite) near.
+        <li> The Day that the sky will be like molten brass,
+        <li> And the mountains will be like wool,
+        <li> And no friend will ask after a friend,
+        <li> Though they will be put in sight of each other,- the sinner�s desire will be: Would that he could redeem himself from the Penalty of that Day by (sacrificing) his children,
+        <li> His wife and his brother,
+        <li> His kindred who sheltered him,
+        <li> And all, all that is on earth,- so it could deliver him:
+        <li> By no means! for it would be the Fire of Hell!-
+        <li> Plucking out (his being) right to the skull!-
+        <li> Inviting (all) such as turn their backs and turn away their faces (from the Right).
+        <li> And collect (wealth) and hide it (from use)!
+        <li> Truly man was created very impatient;-
+        <li> Fretful when evil touches him;
+        <li> And niggardly when good reaches him;-
+        <li> Not so those devoted to Prayer;-
+        <li> Those who remain steadfast to their prayer;
+        <li> And those in whose wealth is a recognised right.
+        <li> For the (needy) who asks and him who is prevented (for some reason from asking);
+        <li> And those who hold to the truth of the Day of Judgment;
+        <li> And those who fear the displeasure of their Lord,-
+        <li> For their Lord�s displeasure is the opposite of Peace and Tranquillity;-
+        <li> And those who guard their chastity,
+        <li> Except with their wives and the (captives) whom their right hands possess,- for (then) they are not to be blamed,
+        <li> But those who trespass beyond this are transgressors;-
+        <li> And those who respect their trusts and covenants;
+        <li> And those who stand firm in their testimonies;
+        <li> And those who guard (the sacredness) of their worship;-
+        <li> Such will be the honoured ones in the Gardens (of Bliss).
+        <li> Now what is the matter with the Unbelievers that they rush madly before thee-
+        <li> From the right and from the left, in crowds?
+        <li> Does every man of them long to enter the Garden of Bliss?
+        <li> By no means! For We have created them out of the (base matter) they know!
+        <li> Now I do call to witness the Lord of all points in the East and the West that We can certainly-
+        <li> Substitute for them better (men) than they; And We are not to be defeated (in Our Plan).
+        <li> So leave them to plunge in vain talk and play about, until they encounter that Day of theirs which they have been promised!-
+        <li> The Day whereon they will issue from their sepulchres in sudden haste as if they were rushing to a goal-post (fixed for them),-
+        <li> Their eyes lowered in dejection,- ignominy covering them (all over)! such is the Day the which they are promised!`
+    },
+    //71
+    {
+        'arb':`
+        <li> إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ أَنْ أَنْذِرْ قَوْمَكَ مِنْ قَبْلِ أَنْ يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ
+        <li> قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُبِينٌ
+        <li> أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ
+        <li> يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ ۖ لَوْ كُنْتُمْ تَعْلَمُونَ
+        <li> قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا
+        <li> فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا
+        <li> وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا
+        <li> ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا
+        <li> ثُمَّ إِنِّي أَعْلَنْتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا
+        <li>  فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا
+        <li>  يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا
+        <li>  وَيُمْدِدْكُمْ بِأَمْوَالٍ وَبَنِينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا
+        <li>  مَا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا
+        <li>  وَقَدْ خَلَقَكُمْ أَطْوَارًا
+        <li>  أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا
+        <li>  وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا
+        <li>  وَاللَّهُ أَنْبَتَكُمْ مِنَ الْأَرْضِ نَبَاتًا
+        <li>  ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
+        <li>  وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا
+        <li>  لِتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا
+        <li>  قَالَ نُوحٌ رَبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا
+        <li>  وَمَكَرُوا مَكْرًا كُبَّارًا
+        <li>  وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا
+        <li>  وَقَدْ أَضَلُّوا كَثِيرًا ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا
+        <li>  مِمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُمْ مِنْ دُونِ اللَّهِ أَنْصَارًا
+        <li>  وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا
+        <li>  إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا
+        <li>  رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا`,
+                //english
+                'eng': `
+        <li> Innaaa arsalnaa Noohan ilaa qawmihee an anzir qawmaka min qabli any yaatiyahum 'azaabun aleem
+        <li> Qaala yaa qawmi innee lakum nazeerum mubeen
+        <li> Ani'-budul laaha watta qoohu wa atee'oon
+        <li> Yaghfir lakum min zunoobikum wa yu'akhkhirkum ilaaa ajalim musammaa; innaa ajalal laahi izaa jaaa'a laa yu'akhkhar; law kuntum ta'lamoon
+        <li> Qaala rabbi innee da'awtu qawmee lailanw wa naharaa
+        <li> Falam yazid hum du'aaa 'eee illaa firaaraa
+        <li> Wa inee kullamaa da'awtuhum litaghfira lahum ja'alooo asaabi'ahum fee aazaanihim wastaghshaw siyaabahum wa asaarroo wastakbarus tikbaaraa
+        <li> Summa innee da'aw tuhum jihaara
+        <li> Summaa inneee a'lantu lahum wa asrartu lahum israaraa
+        <li> Faqultus taghfiroo Rabbakum innahoo kaana Ghaffaaraa
+        <li> Yursilis samaaa'a 'alaikum midraaraa
+        <li> Wa yumdidkum bi am waalinw wa baneena wa yaj'al lakum Jannaatinw wa yaj'al lakum anhaaraa
+        <li> Maa lakum laa tarjoona lillaahi waqaaraa
+        <li> Wa qad khalaqakum at waaraa
+        <li> Alam taraw kaifa khalaqal laahu sab'a samaawaatin tibaaqaa
+        <li> Wa ja'alal qamara feehinna nooranw wa ja'alash shamsa siraajaa
+        <li> Wallaahu ambatakum minal ardi nabaataa
+        <li> Summa yu'eedukum feehaa wa yukhrijukum ikhraajaa
+        <li> Wallaahu ja'ala lakumul arda bisaataa
+        <li> Litaslukoo minhaa subulan fijaajaa
+        <li> Qaala Noohur Rabbi innahum 'asawnee wattaba'oo mal lam yazid hu maaluhoo wa waladuhooo illaa khasaara
+        <li> Wa makaroo makran kubbaaraa
+        <li> Wa qaaloo laa tazarunna aalihatakum wa laa tazarunna Waddanw wa laa Suwaa'anw wa laa Yaghoosa wa Ya'ooqa wa Nasraa
+        <li> Wa qad adalloo kasee ranw wa laa tazidiz zaalimeena illaa dalaalaa
+        <li> Mimmaa khateee' aatihim ughriqoo fa udkhiloo Naaran falam yajidoo lahum min doonil laahi ansaaraa
+        <li> Wa qaala Noohur Rabbi laa tazar 'alal ardi minal kaafireena daiyaaraa
+        <li> Innaka in tazarhum yudil loo 'ibaadaka wa laa yalidooo illaa faajiran kaffaaraa
+        <li> Rabbigh fir lee wa liwaa lidaiya wa liman dakhala baitiya mu'minanw wa lil mu'mineena wal mu'minaati wa laa tazidiz zaalimeena illaa tabaaraa`,
+            //trans
+            'translation':`
+        <li> We sent Noah to his People (with the Command): "Do thou warn thy People before there comes to them a grievous Penalty."
+        <li> He said: "O my People! I am to you a Warner, clear and open:
+        <li> "That ye should worship Allah, fear Him and obey me:
+        <li> "So He may forgive you your sins and give you respite for a stated Term: for when the Term given by Allah is accomplished, it cannot be put forward: if ye only knew."
+        <li> He said: "O my Lord! I have called to my People night and day:
+        <li> "But my call only increases (their) flight (from the Right).
+        <li> "And every time I have called to them, that Thou mightest forgive them, they have (only) thrust their fingers into their ears, covered themselves up with their garments, grown obstinate, and given themselves up to arrogance.
+        <li> "So I have called to them aloud;
+        <li> "Further I have spoken to them in public and secretly in private,
+        <li> "Saying, �Ask forgiveness from your Lord; for He is Oft-Forgiving;
+        <li> "�He will send rain to you in abundance;
+        <li> "�Give you increase in wealth and sons; and bestow on you gardens and bestow on you rivers (of flowing water).
+        <li> "�What is the matter with you, that ye place not your hope for kindness and long-suffering in Allah,-
+        <li> "�Seeing that it is He that has created you in diverse stages?
+        <li> "�See ye not how Allah has created the seven heavens one above another,
+        <li> "�And made the moon a light in their midst, and made the sun as a (Glorious) Lamp?
+        <li> "�And Allah has produced you from the earth growing (gradually),
+        <li> "�And in the End He will return you into the (earth), and raise you forth (again at the Resurrection)?
+        <li> "�And Allah has made the earth for you as a carpet (spread out),
+        <li> "�That ye may go about therein, in spacious roads.�"
+        <li> Noah said: "O my Lord! They have disobeyed me, but they follow (men) whose wealth and children give them no increase but only Loss.
+        <li> "And they have devised a tremendous Plot.
+        <li> "And they have said (to each other), �Abandon not your gods: Abandon neither Wadd nor Suwa�, neither Yaguth nor Ya�uq, nor Nasr�;-
+        <li> "They have already misled many; and grant Thou no increase to the wrong-doers but in straying (from their mark)."
+        <li> Because of their sins they were drowned (in the flood), and were made to enter the Fire (of Punishment): and they found- in lieu of Allah- none to help them.
+        <li> And Noah, said: "O my Lord! Leave not of the Unbelievers, a single one on earth!
+        <li> "For, if Thou dost leave (any of) them, they will but mislead Thy devotees, and they will breed none but wicked ungrateful ones.
+        <li> "O my Lord! Forgive me, my parents, all who enter my house in Faith, and (all) believing men and believing women: and to the wrong-doers grant Thou no increase but in perdition!"`
+    },
+    //72
+    {
+        'arb':`
+        <li> قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ فَقَالُوا إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا
+        <li> يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ ۖ وَلَنْ نُشْرِكَ بِرَبِّنَا أَحَدًا
+        <li> وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا
+        <li> وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّهِ شَطَطًا
+        <li> وَأَنَّا ظَنَنَّا أَنْ لَنْ تَقُولَ الْإِنْسُ وَالْجِنُّ عَلَى اللَّهِ كَذِبًا
+        <li> وَأَنَّهُ كَانَ رِجَالٌ مِنَ الْإِنْسِ يَعُوذُونَ بِرِجَالٍ مِنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا
+        <li> وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنْتُمْ أَنْ لَنْ يَبْعَثَ اللَّهُ أَحَدًا
+        <li> وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا
+        <li> وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ ۖ فَمَنْ يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَصَدًا
+        <li>  وَأَنَّا لَا نَدْرِي أَشَرٌّ أُرِيدَ بِمَنْ فِي الْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا
+        <li>  وَأَنَّا مِنَّا الصَّالِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَائِقَ قِدَدًا
+        <li>  وَأَنَّا ظَنَنَّا أَنْ لَنْ نُعْجِزَ اللَّهَ فِي الْأَرْضِ وَلَنْ نُعْجِزَهُ هَرَبًا
+        <li>  وَأَنَّا لَمَّا سَمِعْنَا الْهُدَىٰ آمَنَّا بِهِ ۖ فَمَنْ يُؤْمِنْ بِرَبِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا
+        <li>  وَأَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُولَٰئِكَ تَحَرَّوْا رَشَدًا
+        <li>  وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا
+        <li>  وَأَنْ لَوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُمْ مَاءً غَدَقًا
+        <li>  لِنَفْتِنَهُمْ فِيهِ ۚ وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا
+        <li>  وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا
+        <li>  وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ عَلَيْهِ لِبَدًا
+        <li>  قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا
+        <li>  قُلْ إِنِّي لَا أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا
+        <li>  قُلْ إِنِّي لَنْ يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِنْ دُونِهِ مُلْتَحَدًا
+        <li>  إِلَّا بَلَاغًا مِنَ اللَّهِ وَرِسَالَاتِهِ ۚ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَإِنَّ لَهُ نَارَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا
+        <li>  حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا
+        <li>  قُلْ إِنْ أَدْرِي أَقَرِيبٌ مَا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّي أَمَدًا
+        <li>  عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
+        <li>  إِلَّا مَنِ ارْتَضَىٰ مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا
+        <li>  لِيَعْلَمَ أَنْ قَدْ أَبْلَغُوا رِسَالَاتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا`,
+            //english
+            'eng': `
+        <li> Qul oohiya ilaiya annna hustama'a nafarum minal jinni faqaalooo innaa sami'naa quraanan ajaba
+        <li> Yahdeee ilar rushdi fa aamannaa bihee wa lan nushrika bi rabbinaaa 'ahada
+        <li> Wa annahoo Ta'aalaa jaddu Rabbinaa mat'takhaza saahibatanw wa laa walada
+        <li> Wa annahoo kaana yaqoolu safeehunaa 'al allahi shatata
+        <li> Wa annaa zanannaaa al lan taqoolal insu wal jinnu 'al allahi kaziba
+        <li> Wa annahoo kaana rijaalun minal insi ya'oozoona bi rijaalin minal jinni fa zaadoohum rahaqa
+        <li> Wa annahum zannoo kamaa zanantum al lany yab'asal laahu 'ahada
+        <li> Wa annaa lamasnas samaaa'a fa wajadnaahaa muli'at harasan shadeedanw wa shuhuba
+        <li> Wa annaa kunnaa naq'udu minhaa maqaa'ida lis'sam'i famany yastami'il 'aana yajid lahoo shihaabar rasada
+        <li> Wa annaa laa nadreee asharrun ureeda biman fil ardi 'am 'araada bihim rabbuhum rashada
+        <li> Wa annaa minnas saalihoona wa minnaa doona zaalika kunnaa taraaa'iqa qidada
+        <li> Wa annaa zanan naaa al lan nu'jizal laaha fil ardi wa lan nu'jizahoo haraba
+        <li> Wa annaa lammaa sami'nal hudaaa aamannaa bihee famany yu'min bi rabbihee falaa yakhaafu bakhsanw wa laa rahaqa
+        <li> Wa annaa minnal muslimoona wa minnal qaasitoona faman aslama fa ulaaa'ika taharraw rashada
+        <li> Wa ammal qaasitoona fa kaanoo li jahannama hataba
+        <li> Wa alla wis taqaamoo 'alat tareeqati la asqaynaahum maa'an ghadaqa
+        <li> Linaftinahum feeh; wa many yu'rid 'an zikri rabbihee yasluk hu 'azaaban sa'ada
+        <li> Wa annal masaajida lil laahi falaa tad'oo ma'al laahi 'ahada
+        <li> Wa annahoo lammaa qaama 'abdul laahi yad'oohu kaadoo yakoonoona 'alaihi libada
+        <li> Qul innamaaa ad'oo rabbee wa laaa ushriku biheee 'ahada
+        <li> Qul innee laaa amliku lakum darranw wa laa rashada
+        <li> Qul innee lany yujeeranee minal laahi 'ahadunw, wa lan ajida min doonihee multahada
+        <li> Illaa balaagham minal laahi wa risaalaatih; wa many ya'sil laaha wa rasoolahoo fa inna lahoo naara jahannama khaalideena feehaaa 'abada
+        <li> Hattaaa izaa ra aw maa yoo'adoona fasaya'lamoona man ad'afu naasiranw wa aqallu 'adada
+        <li> Qul in adreee a qareebum maa too'adoona am yaj'alu lahoo rabbeee 'amada
+        <li> 'Aalimul ghaibi falaa yuzhiru alaa ghaibiheee 'ahada
+        <li> Illaa manir tadaa mir rasoolin fa innahoo yasluku min baini yadaihi wa min khalfihee rasada
+        <li> Liya'lama an qad ablaghoo risaalaati rabbihim wa ahaata bi maa ladaihim wa ahsaa kulla shai'in 'adada`,
+            //trans
+            'translation':`
+        <li> Say: It has been revealed to me that a company of Jinns listened (to the Qur�an). They said, �We have really heard a wonderful Recital!
+        <li> �It gives guidance to the Right, and we have believed therein: we shall not join (in worship) any (gods) with our Lord.
+        <li> �And Exalted is the Majesty of our Lord: He has taken neither a wife nor a son.
+        <li> �There were some foolish ones among us, who used to utter extravagant lies against Allah;
+        <li> �But we do think that no man or spirit should say aught that untrue against Allah.
+        <li> �True, there were persons among mankind who took shelter with persons among the Jinns, but they increased them in folly.
+        <li> �And they (came to) think as ye thought, that Allah would not raise up any one (to Judgment).
+        <li> �And we pried into the secrets of heaven; but we found it filled with stern guards and flaming fires.
+        <li> �We used, indeed, to sit there in (hidden) stations, to (steal) a hearing; but any who listen now will find a flaming fire watching him in ambush.
+        <li> �And we understand not whether ill is intended to those on earth, or whether their Lord (really) intends to guide them to right conduct.
+        <li> �There are among us some that are righteous, and some the contrary: we follow divergent paths.
+        <li> �But we think that we can by no means frustrate Allah throughout the earth, nor can we frustrate Him by flight.
+        <li> �And as for us, since we have listened to the Guidance, we have accepted it: and any who believes in his Lord has no fear, either of a short (account) or of any injustice.
+        <li> �Amongst us are some that submit their wills (to Allah), and some that swerve from justice. Now those who submit their wills - they have sought out (the path) of right conduct:
+        <li> �But those who swerve,- they are (but) fuel for Hell-fire�-
+        <li> (And Allah�s Message is): "If they (the Pagans) had (only) remained on the (right) Way, We should certainly have bestowed on them Rain in abundance.
+        <li> "That We might try them by that (means). But if any turns away from the remembrance of his Lord, He will cause him to undergo a severe Penalty.
+        <li> "And the places of worship are for Allah (alone): So invoke not any one along with Allah;
+        <li> "Yet when the Devotee of Allah stands forth to invoke Him, they just make round him a dense crowd."
+        <li> Say: "I do no more than invoke my Lord, and I join not with Him any (false god)."
+        <li> Say: "It is not in my power to cause you harm, or to bring you to right conduct."
+        <li> Say: "No one can deliver me from Allah (If I were to disobey Him), nor should I find refuge except in Him,
+        <li> "Unless I proclaim what I receive from Allah and His Messages: for any that disobey Allah and His Messenger,- for them is Hell: they shall dwell therein for ever."
+        <li> At length, when they see (with their own eyes) that which they are promised,- then will they know who it is that is weakest in (his) helper and least important in point of numbers.
+        <li> Say: "I know not whether the (Punishment) which ye are promised is near, or whether my Lord will appoint for it a distant term.
+        <li> "He (alone) knows the Unseen, nor does He make any one acquainted with His Mysteries,-
+        <li> "Except a messenger whom He has chosen: and then He makes a band of watchers march before him and behind him,
+        <li> "That He may know that they have (truly) brought and delivered the Messages of their Lord: and He surrounds (all the mysteries) that are with them, and takes account of every single thing."`
+    },
+    //73
+    {
+        'arb':`
+        <li> يَا أَيُّهَا الْمُزَّمِّلُ
+        <li> قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+        <li> نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا
+        <li> أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا
+        <li> إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا
+        <li> إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+        <li> إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+        <li> وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+        <li> رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+        <li>  وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا
+        <li>  وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا
+        <li>  إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا
+        <li>  وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا
+        <li>  يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا
+        <li>  إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا
+        <li>  فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا
+        <li>  فَكَيْفَ تَتَّقُونَ إِنْ كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا
+        <li>  السَّمَاءُ مُنْفَطِرٌ بِهِ ۚ كَانَ وَعْدُهُ مَفْعُولًا
+        <li>  إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا
+        <li>  إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ ۚ عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ ۚ عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللَّهِ ۙ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَاسْتَغْفِرُوا اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ`,
+        //english
+        'eng': `
+        <li>Ya aiyuhal muzzammil
+        <li> Qumil laila illaa qaleelaa
+        <li> Nisfahooo awinqus minhu qaleelaa
+        <li> Aw zid 'alaihi wa rattilil Qur'aana tarteela
+        <li> Innaa sanulqee 'alaika qawlan saqeelaa
+        <li> Inna naashi'atal laili hiya ashadddu wat anw wa aqwamu qeelaa
+        <li> Inna laka fin nahaari sabhan taweelaa
+        <li> Wazkuris ma rabbika wa tabattal ilaihi tabteelaa
+        <li> Rabbul mashriqi wal maghriibi laaa ilaaha illaa Huwa fattakhizhu wakeelaa
+        <li> Wasbir 'alaa maa yaqoo loona wahjurhum hajran jameelaa
+        <li> Wa zarnee walmukaz zibeena ulin na'mati wa mahhilhum qaleelaa
+        <li> Inna ladainaaa ankaalanw wa jaheemaa
+        <li> Wa ta'aaman zaa ghussa tinw wa'azaaban aleemaa
+        <li> Yawma tarjuful ardu waljibaalu wa kaanatil jibaalu kaseebam maheelaa
+        <li> Innaa arsalnaaa ilaikum rasoolan shaahidan 'aleykum kamaaa arsalnaaa ilaa Fir'awna rasoolaa
+        <li> Fa'asaa Fir'awnur Rasoola fa akhaznaahu akhzanw wabeelaa
+        <li> Fakaifa tattaqoona in kafartum yawmany yaj'alul wildaana sheeba
+        <li> Assamaaa'u munfatirum bih; kaana wa'duhoo maf'oola
+        <li> Inna haazihee tazkiratun fa man shaaa'at takhaza ilaa Rabbihee sabeelaa
+        <li> Inna Rabbaka ya'lamu annaka taqoomu adnaa min sulusa yil laili wa nisfahoo wa sulusahoo wa taaa'ifatum minal lazeena ma'ak; wal laahu yuqaddirul laila wanna haar; 'alima al lan tuhsoohu fataaba  'alaikum faqra'oo maa tayassara minal quraan; 'alima an sa yakoonu minkum mardaa wa aakharoona yadriboona fil ardi yabtaghoona min fadlil laahi wa aakharoona yuqaatiloona fee sabeelil laahi faqra'oo ma tayassara minhu wa aqeemus salaata wa aatuz zakaata wa aqridul laaha qardan hasanaa; wa maa tuqaddimoo li anfusikum min khairin tajidoohu 'indal laahi huwa khayranw wa a'zama ajraa; wastaghfirul laahaa innal laaha ghafoorur raheem.`,
+            //trans
+            'translation':`
+        <li> O thou folded in garments!
+        <li> Stand (to prayer) by night, but not all night,-
+        <li> Half of it,- or a little less,
+        <li> Or a little more; and recite the Qur�an in slow, measured rhythmic tones.
+        <li> Soon shall We send down to thee a weighty Message.
+        <li> Truly the rising by night is most potent for governing (the soul), and most suitable for (framing) the Word (of Prayer and Praise).
+        <li> True, there is for thee by day prolonged occupation with ordinary duties:
+        <li> But keep in remembrance the name of thy Lord and devote thyself to Him whole-heartedly.
+        <li> (He is) Lord of the East and the West: there is no god but He: take Him therefore for (thy) Disposer of Affairs.
+        <li> And have patience with what they say, and leave them with noble (dignity).
+        <li> And leave Me (alone to deal with) those in possession of the good things of life, who (yet) deny the Truth; and bear with them for a little while.
+        <li> With Us are Fetters (to bind them), and a Fire (to burn them),
+        <li> And a Food that chokes, and a Penalty Grievous.
+        <li> One Day the earth and the mountains will be in violent commotion. And the mountains will be as a heap of sand poured out and flowing down.
+        <li> We have sent to you, (O men!) a messenger, to be a witness concerning you, even as We sent a messenger to Pharaoh.
+        <li> But Pharaoh disobeyed the messenger; so We seized him with a heavy Punishment.
+        <li> Then how shall ye, if ye deny (Allah), guard yourselves against a Day that will make children hoary-headed?-
+        <li> Whereon the sky will be cleft asunder? His Promise needs must be accomplished.
+        <li> Verily this is an Admonition: therefore, whoso will, let him take a (straight) path to his Lord!
+        <li> Thy Lord doth know that thou standest forth (to prayer) nigh two-thirds of the night, or half the night, or a third of the night, and so doth a party of those with thee. But Allah doth appoint night and day in due measure He knoweth that ye are unable to keep count thereof. So He hath turned to you (in mercy): read ye, therefore, of the Qur�an as much as may be easy for you. He knoweth that there may be (some) among you in ill-health; others travelling through the land, seeking of Allah�s bounty; yet others fighting in Allah�s Cause, read ye, therefore, as much of the Qur�an as may be easy (for you); and establish regular Prayer and give regular Charity; and loan to Allah a Beautiful Loan. And whatever good ye send forth for your souls ye shall find it in Allah�s Presence,- yea, better and greater, in Reward and seek ye the Grace of Allah: for Allah is Oft-Forgiving, Most Merciful.`
+    },
+    //74
+    {
+        'arb':`
+        <li> يَا أَيُّهَا الْمُزَّمِّلُ
+        <li> قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+        <li> نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا
+        <li> أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا
+        <li> إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا
+        <li> إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+        <li> إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+        <li> وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+        <li> رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+        <li>  وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا
+        <li>  وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا
+        <li>  إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا
+        <li>  وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا
+        <li>  يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا
+        <li>  إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا
+        <li>  فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا
+        <li>  فَكَيْفَ تَتَّقُونَ إِنْ كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا
+        <li>  السَّمَاءُ مُنْفَطِرٌ بِهِ ۚ كَانَ وَعْدُهُ مَفْعُولًا
+        <li>  إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا
+        <li>  إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ ۚ عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ ۚ عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللَّهِ ۙ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَاسْتَغْفِرُوا اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ`,
+            //english
+            'eng': `
+        <li> Ya aiyuhal muzzammil
+        <li> Qumil laila illaa qaleelaa
+        <li> Nisfahooo awinqus minhu qaleelaa
+        <li> Aw zid 'alaihi wa rattilil Qur'aana tarteela
+        <li> Innaa sanulqee 'alaika qawlan saqeelaa
+        <li> Inna naashi'atal laili hiya ashadddu wat anw wa aqwamu qeelaa
+        <li> Inna laka fin nahaari sabhan taweelaa
+        <li> Wazkuris ma rabbika wa tabattal ilaihi tabteelaa
+        <li> Rabbul mashriqi wal maghriibi laaa ilaaha illaa Huwa fattakhizhu wakeelaa
+        <li> Wasbir 'alaa maa yaqoo loona wahjurhum hajran jameelaa
+        <li> Wa zarnee walmukaz zibeena ulin na'mati wa mahhilhum qaleelaa
+        <li> Inna ladainaaa ankaalanw wa jaheemaa
+        <li> Wa ta'aaman zaa ghussa tinw wa'azaaban aleemaa
+        <li> Yawma tarjuful ardu waljibaalu wa kaanatil jibaalu kaseebam maheelaa
+        <li> Innaa arsalnaaa ilaikum rasoolan shaahidan 'aleykum kamaaa arsalnaaa ilaa Fir'awna rasoolaa
+        <li> Fa'asaa Fir'awnur Rasoola fa akhaznaahu akhzanw wabeelaa
+        <li> Fakaifa tattaqoona in kafartum yawmany yaj'alul wildaana sheeba
+        <li> Assamaaa'u munfatirum bih; kaana wa'duhoo maf'oola
+        <li> Inna haazihee tazkiratun fa man shaaa'at takhaza ilaa Rabbihee sabeelaa
+        <li> Inna Rabbaka ya'lamu annaka taqoomu adnaa min sulusa yil laili wa nisfahoo wa sulusahoo wa taaa'ifatum minal lazeena ma'ak; wal laahu yuqaddirul laila wanna haar; 'alima al lan tuhsoohu fataaba  'alaikum faqra'oo maa tayassara minal quraan; 'alima an sa yakoonu minkum mardaa wa aakharoona yadriboona fil ardi yabtaghoona min fadlil laahi wa aakharoona yuqaatiloona fee sabeelil laahi faqra'oo ma tayassara minhu wa aqeemus salaata wa aatuz zakaata wa aqridul laaha qardan hasanaa; wa maa tuqaddimoo li anfusikum min khairin tajidoohu 'indal laahi huwa khayranw wa a'zama ajraa; wastaghfirul laahaa innal laaha ghafoorur raheem.`,
+            //trans
+            'translation':`
+        <li> O thou folded in garments!
+        <li> Stand (to prayer) by night, but not all night,-
+        <li> Half of it,- or a little less,
+        <li> Or a little more; and recite the Qur�an in slow, measured rhythmic tones.
+        <li> Soon shall We send down to thee a weighty Message.
+        <li> Truly the rising by night is most potent for governing (the soul), and most suitable for (framing) the Word (of Prayer and Praise).
+        <li> True, there is for thee by day prolonged occupation with ordinary duties:
+        <li> But keep in remembrance the name of thy Lord and devote thyself to Him whole-heartedly.
+        <li> (He is) Lord of the East and the West: there is no god but He: take Him therefore for (thy) Disposer of Affairs.
+        <li> And have patience with what they say, and leave them with noble (dignity).
+        <li> And leave Me (alone to deal with) those in possession of the good things of life, who (yet) deny the Truth; and bear with them for a little while.
+        <li> With Us are Fetters (to bind them), and a Fire (to burn them),
+        <li> And a Food that chokes, and a Penalty Grievous.
+        <li> One Day the earth and the mountains will be in violent commotion. And the mountains will be as a heap of sand poured out and flowing down.
+        <li> We have sent to you, (O men!) a messenger, to be a witness concerning you, even as We sent a messenger to Pharaoh.
+        <li> But Pharaoh disobeyed the messenger; so We seized him with a heavy Punishment.
+        <li> Then how shall ye, if ye deny (Allah), guard yourselves against a Day that will make children hoary-headed?-
+        <li> Whereon the sky will be cleft asunder? His Promise needs must be accomplished.
+        <li> Verily this is an Admonition: therefore, whoso will, let him take a (straight) path to his Lord!
+        <li> Thy Lord doth know that thou standest forth (to prayer) nigh two-thirds of the night, or half the night, or a third of the night, and so doth a party of those with thee. But Allah doth appoint night and day in due measure He knoweth that ye are unable to keep count thereof. So He hath turned to you (in mercy): read ye, therefore, of the Qur�an as much as may be easy for you. He knoweth that there may be (some) among you in ill-health; others travelling through the land, seeking of Allah�s bounty; yet others fighting in Allah�s Cause, read ye, therefore, as much of the Qur�an as may be easy (for you); and establish regular Prayer and give regular Charity; and loan to Allah a Beautiful Loan. And whatever good ye send forth for your souls ye shall find it in Allah�s Presence,- yea, better and greater, in Reward and seek ye the Grace of Allah: for Allah is Oft-Forgiving, Most Merciful.`
+    },
+    //75
+    {
+        'arb':`
+        <li>لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ
+        <li>وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+        <li>أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ
+        <li>بَلَىٰ قَادِرِينَ عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ
+        <li>بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ
+        <li>يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ
+        <li>فَإِذَا بَرِقَ الْبَصَرُ
+        <li>وَخَسَفَ الْقَمَرُ
+        <li>وَجُمِعَ الشَّمْسُ وَالْقَمَرُ
+        <li> يَقُولُ الْإِنْسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ
+        <li> كَلَّا لَا وَزَرَ
+        <li> إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+        <li> يُنَبَّأُ الْإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+        <li> بَلِ الْإِنْسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ
+        <li> وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ
+        <li> لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ
+        <li> إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ
+        <li> فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ
+        <li> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+        <li> كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ
+        <li> وَتَذَرُونَ الْآخِرَةَ
+        <li> وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ
+        <li> إِلَىٰ رَبِّهَا نَاظِرَةٌ
+        <li> وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ
+        <li> تَظُنُّ أَنْ يُفْعَلَ بِهَا فَاقِرَةٌ
+        <li> كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ
+        <li> وَقِيلَ مَنْ ۜ رَاقٍ
+        <li> وَظَنَّ أَنَّهُ الْفِرَاقُ
+        <li> وَالْتَفَّتِ السَّاقُ بِالسَّاقِ
+        <li> إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ
+        <li> فَلَا صَدَّقَ وَلَا صَلَّىٰ
+        <li> وَلَٰكِنْ كَذَّبَ وَتَوَلَّىٰ
+        <li> ثُمَّ ذَهَبَ إِلَىٰ أَهْلِهِ يَتَمَطَّىٰ
+        <li> أَوْلَىٰ لَكَ فَأَوْلَىٰ
+        <li> ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰ
+        <li> أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى
+        <li> أَلَمْ يَكُ نُطْفَةً مِنْ مَنِيٍّ يُمْنَىٰ
+        <li> ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ
+        <li> فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَىٰ
+        <li> أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَنْ يُحْيِيَ الْمَوْتَىٰ`,
+        //english
+        'eng': `
+        <li> Laaa uqsimu bi yawmil qiyaamah
+        <li> Wa laaa uqsimu bin nafsil lawwaamah
+        <li> Ayahsabul insaanu al lan najm'a 'izaamah
+        <li> Balaa qaadireena 'alaaa an nusawwiya banaanah
+        <li> Bal yureedul insaanu liyafjura amaamah
+        <li> Yas'alu ayyyaana yawmul qiyaamah
+        <li> Fa izaa bariqal basar
+        <li> Wa khasafal qamar
+        <li> Wa jumi'ash shamsu wal qamar
+        <li> Yaqoolul insaanu yaw ma 'izin aynal mafarr
+        <li> Kallaa laa wazar
+        <li> Ilaa rabbika yawma 'izinil mustaqarr
+        <li> Yunabba 'ul insaanu yawma 'izim bimaa qaddama wa akhkhar
+        <li> Balil insaanu 'alaa nafsihee baseerah
+        <li> Wa law alqaa ma'aazeerah
+        <li> Laa tuharrik bihee lisaa naka lita'jala bih
+        <li> Inna 'alainaa jam'ahoo wa qur aanah
+        <li> Fa izaa Qura’nahu fattabi' qur aanah
+        <li> Summa inna 'alainaa bayaanah
+        <li> Kallaa bal tuhibboonal 'aajilah
+        <li> Wa tazaroonal Aakhirah
+        <li> Wujoohuny yawma 'izin naadirah
+        <li> Ilaa rabbihaa naazirah
+        <li> Wa wujoohuny yawma 'izim baasirah
+        <li> Tazunnu any yuf'ala bihaa faaqirah
+        <li> Kallaaa izaa balaghatit taraaqee
+        <li> Wa qeela man raaq
+        <li> Wa zanna annahul firaaq
+        <li> Waltaffatis saaqu bissaaq
+        <li> Ilaa rabbika yawma'izinil masaaq
+        <li> Falaa saddaqa wa laa sallaa
+        <li> Wa laakin kazzaba wa tawalla
+        <li> Summa zahaba ilaaa ahlihee yatamatta
+        <li> Awlaa laka fa awlaa
+        <li> Summa awlaa laka fa awla
+        <li> Ayahsabul insaanu ai yutraka sudaa
+        <li> Alam yaku nutfatam mim maniyyiny yumnaa
+        <li> Summa kaana 'alaqatan fakhalaqa fasawwaa
+        <li> Faja'ala minhuz zawjayniz zakara wal unsaa
+        <li> Alaisa zaalika biqaadirin 'alaaa any yuhyiyal mawtaa`,
+            //trans
+            'translation':`
+        <li> I do call to witness the Resurrection Day;
+        <li> And I do call to witness the self-reproaching spirit: (Eschew Evil).
+        <li> Does man think that We cannot assemble his bones?
+        <li> Nay, We are able to put together in perfect order the very tips of his fingers.
+        <li> But man wishes to do wrong (even) in the time in front of him.
+        <li> He questions: "When is the Day of Resurrection?"
+        <li> At length, when the sight is dazed,
+        <li> And the moon is buried in darkness.
+        <li> And the sun and moon are joined together,-
+        <li> That Day will Man say: "Where is the refuge?"
+        <li> By no means! No place of safety!
+        <li> Before thy Lord (alone), that Day will be the place of rest.
+        <li> That Day will Man be told (all) that he put forward, and all that he put back.
+        <li> Nay, man will be evidence against himself,
+        <li> Even though he were to put up his excuses.
+        <li> Move not thy tongue concerning the (Qur�an) to make haste therewith.
+        <li> It is for Us to collect it and to promulgate it:
+        <li> But when We have promulgated it, follow thou its recital (as promulgated):
+        <li> Nay more, it is for Us to explain it (and make it clear):
+        <li> Nay, (ye men!) but ye love the fleeting life,
+        <li> And leave alone the Hereafter.
+        <li> Some faces, that Day, will beam (in brightness and beauty);-
+        <li> Looking towards their Lord;
+        <li> And some faces, that Day, will be sad and dismal,
+        <li> In the thought that some back-breaking calamity was about to be inflicted on them;
+        <li> Yea, when (the soul) reaches to the collar-bone (in its exit),
+        <li> And there will be a cry, "Who is a magician (to restore him)?"
+        <li> And he will conclude that it was (the Time) of Parting;
+        <li> And one leg will be joined with another:
+        <li> That Day the Drive will be (all) to thy Lord!
+        <li> So he gave nothing in charity, nor did he pray!-
+        <li> But on the contrary, he rejected Truth and turned away!
+        <li> Then did he stalk to his family in full conceit!
+        <li> Woe to thee, (O men!), yea, woe!
+        <li> Again, Woe to thee, (O men!), yea, woe!
+        <li> Does man think that he will be left uncontrolled, (without purpose)?
+        <li> Was he not a drop of sperm emitted (in lowly form)?
+        <li> Then did he become a leech-like clot; then did (Allah) make and fashion (him) in due proportion.
+        <li> And of him He made two sexes, male and female.
+        <li> Has not He, (the same), the power to give life to the dead?`
+    },
+    //76  
+    {
+        'arb':`
+        <li> هَلْ أَتَىٰ عَلَى الْإِنْسَانِ حِينٌ مِنَ الدَّهْرِ لَمْ يَكُنْ شَيْئًا مَذْكُورًا
+        <li> إِنَّا خَلَقْنَا الْإِنْسَانَ مِنْ نُطْفَةٍ أَمْشَاجٍ نَبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعًا بَصِيرًا
+        <li> إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
+        <li> إِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَلَاسِلَ وَأَغْلَالًا وَسَعِيرًا
+        <li> إِنَّ الْأَبْرَارَ يَشْرَبُونَ مِنْ كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا
+        <li> عَيْنًا يَشْرَبُ بِهَا عِبَادُ اللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا
+        <li> يُوفُونَ بِالنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُ مُسْتَطِيرًا
+        <li> وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا
+        <li> إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنْكُمْ جَزَاءً وَلَا شُكُورًا
+        <li>  إِنَّا نَخَافُ مِنْ رَبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا
+        <li>  فَوَقَاهُمُ اللَّهُ شَرَّ ذَٰلِكَ الْيَوْمِ وَلَقَّاهُمْ نَضْرَةً وَسُرُورًا
+        <li>  وَجَزَاهُمْ بِمَا صَبَرُوا جَنَّةً وَحَرِيرًا
+        <li>  مُتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا
+        <li>  وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا
+        <li>  وَيُطَافُ عَلَيْهِمْ بِآنِيَةٍ مِنْ فِضَّةٍ وَأَكْوَابٍ كَانَتْ قَوَارِيرَا
+        <li>  قَوَارِيرَ مِنْ فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا
+        <li>  وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنْجَبِيلًا
+        <li>  عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا
+        <li>  وَيَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَنْثُورًا
+        <li>  وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًا وَمُلْكًا كَبِيرًا
+        <li>  عَالِيَهُمْ ثِيَابُ سُنْدُسٍ خُضْرٌ وَإِسْتَبْرَقٌ ۖ وَحُلُّوا أَسَاوِرَ مِنْ فِضَّةٍ وَسَقَاهُمْ رَبُّهُمْ شَرَابًا طَهُورًا
+        <li>  إِنَّ هَٰذَا كَانَ لَكُمْ جَزَاءً وَكَانَ سَعْيُكُمْ مَشْكُورًا
+        <li>  إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ الْقُرْآنَ تَنْزِيلًا
+        <li>  فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ آثِمًا أَوْ كَفُورًا
+        <li>  وَاذْكُرِ اسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا
+        <li>  وَمِنَ اللَّيْلِ فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلًا طَوِيلًا
+        <li>  إِنَّ هَٰؤُلَاءِ يُحِبُّونَ الْعَاجِلَةَ وَيَذَرُونَ وَرَاءَهُمْ يَوْمًا ثَقِيلًا
+        <li>  نَحْنُ خَلَقْنَاهُمْ وَشَدَدْنَا أَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَا أَمْثَالَهُمْ تَبْدِيلًا
+        <li>  إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا
+        <li>  وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ ۚ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا
+        <li>  يُدْخِلُ مَنْ يَشَاءُ فِي رَحْمَتِهِ ۚ وَالظَّالِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًا`,
+            //english
+            'eng': `
+        <li> Hal ataa 'alal insaani heenum minad dahri lam yakun shai'am mazkooraa
+        <li> Innaa khalaqnal insaana min nutfatin amshaajin nabta leehi faja'alnaahu samee'am baseeraa
+        <li> Innaa hadainaahus sabeela immaa shaakiranw wa immaa kafoora
+        <li> Innaaa a'tadnaa lilkaa fireena salaasila wa aghlaalanw wa sa'eeraa
+        <li> Innal abraara yashra boona min kaasin kaana mizaa juhaa kaafooraa
+        <li> 'Aynany yashrabu bihaa 'ibaadul laahi yufajjiroonahaa tafjeeraa
+        <li> Yoofoona binnazri wa yakhaafoona yawman kaana sharruhoo mustateeraa
+        <li> Wa yut''imoonat ta'aama 'alaa hubbihee miskeenanw wa yateemanw wa aseeraa
+        <li> Innaamaa nut'imukum li wajhil laahi laa nureedu minkum jazaaa'anw wa laa shukooraa
+        <li> Innaa nakhaafu mir Rabbinna Yawman 'aboosan qamtareeraa
+        <li> Fa waqaahumul laahu sharra zaalikal yawmi wa laqqaahum nadratanw wa surooraa
+        <li> Wa jazaahum bimaa sabaroo jannatanw wa hareeraa
+        <li> Muttaki'eena feeha 'alal araaa 'iki laa yarawna feehaa shamsanw wa laa zamhareeraa
+        <li> Wa daaniyatan 'alaihim zilaaluhaa wa zullilat qutoofu haa tazleela
+        <li> Wa yutaafu 'alaihim bi aaniyatim min fiddatinw wa akwaabin kaanat qawaareeraa
+        <li> Qawaareera min fiddatin qaddaroohaa taqdeeraa
+        <li> Wa yuskawna feehaa kaasan kaana mizaajuhaa zanjabeelaa
+        <li> 'Aynan feeha tusammaa salsabeelaa
+        <li> Wa yatoofu 'alaihim wildaanum mukhalladoona izaa ra aytahum hasibtahum lu'lu 'am mansoora
+        <li> Wa izaa ra ayta samma ra ayta na'eemanw wa mulkan kabeera
+        <li> 'Aaliyahum siyaabu sundusin khudrunw wa istabraq, wa hullooo asaawira min fiddatinw wa saqaahum Rabbuhum sharaaban tahooraa
+        <li> Innaa haazaa kaana lakum jazaa 'anw wa kaana sa'yukum mashkooraa
+        <li> Innaa nahnu nazzalnaa 'alaikal quraana tanzeelaa
+        <li> Fasbir lihukmi Rabbika wa laa tuti' minhum aasiman aw kafooraa
+        <li> Wazkuris ma Rabbika bukratanw wa aseelaa
+        <li> Wa minal laili fasjud lahoo wa sabbihhu lailan taweelaa
+        <li> Inna haaa'ulaa'i yuhibboona 'aajilata wa yazaroona waraaa'ahum yawman saqeelaa
+        <li> Nahnu khalaqnaahum wa shadadnaaa asrahum wa izaa shi'naa baddalnaaa amsaala hum tabdeelaa
+        <li> Inna haazihee tazkiratun fa man shaaa'at takhaza ilaa rabbihee sabeela
+        <li> Wa maa tashaaa'oona illaa anyyashaaa'al laah; innal laahaa kaana'Aleeman Hakeema
+        <li> Yudkhilu mai yashaaa'u fee rahmatih; wazzaalimeena a'adda lahum 'azaaban aleemaa`,
+            //trans
+            'translation':`
+        <li> Has there not been over Man a long period of Time, when he was nothing - (not even) mentioned?
+        <li> Verily We created Man from a drop of mingled sperm, in order to try him: So We gave him (the gifts), of Hearing and Sight.
+        <li> We showed him the Way: whether he be grateful or ungrateful (rests on his will).
+        <li> For the Rejecters we have prepared chains, yokes, and a blazing Fire.
+        <li> As to the Righteous, they shall drink of a Cup (of Wine) mixed with Kafur,-
+        <li> A Fountain where the Devotees of Allah do drink, making it flow in unstinted abundance.
+        <li> They perform (their) vows, and they fear a Day whose evil flies far and wide.
+        <li> And they feed, for the love of Allah, the indigent, the orphan, and the captive,-
+        <li> (Saying),"We feed you for the sake of Allah alone: no reward do we desire from you, nor thanks.
+        <li> "We only fear a Day of distressful Wrath from the side of our Lord."
+        <li> But Allah will deliver them from the evil of that Day, and will shed over them a Light of Beauty and (blissful) Joy.
+        <li> And because they were patient and constant, He will reward them with a Garden and (garments of) silk.
+        <li> Reclining in the (Garden) on raised thrones, they will see there neither the sun�s (excessive heat) nor (the moon�s) excessive cold.
+        <li> And the shades of the (Garden) will come low over them, and the bunches (of fruit), there, will hang low in humility.
+        <li> And amongst them will be passed round vessels of silver and goblets of crystal,-
+        <li> Crystal-clear, made of silver: they will determine the measure thereof (according to their wishes).
+        <li> And they will be given to drink there of a Cup (of Wine) mixed with Zanjabil,-
+        <li> A fountain there, called Salsabil.
+        <li> And round about them will (serve) youths of perpetual (freshness): If thou seest them, thou wouldst think them scattered Pearls.
+        <li> And when thou lookest, it is there thou wilt see a Bliss and a Realm Magnificent.
+        <li> Upon them will be green Garments of fine silk and heavy brocade, and they will be adorned with Bracelets of silver; and their Lord will give to them to drink of a Wine Pure and Holy.
+        <li> "Verily this is a Reward for you, and your Endeavour is accepted and recognised."
+        <li> It is We Who have sent down the Qur�an to thee by stages.
+        <li> Therefore be patient with constancy to the Command of thy Lord, and hearken not to the sinner or the ingrate among them.
+        <li> And celebrate the name of thy Lord morning and evening,
+        <li> And part of the night, prostrate thyself to Him; and glorify Him a long night through.
+        <li> As to these, they love the fleeting life, and put away behind them a Day (that will be) hard.
+        <li> It is We Who created them, and We have made their joints strong; but, when We will, We can substitute the like of them by a complete change.
+        <li> This is an admonition: Whosoever will, let him take a (straight) Path to his Lord.
+        <li> But ye will not, except as Allah wills; for Allah is full of Knowledge and Wisdom.
+        <li> He will admit to His Mercy whom He will; But the wrong-doers,- for them has He prepared a grievous Penalty.`
+    },
+    //77
+    {
+        'arb':`
+        <li>وَالْمُرْسَلَاتِ عُرْفًا
+        <li>فَالْعَاصِفَاتِ عَصْفًا
+        <li>وَالنَّاشِرَاتِ نَشْرًا
+        <li>فَالْفَارِقَاتِ فَرْقًا
+        <li>فَالْمُلْقِيَاتِ ذِكْرًا
+        <li>عُذْرًا أَوْ نُذْرًا
+        <li>إِنَّمَا تُوعَدُونَ لَوَاقِعٌ
+        <li>فَإِذَا النُّجُومُ طُمِسَتْ
+        <li>وَإِذَا السَّمَاءُ فُرِجَتْ
+        <li> وَإِذَا الْجِبَالُ نُسِفَتْ
+        <li> وَإِذَا الرُّسُلُ أُقِّتَتْ
+        <li> لِأَيِّ يَوْمٍ أُجِّلَتْ
+        <li> لِيَوْمِ الْفَصْلِ
+        <li> وَمَا أَدْرَاكَ مَا يَوْمُ الْفَصْلِ
+        <li> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+        <li> أَلَمْ نُهْلِكِ الْأَوَّلِينَ
+        <li> ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ
+        <li> كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ
+        <li> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+        <li> أَلَمْ نَخْلُقْكُمْ مِنْ مَاءٍ مَهِينٍ
+        <li> فَجَعَلْنَاهُ فِي قَرَارٍ مَكِينٍ
+        <li> إِلَىٰ قَدَرٍ مَعْلُومٍ
+        <li> فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ
+        <li> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+        <li> أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا
+        <li> أَحْيَاءً وَأَمْوَاتًا
+        <li> وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُمْ مَاءً فُرَاتًا
+        <li> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+        <li> انْطَلِقُوا إِلَىٰ مَا كُنْتُمْ بِهِ تُكَذِّبُونَ
+        <li> انْطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ
+        <li> لَا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ
+        <li> إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ
+        <li> كَأَنَّهُ جِمَالَتٌ صُفْرٌ
+        <li> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+        <li> هَٰذَا يَوْمُ لَا يَنْطِقُونَ
+        <li> وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
+        <li> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+        <li> هَٰذَا يَوْمُ الْفَصْلِ ۖ جَمَعْنَاكُمْ وَالْأَوَّلِينَ
+        <li> فَإِنْ كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ
+        <li> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+        <li> إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ
+        <li> وَفَوَاكِهَ مِمَّا يَشْتَهُونَ
+        <li> كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ
+        <li> إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ
+        <li> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+        <li> كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُمْ مُجْرِمُونَ
+        <li> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+        <li> وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ
+        <li> وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+        <li> فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ`,
+        //english
+        'eng': `<li>Wal mursalaati'urfaa
+        <li> Fal'aasifaati 'asfaa
+        <li> Wannaashiraati nashraa
+        <li> Falfaariqaati farqaa
+        <li> Falmulqiyaati zikra
+        <li> 'Uzran aw nuzraa
+        <li> Innamaa too'adoona lawaaqi'
+        <li> Fa izam nujoomu tumisat
+        <li> Wa izas samaaa'u furijat
+        <li> Wa izal jibaalu nusifat
+        <li> Wa izar Rusulu uqqitat
+        <li> Li ayyi yawmin ujjilat
+        <li> Li yawmil Fasl
+        <li> Wa maaa adraaka maa yawmul fasl
+        <li> Wailuny yawma 'izillilmukazzibeen
+        <li> Alam nuhlikil awwaleen
+        <li> Summa nutbi'uhumul aakhireen
+        <li> Kazzalika naf'alu bilmujrimeen
+        <li> Wailunw yawma 'izil lil mukazzibeen
+        <li> Alam nakhlukkum mimmaaa'im maheen
+        <li> Faja'alnaahu fee qaraarim makeen
+        <li> Illaa qadrim ma'loom
+        <li> Faqadarnaa fani'mal qaadiroon
+        <li> Wailuny yawma 'izil lilmukazzibeen
+        <li> Alam naj'alil arda kifaataa
+        <li> Ahyaaa'anw wa amwaataa
+        <li> Wa ja'alnaa feehaa rawaasiya shaamikhaatinw wa asqainaakum maaa'an furaataa
+        <li> Wailuny yawma 'izil lilmukazzibeen
+        <li> Intaliqooo ilaa maa kuntum bihee tukazziboon
+        <li> Intaliqooo ilaa zillin zee salaasi shu'ab
+        <li> Laa zaleelinw wa laa yughnee minal lahab
+        <li> Innahaa tarmee bishararin kalqasr
+        <li> Ka annahoo jimaalatun sufr
+        <li> Wailuny yawma 'izil lilmukazibeen
+        <li> Haazaa yawmu laa yantiqoon
+        <li> Wa laa yu'zanu lahum fa ya'taziroon
+        <li> Wailunw yawma 'izil lilmukazzibeen
+        <li> Haaza yawmul fasli jama 'naakum wal awwaleen
+        <li> Fa in kaana lakum kaidun fakeedoon
+        <li> Wailuny yawma'izil lilmukazzibeen
+        <li> Innal muttaqeena fee zilaalinw wa 'uyoon
+        <li> Wa fawaakiha mimmaa yashtahoon
+        <li> Kuloo washraboo haneee 'am bimaa kuntum ta'maloon
+        <li> Innaa kazaalika najzil muhsineen
+        <li> Wailuny yawma 'izil lil mukazzibeen
+        <li> Kuloo wa tamatta'oo qaleelan innakum mujrimoon
+        <li> Wailunny yawma 'izil lilmukazzibeen
+        <li> Wa izaa qeela lahumur ka'oo laa yarka'oon
+        <li> Wailunny yawma 'izil lilmukazzibeen
+        <li> Fabi ayyi hadeesim ba'dahoo yu'minoon (End Juz 29)`,
+            //trans
+            'translation':`<li>By the (Winds) sent forth one after another (to man�s profit);
+        <li> Which then blow violently in tempestuous Gusts,
+        <li> And scatter (things) far and wide;
+        <li> Then separate them, one from another,
+        <li> Then spread abroad a Message,
+        <li> Whether of Justification or of Warning;-
+        <li> Assuredly, what ye are promised must come to pass.
+        <li> Then when the stars become dim;
+        <li> When the heaven is cleft asunder;
+        <li> When the mountains are scattered (to the winds) as dust;
+        <li> And when the messengers are (all) appointed a time (to collect);-
+        <li> For what Day are these (portents) deferred?
+        <li> For the Day of Sorting out.
+        <li> And what will explain to thee what is the Day of Sorting out?
+        <li> Ah woe, that Day, to the Rejecters of Truth!
+        <li> Did We not destroy the men of old (for their evil)?
+        <li> So shall We make later (generations) follow them.
+        <li> Thus do We deal with men of sin.
+        <li> Ah woe, that Day, to the Rejecters of Truth!
+        <li> Have We not created you from a fluid (held) despicable?-
+        <li> The which We placed in a place of rest, firmly fixed,
+        <li> For a period (of gestation), determined (according to need)?
+        <li> For We do determine (according to need); for We are the best to determine (things).
+        <li> Ah woe, that Day! to the Rejecters of Truth!
+        <li> Have We not made the earth (as a place) to draw together.
+        <li> The living and the dead,
+        <li> And made therein mountains standing firm, lofty (in stature); and provided for you water sweet (and wholesome)?
+        <li> Ah woe, that Day, to the Rejecters of Truth!
+        <li> (It will be said:) "Depart ye to that which ye used to reject as false!
+        <li> "Depart ye to a Shadow (of smoke ascending) in three columns,
+        <li> "(Which yields) no shade of coolness, and is of no use against the fierce Blaze.
+        <li> "Indeed it throws about sparks (huge) as Forts,
+        <li> "As if there were (a string of) yellow camels (marching swiftly)."
+        <li> Ah woe, that Day, to the Rejecters of Truth!
+        <li> That will be a Day when they shall not be able to speak.
+        <li> Nor will it be open to them to put forth pleas.
+        <li> Ah woe, that Day, to the Rejecters of Truth!
+        <li> That will be a Day of Sorting out! We shall gather you together and those before (you)!
+        <li> Now, if ye have a trick (or plot), use it against Me!
+        <li> Ah woe, that Day, to the Rejecters of Truth!
+        <li> As to the Righteous, they shall be amidst (cool) shades and springs (of water).
+        <li> And (they shall have) fruits,- all they desire.
+        <li> "Eat ye and drink ye to your heart�s content: for that ye worked (Righteousness).
+        <li> Thus do We certainly reward the Doers of Good.
+        <li> Ah woe, that Day, to the Rejecters of Truth!
+        <li> (O ye unjust!) Eat ye and enjoy yourselves (but) a little while, for that ye are Sinners.
+        <li> Ah woe, that Day, to the Rejecters of Truth!
+        <li> And when it is said to them, "Prostrate yourselves!" they do not so.
+        <li> Ah woe, that Day, to the Rejecters of Truth!
+        <li> Then what Message, after that, will they believe in?`
+    },
+    //78
+    {
+        'arb':`
+        <li> عَمَّ يَتَسَاءَلُونَ
+        <li> عَنِ النَّبَإِ الْعَظِيمِ
+        <li> الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
+        <li> كَلَّا سَيَعْلَمُونَ
+        <li> ثُمَّ كَلَّا سَيَعْلَمُونَ
+        <li> أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
+        <li> وَالْجِبَالَ أَوْتَادًا
+        <li> وَخَلَقْنَاكُمْ أَزْوَاجًا
+        <li> وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+        <li>  وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+        <li>  وَجَعَلْنَا النَّهَارَ مَعَاشًا
+        <li>  وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
+        <li>  وَجَعَلْنَا سِرَاجًا وَهَّاجًا
+        <li>  وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+        <li>  لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا
+        <li>  وَجَنَّاتٍ أَلْفَافًا
+        <li>  إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا
+        <li>  يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
+        <li>  وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا
+        <li>  وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا
+        <li>  إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا
+        <li>  لِلطَّاغِينَ مَآبًا
+        <li>  لَابِثِينَ فِيهَا أَحْقَابًا
+        <li>  لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا
+        <li>  إِلَّا حَمِيمًا وَغَسَّاقًا
+        <li>  جَزَاءً وِفَاقًا
+        <li>  إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا
+        <li>  وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا
+        <li>  وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا
+        <li>  فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا
+        <li>  إِنَّ لِلْمُتَّقِينَ مَفَازًا
+        <li>  حَدَائِقَ وَأَعْنَابًا
+        <li>  وَكَوَاعِبَ أَتْرَابًا
+        <li>  وَكَأْسًا دِهَاقًا
+        <li>  لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا
+        <li>  جَزَاءً مِنْ رَبِّكَ عَطَاءً حِسَابًا
+        <li>  رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
+        <li>  يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا
+        <li>  ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا
+        <li>  إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا`,
+            //english
+            'eng': `
+        <li> 'Amma Yatasaa-aloon
+        <li> 'Anin-nabaa-il 'azeem
+        <li> Allazi hum feehi mukh talifoon
+        <li> Kallaa sa y'alamoon
+        <li> Thumma kallaa sa y'alamoon
+        <li> Alam naj'alil arda mihaa da
+        <li> Wal jibaala au taada
+        <li> Wa khalaq naakum azwaaja
+        <li> Waja'alna naumakum subata
+        <li> Waja'alnal laila libasa
+        <li> Waja'alnan nahara ma 'aasha
+        <li> Wa banaina fauqakum sab 'an shi daada
+        <li> Waja'alna siraajaw wah haaja
+        <li> Wa anzalna minal m'usiraati maa-an thaj-jaaja
+        <li> Linukh rija bihee habbaw wana baata
+        <li> Wa jan naatin alfafa
+        <li> Inna yaumal-fasli kana meeqaata
+        <li> Yauma yun fakhu fis-soori fataa' toona afwaaja
+        <li> Wa futiha tis samaa-u fakaanat abwaaba
+        <li> Wa suyyi raatil jibaalu fa kaanat saraaba
+        <li> Inna jahan nama kaanat mirsaada
+        <li> Lit taa gheena ma aaba
+        <li> Laa bitheena feehaa ahqaaba
+        <li> Laa ya zooqoona feeha bar daw walaa sharaaba
+        <li> Illa hamee maw-wa ghas saaqa
+        <li> Jazaa-aw wi faaqa
+        <li> Innahum kaanu laa yarjoona hisaaba
+        <li> Wa kazzabu bi aayaa tina kizzaba
+        <li> Wa kulla shai-in ahsai naahu kitaa ba
+        <li> Fa zooqoo falan-nazee dakum ill-laa azaaba (section 1)
+        <li> Inna lil mutta qeena mafaaza
+        <li> Hadaa-iqa wa a'anaa ba
+        <li> Wa kaawa 'iba at raaba
+        <li> Wa ka'san di haaqa
+        <li> Laa yasma'oona fiha lagh waw walaa kizzaba
+        <li> Jazaa-am mir-rabbika ataa-an hisaaba
+        <li> Rabbis samaa waati wal ardi wa maa baina humar rahmaani laa yam likoona minhu khitaaba
+        <li> Yauma yaqoo mur roohu wal malaa-ikatu saf-fal laa yatakallamoona ill-laa man azina lahur rahmaanu wa qaala sawaaba
+        <li> Zaalikal yaumul haqqu faman shaa-at ta khaaza ill-laa rabbihi ma-aaba
+        <li> In naa anzar naakum azaaban qareebaiy-yauma yan zurul marr-u maa qaddamat yadaahu wa ya qoolul-kaafiru yaa lai tanee kuntu turaaba (section 2)`,
+            //trans
+            'translation':`
+        <li> Concerning what are they disputing?
+        <li> Concerning the Great News,
+        <li> About which they cannot agree.
+        <li> Verily, they shall soon (come to) know!
+        <li> Verily, verily they shall soon (come to) know!
+        <li> Have We not made the earth as a wide expanse,
+        <li> And the mountains as pegs?
+        <li> And (have We not) created you in pairs,
+        <li> And made your sleep for rest,
+        <li> And made the night as a covering,
+        <li> And made the day as a means of subsistence?
+        <li> And (have We not) built over you the seven firmaments,
+        <li> And placed (therein) a Light of Splendour?
+        <li> And do We not send down from the clouds water in abundance,
+        <li> That We may produce therewith corn and vegetables,
+        <li> And gardens of luxurious growth?
+        <li> Verily the Day of Sorting out is a thing appointed,
+        <li> The Day that the Trumpet shall be sounded, and ye shall come forth in crowds;
+        <li> And the heavens shall be opened as if there were doors,
+        <li> And the mountains shall vanish, as if they were a mirage.
+        <li> Truly Hell is as a place of ambush,
+        <li> For the transgressors a place of destination:
+        <li> They will dwell therein for ages.
+        <li> Nothing cool shall they taste therein, nor any drink,
+        <li> Save a boiling fluid and a fluid, dark, murky, intensely cold,
+        <li> A fitting recompense (for them).
+        <li> For that they used not to fear any account (for their deeds),
+        <li> But they (impudently) treated Our Signs as false.
+        <li> And all things have We preserved on record.
+        <li> "So taste ye (the fruits of your deeds); for no increase shall We grant you, except in Punishment."
+        <li> Verily for the Righteous there will be a fulfilment of (the heart�s) desires;
+        <li> Gardens enclosed, and grapevines;
+        <li> And voluptuous women of equal age;
+        <li> And a cup full (to the brim).
+        <li> No vanity shall they hear therein, nor Untruth:-
+        <li> Recompense from thy Lord, a gift, (amply) sufficient,
+        <li> (From) the Lord of the heavens and the earth, and all between, (Allah) Most Gracious: None shall have power to argue with Him.
+        <li> The Day that the Spirit and the angels will stand forth in ranks, none shall speak except any who is permitted by (Allah) Most Gracious, and He will say what is right.
+        <li> That Day will be the sure Reality: Therefore, whoso will, let him take a (straight) return to his Lord!
+        <li> Verily, We have warned you of a Penalty near, the Day when man will see (the deeds) which his hands have sent forth, and the Unbeliever will say, "Woe unto me! Would that I were (metre) dust!"`
+    },
+    //79
+    {
+        'arb':`
+        <li> وَالنَّازِعَاتِ غَرْقًا
+        <li> وَالنَّاشِطَاتِ نَشْطًا
+        <li> وَالسَّابِحَاتِ سَبْحًا
+        <li> فَالسَّابِقَاتِ سَبْقًا
+        <li> فَالْمُدَبِّرَاتِ أَمْرًا
+        <li> يَوْمَ تَرْجُفُ الرَّاجِفَةُ
+        <li> تَتْبَعُهَا الرَّادِفَةُ
+        <li> قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ
+        <li> أَبْصَارُهَا خَاشِعَةٌ
+        <li>  يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ
+        <li>  أَإِذَا كُنَّا عِظَامًا نَخِرَةً
+        <li>  قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ
+        <li>  فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ
+        <li>  فَإِذَا هُمْ بِالسَّاهِرَةِ
+        <li>  هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ
+        <li>  إِذْ نَادَاهُ رَبُّهُ بِالْوَادِ الْمُقَدَّسِ طُوًى
+        <li>  اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ
+        <li>  فَقُلْ هَلْ لَكَ إِلَىٰ أَنْ تَزَكَّىٰ
+        <li>  وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ
+        <li>  فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ
+        <li>  فَكَذَّبَ وَعَصَىٰ
+        <li>  ثُمَّ أَدْبَرَ يَسْعَىٰ
+        <li>  فَحَشَرَ فَنَادَىٰ
+        <li>  فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ
+        <li>  فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ
+        <li>  إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِمَنْ يَخْشَىٰ
+        <li>  أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا
+        <li>  رَفَعَ سَمْكَهَا فَسَوَّاهَا
+        <li>  وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا
+        <li>  وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا
+        <li>  أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا
+        <li>  وَالْجِبَالَ أَرْسَاهَا
+        <li>  مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ
+        <li>  فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَىٰ
+        <li>  يَوْمَ يَتَذَكَّرُ الْإِنْسَانُ مَا سَعَىٰ
+        <li>  وَبُرِّزَتِ الْجَحِيمُ لِمَنْ يَرَىٰ
+        <li>  فَأَمَّا مَنْ طَغَىٰ
+        <li>  وَآثَرَ الْحَيَاةَ الدُّنْيَا
+        <li>  فَإِنَّ الْجَحِيمَ هِيَ الْمَأْوَىٰ
+        <li>  وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَىٰ
+        <li>  فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَىٰ
+        <li>  يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا
+        <li>  فِيمَ أَنْتَ مِنْ ذِكْرَاهَا
+        <li>  إِلَىٰ رَبِّكَ مُنْتَهَاهَا
+        <li>  إِنَّمَا أَنْتَ مُنْذِرُ مَنْ يَخْشَاهَا
+        <li>  كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ ضُحَاهَا`,
+            //english
+            'eng': `
+        <li> Wan naazi 'aati gharqa
+        <li> Wan naa shi taati nashta
+        <li> Wass saabi-haati sabha
+        <li> Fass saabi qaati sabqa
+        <li> Fal mu dab-bi raati amra
+        <li> Yawma tarjufur raajifa
+        <li> Tatba'u har raadifa
+        <li> Quloobuny-yau maaiziw-waaji-fa
+        <li> Absaa ruhaa khashi'ah
+        <li> Ya qoo loona a-inna lamar doo doona fil haafirah
+        <li> Aizaa kunna 'izaa man-nakhirah
+        <li> Qaalu tilka izan karratun khaasirah.
+        <li> Fa inna ma hiya zajratuw-waahida
+        <li> Faizaa hum biss saahirah
+        <li> Hal ataaka hadeethu Musaa
+        <li> Iz nadaahu rabbuhu bil waadil-muqad dasi tuwa
+        <li> Izhab ilaa fir'auna innahu taghaa.
+        <li> Faqul hal laka ilaa-an tazakka.
+        <li> Wa ahdi yaka ila rabbika fatakh sha
+        <li> Fa araahul-aayatal kubra.
+        <li> Fa kazzaba wa asaa.
+        <li> Thumma adbara yas'aa.
+        <li> Fa hashara fanada.
+        <li> Faqala ana rabbu kumul-a'laa.
+        <li> Fa-akha zahul laahu nakalal aakhirati wal-oola.
+        <li> Inna fee zaalika la'ibratal limaiy-yaksha
+        <li> A-antum a shaddu khalqan amis samaa-u banaaha.
+        <li> Raf'a sam kaha fasaw waaha
+        <li> Wa aghtasha lailaha wa akhraja duhaaha.
+        <li> Wal arda b'ada zaalika dahaaha.
+        <li> Akhraja minha maa-aha wa mar 'aaha.
+        <li> Wal jibala arsaaha.
+        <li> Mataa'al lakum wali an 'aamikum.
+        <li> Fa-izaa jaaa'atit taaam matul kubraa.
+        <li> Yauma Yata zakkarul insaanu ma sa'aa.
+        <li> Wa burrizatil-jaheemu limany-yaraa.
+        <li> Fa ammaa man taghaa.
+        <li> Wa aasaral hayaatad dunyaa
+        <li> Fa innal jaheema hiyal maawaa.
+        <li> Wa ammaa man khaafa maqaama Rabbihee wa nahan nafsa 'anil hawaa
+        <li> Fa innal jannata hiyal ma'waa
+        <li> Yas'aloonaka 'anis saa'ati ayyaana mursaahaa
+        <li> Feema anta min zikraahaa
+        <li> Ilaa Rabbika muntahaa haa
+        <li> Innamaaa anta munziru maiy yakshaahaa
+        <li> Ka annahum Yawma yarawnahaa lam yalbasooo illaa 'ashiyyatan aw duhaahaa`,
+            //trans
+            'translation':`
+        <li> By the (angels) who tear out (the souls of the wicked) with violence;
+        <li> By those who gently draw out (the souls of the blessed);
+        <li> And by those who glide along (on errands of mercy),
+        <li> Then press forward as in a race,
+        <li> Then arrange to do (the Commands of their Lord),
+        <li> One Day everything that can be in commotion will be in violent commotion,
+        <li> Followed by oft-repeated (commotions):
+        <li> Hearts that Day will be in agitation;
+        <li> Cast down will be (their owners�) eyes.
+        <li> They say (now): "What! shall we indeed be returned to (our) former state?
+        <li> "What! - when we shall have become rotten bones?"
+        <li> They say: "It would, in that case, be a return with loss!"
+        <li> But verily, it will be but a single (Compelling) Cry,
+        <li> When, behold, they will be in the (full) awakening (to Judgment).
+        <li> Has the story of Moses reached thee?
+        <li> Behold, thy Lord did call to him in the sacred valley of Tuwa:-
+        <li> "Go thou to Pharaoh for he has indeed transgressed all bounds:
+        <li> "And say to him, �Wouldst thou that thou shouldst be purified (from sin)?-
+        <li> "�And that I guide thee to thy Lord, so thou shouldst fear Him?�"
+        <li> Then did (Moses) show him the Great Sign.
+        <li> But (Pharaoh) rejected it and disobeyed (guidance);
+        <li> Further, he turned his back, striving hard (against Allah).
+        <li> Then he collected (his men) and made a proclamation,
+        <li> Saying, "I am your Lord, Most High".
+        <li> But Allah did punish him, (and made an) example of him, - in the Hereafter, as in this life.
+        <li> Verily in this is an instructive warning for whosoever feareth (Allah).
+        <li> What! Are ye the more difficult to create or the heaven (above)? (Allah) hath constructed it:
+        <li> On high hath He raised its canopy, and He hath given it order and perfection.
+        <li> Its night doth He endow with darkness, and its splendour doth He bring out (with light).
+        <li> And the earth, moreover, hath He extended (to a wide expanse);
+        <li> He draweth out therefrom its moisture and its pasture;
+        <li> And the mountains hath He firmly fixed;-
+        <li> For use and convenience to you and your cattle.
+        <li> Therefore, when there comes the great, overwhelming (Event),-
+        <li> The Day when man shall remember (all) that he strove for,
+        <li> And Hell-Fire shall be placed in full view for (all) to see,-
+        <li> Then, for such as had transgressed all bounds,
+        <li> And had preferred the life of this world,
+        <li> The Abode will be Hell-Fire;
+        <li> And for such as had entertained the fear of standing before their Lord�s (tribunal) and had restrained (their) soul from lower desires,
+        <li> Their abode will be the Garden.
+        <li> They ask thee about the Hour,-�When will be its appointed time?
+        <li> Wherein art thou (concerned) with the declaration thereof?
+        <li> With thy Lord in the Limit fixed therefor.
+        <li> Thou art but a Warner for such as fear it.
+        <li> The Day they see it, (It will be) as if they had tarried but a single evening, or (at most till) the following morn!`
+    },
+    //80
+    {
+        'arb':`
+        <li> عَبَسَ وَتَوَلَّىٰ
+        <li> أَنْ جَاءَهُ الْأَعْمَىٰ
+        <li> وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ
+        <li> أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ
+        <li> أَمَّا مَنِ اسْتَغْنَىٰ
+        <li> فَأَنْتَ لَهُ تَصَدَّىٰ
+        <li> وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
+        <li> وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ
+        <li> وَهُوَ يَخْشَىٰ
+        <li>  فَأَنْتَ عَنْهُ تَلَهَّىٰ
+        <li>  كَلَّا إِنَّهَا تَذْكِرَةٌ
+        <li>  فَمَنْ شَاءَ ذَكَرَهُ
+        <li>  فِي صُحُفٍ مُكَرَّمَةٍ
+        <li>  مَرْفُوعَةٍ مُطَهَّرَةٍ
+        <li>  بِأَيْدِي سَفَرَةٍ
+        <li>  كِرَامٍ بَرَرَةٍ
+        <li>  قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ
+        <li>  مِنْ أَيِّ شَيْءٍ خَلَقَهُ
+        <li>  مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ
+        <li>  ثُمَّ السَّبِيلَ يَسَّرَهُ
+        <li>  ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ
+        <li>  ثُمَّ إِذَا شَاءَ أَنْشَرَهُ
+        <li>  كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ
+        <li>  فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ
+        <li>  أَنَّا صَبَبْنَا الْمَاءَ صَبًّا
+        <li>  ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا
+        <li>  فَأَنْبَتْنَا فِيهَا حَبًّا
+        <li>  وَعِنَبًا وَقَضْبًا
+        <li>  وَزَيْتُونًا وَنَخْلًا
+        <li>  وَحَدَائِقَ غُلْبًا
+        <li>  وَفَاكِهَةً وَأَبًّا
+        <li>  مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ
+        <li>  فَإِذَا جَاءَتِ الصَّاخَّةُ
+        <li>  يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ
+        <li>  وَأُمِّهِ وَأَبِيهِ
+        <li>  وَصَاحِبَتِهِ وَبَنِيهِ
+        <li>  لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+        <li>  وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ
+        <li>  ضَاحِكَةٌ مُسْتَبْشِرَةٌ
+        <li>  وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ
+        <li>  تَرْهَقُهَا قَتَرَةٌ
+        <li>  أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ`,
+            //english
+            'eng': `
+        <li> 'Abasa wa tawallaa.
+        <li> An jaa-ahul 'a-maa
+        <li> Wa maa yudreeka la'allahu yaz zakkaa.
+        <li> Aw yazzakkaru fatanfa 'ahuz zikraa.
+        <li> Amma manis taghnaa
+        <li> Fa-anta lahu tasaddaa
+        <li> Wa ma 'alaika allaa yaz zakka.
+        <li> Wa amma man jaa-aka yas'a
+        <li> Wahuwa yakhshaa,
+        <li> Fa-anta 'anhu talah haa.
+        <li> Kalla innaha tazkirah
+        <li> Faman shaa a zakarah
+        <li> Fi suhufim mukar rama,
+        <li> Marfoo'atim mutah hara,
+        <li> Bi'aidee safara
+        <li> Kiraamim bararah.
+        <li> Qutilal-insanu maa akfarah.
+        <li> Min aiyyi shai-in Khalaq
+        <li> Min nutfatin khalaqahoo faqaddarah.
+        <li> Thummas sabeela yas-sarah
+        <li> Thumma amatahu fa-aqbarah
+        <li> Thumma iza shaa-a ansharah
+        <li> Kalla lamma yaqdi maa amarah.
+        <li> Falyanzuril insanu ilaa ta-amih
+        <li> Anna sabab nalmaa-a sabba.
+        <li> Thumma sha qaqnal-arda shaqqa.
+        <li> Fa ambatna feeha habba
+        <li> Wa 'inabaw-wa qadba
+        <li> Wa zaitoonaw wanakh la'
+        <li> Wa hadaa-iqa ghulba
+        <li> Wa faki hataw-wa abba.
+        <li> Mata'al-lakum wa li-an'amikum.
+        <li> Faiza jaa-atis saakhah.
+        <li> Yauma yafir-rul mar-u min akheeh
+        <li> Wa ummihee wa abeeh
+        <li> Wa sahi batihee wa baneeh.
+        <li> Likul limri-im-minhum yawmaa-izin shaa nuy-yughneeh
+        <li> Wujoo huny-yauma-izim-musfira;
+        <li> Dahi katum mustab shirah
+        <li> Wa wujoohuy yauma-izin 'alaiha ghabar a
+        <li> Tarhaquha qatarah.
+        <li> Ulaa-ika humul-kafa ratul-fajarah.`,
+            //trans
+            'translation':`
+        <li> (The Prophet) frowned and turned away,
+        <li> Because there came to him the blind man (interrupting).
+        <li> But what could tell thee but that perchance he might grow (in spiritual understanding)?-
+        <li> Or that he might receive admonition, and the teaching might profit him?
+        <li> As to one who regards Himself as self-sufficient,
+        <li> To him dost thou attend;
+        <li> Though it is no blame to thee if he grow not (in spiritual understanding).
+        <li> But as to him who came to thee striving earnestly,
+        <li> And with fear (in his heart),
+        <li> Of him wast thou unmindful.
+        <li> By no means (should it be so)! For it is indeed a Message of instruction:
+        <li> Therefore let whoso will, keep it in remembrance.
+        <li> (It is) in Books held (greatly) in honour,
+        <li> Exalted (in dignity), kept pure and holy,
+        <li> (Written) by the hands of scribes-
+        <li> Honourable and Pious and Just.
+        <li> Woe to man! What hath made him reject Allah;
+        <li> From what stuff hath He created him?
+        <li> From a sperm-drop: He hath created him, and then mouldeth him in due proportions;
+        <li> Then doth He make His path smooth for him;
+        <li> Then He causeth him to die, and putteth him in his grave;
+        <li> Then, when it is His Will, He will raise him up (again).
+        <li> By no means hath he fulfilled what Allah hath commanded him.
+        <li> Then let man look at his food, (and how We provide it):
+        <li> For that We pour forth water in abundance,
+        <li> And We split the earth in fragments,
+        <li> And produce therein corn,
+        <li> And Grapes and nutritious plants,
+        <li> And Olives and Dates,
+        <li> And enclosed Gardens, dense with lofty trees,
+        <li> And fruits and fodder,-
+        <li> For use and convenience to you and your cattle.
+        <li> At length, when there comes the Deafening Noise,-
+        <li> That Day shall a man flee from his own brother,
+        <li> And from his mother and his father,
+        <li> And from his wife and his children.
+        <li> Each one of them, that Day, will have enough concern (of his own) to make him indifferent to the others.
+        <li> Some faces that Day will be beaming,
+        <li> Laughing, rejoicing.
+        <li> And other faces that Day will be dust-stained,
+        <li> Blackness will cover them:
+        <li> Such will be the Rejecters of Allah, the doers of iniquity.`
+    },
+    //81
+    {
+        'arb':`
+        <li>إِذَا الشَّمْسُ كُوِّرَتْ
+        <li>وَإِذَا النُّجُومُ انْكَدَرَتْ
+        <li>وَإِذَا الْجِبَالُ سُيِّرَتْ
+        <li>وَإِذَا الْعِشَارُ عُطِّلَتْ
+        <li>وَإِذَا الْوُحُوشُ حُشِرَتْ
+        <li>وَإِذَا الْبِحَارُ سُجِّرَتْ
+        <li>وَإِذَا النُّفُوسُ زُوِّجَتْ
+        <li>وَإِذَا الْمَوْءُودَةُ سُئِلَتْ
+        <li>بِأَيِّ ذَنْبٍ قُتِلَتْ
+        <li> وَإِذَا الصُّحُفُ نُشِرَتْ
+        <li> وَإِذَا السَّمَاءُ كُشِطَتْ
+        <li> وَإِذَا الْجَحِيمُ سُعِّرَتْ
+        <li> وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+        <li> عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ
+        <li> فَلَا أُقْسِمُ بِالْخُنَّسِ
+        <li> الْجَوَارِ الْكُنَّسِ
+        <li> وَاللَّيْلِ إِذَا عَسْعَسَ
+        <li> وَالصُّبْحِ إِذَا تَنَفَّسَ
+        <li> إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ
+        <li> ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ
+        <li> مُطَاعٍ ثَمَّ أَمِينٍ
+        <li> وَمَا صَاحِبُكُمْ بِمَجْنُونٍ
+        <li> وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ
+        <li> وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ
+        <li> وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ
+        <li> فَأَيْنَ تَذْهَبُونَ
+        <li> إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ
+        <li> لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ
+        <li> وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ`,
+            //english
+            'eng': `
+        <li>Izash shamsu kuwwirat
+        <li>Wa izan nujoomun kadarat
+        <li>Wa izal jibaalu suyyirat
+        <li>Wa izal 'ishaaru 'uttilat
+        <li>Wa izal wuhooshu hushirat
+        <li>Wa izal bihaaru sujjirat
+        <li>Wa izan nufoosu zuwwijat
+        <li>Wa izal maw'oodatu su'ilat
+        <li>Bi ayyi zambin qutilat
+        <li>Wa izas suhufu nushirat
+        <li>Wa izas samaaa'u kushitat
+        <li>Wa izal jaheemu su'-'irat
+        <li>Wa izal jannatu uzlifat
+        <li>'Alimat nafsum maaa ahdarat
+        <li>Falaaa uqsimu bil khunnas
+        <li>Al jawaaril kunnas
+        <li>Wallaili izaa 'as'as
+        <li>Wassubhi izaa tanaffas
+        <li>Innahoo laqawlu rasoolin kareem
+        <li>Zee quwwatin 'inda zil 'arshi makeen
+        <li>Mutaa'in samma ameen
+        <li>Wa maa saahibukum bimajnoon
+        <li>Wa laqad ra aahu bilufuqil mubeen
+        <li>Wa maa huwa 'alal ghaibi bidaneen
+        <li>Wa maa huwa biqawli shaitaanir rajeem
+        <li>Fa ayna tazhaboon
+        <li>In huwa illaa zikrul lil'aalameen
+        <li>Liman shaaa'a minkum ai yastaqeem
+        <li>Wa maa tashaaa'oona illaaa ai yashaaa 'al laahu Rabbul 'Aalameen`,
+        //trans
+        'translation':`
+        <li>When the sun (with its spacious light) is folded up;
+        <li>When the stars fall, losing their lustre;
+        <li>When the mountains vanish (like a mirage);
+        <li>When the she-camels, ten months with young, are left untended;
+        <li>When the wild beasts are herded together (in the human habitations);
+        <li>When the oceans boil over with a swell;
+        <li>When the souls are sorted out, (being joined, like with like);
+        <li>When the female (infant), buried alive, is questioned -
+        <li>For what crime she was killed;
+        <li>When the scrolls are laid open;
+        <li>When the world on High is unveiled;
+        <li>When the Blazing Fire is kindled to fierce heat;
+        <li>And when the Garden is brought near;-
+        <li>(Then) shall each soul know what it has put forward.
+        <li>So verily I call to witness the planets - that recede,
+        <li>Go straight, or hide;
+        <li>And the Night as it dissipates;
+        <li>And the Dawn as it breathes away the darkness;-
+        <li>Verily this is the word of a most honourable Messenger,
+        <li>Endued with Power, with rank before the Lord of the Throne,
+        <li>With authority there, (and) faithful to his trust.
+        <li>And (O people!) your companion is not one possessed;
+        <li>And without doubt he saw him in the clear horizon.
+        <li>Neither doth he withhold grudgingly a knowledge of the Unseen.
+        <li>Nor is it the word of an evil spirit accursed.
+        <li>When whither go ye?
+        <li>Verily this is no less than a Message to (all) the Worlds:
+        <li>(With profit) to whoever among you wills to go straight:
+        <li>But ye shall not will except as Allah wills,- the Cherisher of the Worlds.`
+    },
+    //82
+    {
+        'arb':`
+        <li> إِذَا السَّمَاءُ انْفَطَرَتْ
+        <li> وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ
+        <li> وَإِذَا الْبِحَارُ فُجِّرَتْ
+        <li> وَإِذَا الْقُبُورُ بُعْثِرَتْ
+        <li> عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ
+        <li> يَا أَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ
+        <li> الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ
+        <li> فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ
+        <li> كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ
+        <li>  وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ
+        <li>  كِرَامًا كَاتِبِينَ
+        <li>  يَعْلَمُونَ مَا تَفْعَلُونَ
+        <li>  إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ
+        <li>  وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ
+        <li>  يَصْلَوْنَهَا يَوْمَ الدِّينِ
+        <li>  وَمَا هُمْ عَنْهَا بِغَائِبِينَ
+        <li>  وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
+        <li>  ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
+        <li>  يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ`,
+            //english
+            'eng': `
+        <li> Izas samaaa'un fatarat
+        <li> Wa izal kawaakibun tasarat
+        <li> Wa izal bihaaru fujjirat
+        <li> Wa izal qubooru bu'sirat
+        <li> 'Alimat nafsum maa qaddamat wa akhkharat
+        <li> Yaaa ayyuhal insaaanu maa gharraka bi Rabbikal kareem
+        <li> Allazee khalaqaka fasaw waaka fa'adalak
+        <li> Feee ayye sooratim maa shaaa'a rakkabak
+        <li> Kalla bal tukazziboona bid deen
+        <li> Wa inna 'alaikum lahaa fizeen
+        <li> Kiraaman kaatibeen
+        <li> Ya'lamoona ma taf'aloon
+        <li> Innal abraara lafee na'eem
+        <li> Wa innal fujjaara lafee jaheem
+        <li> Yaslawnahaa Yawmad Deen
+        <li> Wa maa hum 'anhaa bighaaa 'ibeen
+        <li> Wa maaa adraaka maa Yawmud Deen
+        <li> Summa maaa adraaka maa Yawmud Deen
+        <li> Yawma laa tamliku nafsul linafsin shai'anw walamru yawma'izil lillaah`,
+            //trans
+            'translation':`
+        <li> When the Sky is cleft asunder;
+        <li> When the Stars are scattered;
+        <li> When the Oceans are suffered to burst forth;
+        <li> And when the Graves are turned upside down;-
+        <li> (Then) shall each soul know what it hath sent forward and (what it hath) kept back.
+        <li> O man! What has seduced thee from thy Lord Most Beneficent?-
+        <li> Him Who created thee. Fashioned thee in due proportion, and gave thee a just bias;
+        <li> In whatever Form He wills, does He put thee together.
+        <li> Nay! But ye do reject Right and Judgment!
+        <li> But verily over you (are appointed angels) to protect you,-
+        <li> Kind and honourable,- Writing down (your deeds):
+        <li> They know (and understand) all that ye do.
+        <li> As for the Righteous, they will be in bliss;
+        <li> And the Wicked - they will be in the Fire,
+        <li> Which they will enter on the Day of Judgment,
+        <li> And they will not be able to keep away therefrom.
+        <li> And what will explain to thee what the Day of Judgment is?
+        <li> Again, what will explain to thee what the Day of Judgment is?
+        <li> (It will be) the Day when no soul shall have power (to do) aught for another: For the command, that Day, will be (wholly) with Allah.`
+    },
+    //83
+    {
+        'arb':`
+        <li> وَيْلٌ لِلْمُطَفِّفِينَ
+        <li> الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ
+        <li> وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ
+        <li> أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُمْ مَبْعُوثُونَ
+        <li> لِيَوْمٍ عَظِيمٍ
+        <li> يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ
+        <li> كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ
+        <li> وَمَا أَدْرَاكَ مَا سِجِّينٌ
+        <li> كِتَابٌ مَرْقُومٌ
+        <li>  وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+        <li>  الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ
+        <li>  وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ
+        <li>  إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ
+        <li>  كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ
+        <li>  كَلَّا إِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَ
+        <li>  ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ
+        <li>  ثُمَّ يُقَالُ هَٰذَا الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ
+        <li>  كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ
+        <li>  وَمَا أَدْرَاكَ مَا عِلِّيُّونَ
+        <li>  كِتَابٌ مَرْقُومٌ
+        <li>  يَشْهَدُهُ الْمُقَرَّبُونَ
+        <li>  إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ
+        <li>  عَلَى الْأَرَائِكِ يَنْظُرُونَ
+        <li>  تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ
+        <li>  يُسْقَوْنَ مِنْ رَحِيقٍ مَخْتُومٍ
+        <li>  خِتَامُهُ مِسْكٌ ۚ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ
+        <li>  وَمِزَاجُهُ مِنْ تَسْنِيمٍ
+        <li>  عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ
+        <li>  إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ
+        <li>  وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ
+        <li>  وَإِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمُ انْقَلَبُوا فَكِهِينَ
+        <li>  وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ
+        <li>  وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ
+        <li>  فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ
+        <li>  عَلَى الْأَرَائِكِ يَنْظُرُونَ
+        <li>  هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ`,
+            //english
+            'eng': `
+        <li> Wailul lil mutaffifeen
+        <li> Allazeena izak taaloo 'alan naasi yastawfoon
+        <li> Wa izaa kaaloohum aw wazanoohum yukhsiroon
+        <li> Alaa yazunnu ulaaa'ika annahum mab'oosoon
+        <li> Li Yawmin 'Azeem
+        <li> Yawma yaqoomun naasu li Rabbil 'aalameen
+        <li> Kallaaa inna kitaabal fujjaari lafee Sijjeen
+        <li> Wa maa adraaka maa Sijjeen
+        <li> Kitaabum marqoom
+        <li> Wailuny yawma'izil lil mukazzibeen
+        <li> Allazeena yukazziboona bi yawmid deen
+        <li> Wa maa yukazzibu biheee illaa kullu mu'tadin aseem
+        <li> Izaa tutlaa'alaihi aayaatunaa qaala asaateerul awwaleen
+        <li> Kallaa bal raana 'alaa quloobihim maa kaanoo yaksiboon
+        <li> Kallaaa innahum 'ar Rabbihim yawma'izil lamah jooboon
+        <li> Summa innahum lasaa lul jaheem
+        <li> Summa yuqaalu haazal lazee kuntum bihee tukazziboon
+        <li> Kallaaa inna kitaabal abraari lafee'Illiyyeen
+        <li> Wa maaa adraaka maa 'Illiyyoon
+        <li> Kitaabum marqoom
+        <li> Yashhadu hul muqarra boon
+        <li> Innal abraara lafee Na'eem
+        <li> 'Alal araaa'iki yanzuroon
+        <li> Ta'rifu fee wujoohihim nadratan na'eem
+        <li> Yusqawna mir raheeqim makhtoom
+        <li> Khitaamuhoo misk; wa fee zaalika falyatanaafasil Mutanaafisoon
+        <li> Wa mizaajuhoo min Tasneem
+        <li> 'Ainaiy yashrabu bihal muqarraboon
+        <li> Innal lazeena ajramoo kaanoo minal lazeena aamanoo yadhakoon
+        <li> Wa izaa marroo bihim yataghaamazoon
+        <li> Wa izan qalabooo ilaaa ahlihimun qalaboo fakiheen
+        <li> Wa izaa ra awhum qaalooo inna haaa'ulaaa'i ladaaal loon
+        <li> Wa maaa ursiloo 'alaihim haafizeen
+        <li> Fal yawmal lazeena aamanoo minal kuffaari yadhakoon
+        <li> 'Alal araaa'iki yanzuroon
+        <li> Hal suwwibal kuffaaru maa kaanoo yaf'aloon`,
+            //trans
+            'translation':`
+        <li> Woe to those that deal in fraud,-
+        <li> Those who, when they have to receive by measure from men, exact full measure,
+        <li> But when they have to give by measure or weight to men, give less than due.
+        <li> Do they not think that they will be called to account?-
+        <li> On a Mighty Day,
+        <li> A Day when (all) mankind will stand before the Lord of the Worlds?
+        <li> Nay! Surely the record of the wicked is (preserved) in Sijjin.
+        <li> And what will explain to thee what Sijjin is?
+        <li> (There is) a Register (fully) inscribed.
+        <li> Woe, that Day, to those that deny-
+        <li> Those that deny the Day of Judgment.
+        <li> And none can deny it but the Transgressor beyond bounds the Sinner!
+        <li> When Our Signs are rehearsed to him, he says, "Tales of the ancients!"
+        <li> By no means! but on their hearts is the stain of the (ill) which they do!
+        <li> Verily, from (the Light of) their Lord, that Day, will they be veiled.
+        <li> Further, they will enter the Fire of Hell.
+        <li> Further, it will be said to them: "This is the (reality) which ye rejected as false!
+        <li> Day, verily the record of the Righteous is (preserved) in �Illiyin.
+        <li> And what will explain to thee what �Illiyun is?
+        <li> (There is) a Register (fully) inscribed,
+        <li> To which bear witness those Nearest (to Allah).
+        <li> Truly the Righteous will be in Bliss:
+        <li> On Thrones (of Dignity) will they command a sight (of all things):
+        <li> Thou wilt recognise in their faces the beaming brightness of Bliss.
+        <li> Their thirst will be slaked with Pure Wine sealed:
+        <li> The seal thereof will be Musk: And for this let those aspire, who have aspirations:
+        <li> With it will be (given) a mixture of Tasnim:
+        <li> A spring, from (the waters) whereof drink those Nearest to Allah.
+        <li> Those in sin used to laugh at those who believed,
+        <li> And whenever they passed by them, used to wink at each other (in mockery);
+        <li> And when they returned to their own people, they would return jesting;
+        <li> And whenever they saw them, they would say, "Behold! These are the people truly astray!"
+        <li> But they had not been sent as keepers over them!
+        <li> But on this Day the Believers will laugh at the Unbelievers:
+        <li> On Thrones (of Dignity) they will command (a sight) (of all things).
+        <li> Will not the Unbelievers have been paid back for what they did?`
+    },
+    //84
+    {
+        'arb':`
+        <li> إِذَا السَّمَاءُ انْشَقَّتْ
+        <li> وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
+        <li> وَإِذَا الْأَرْضُ مُدَّتْ
+        <li> وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ
+        <li> وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
+        <li> يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ
+        <li> فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ
+        <li> فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا
+        <li> وَيَنْقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا
+        <li>  وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ
+        <li>  فَسَوْفَ يَدْعُو ثُبُورًا
+        <li>  وَيَصْلَىٰ سَعِيرًا
+        <li>  إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا
+        <li>  إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ
+        <li>  بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا
+        <li>  فَلَا أُقْسِمُ بِالشَّفَقِ
+        <li>  وَاللَّيْلِ وَمَا وَسَقَ
+        <li>  وَالْقَمَرِ إِذَا اتَّسَقَ
+        <li>  لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ
+        <li>  فَمَا لَهُمْ لَا يُؤْمِنُونَ
+        <li>  وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ ۩
+        <li>  بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ
+        <li>  وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ
+        <li>  فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ
+        <li>  إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ`,
+         //english
+            'eng': `
+        <li> Izas samaaa'un shaqqat
+        <li> Wa azinat li Rabbihaa wa huqqat
+        <li> Wa izal ardu muddat
+        <li> Wa alqat maa feehaa wa takhallat
+        <li> Wa azinat li Rabbihaa wa huqqat
+        <li> Yaaa ayyuhal insaanu innaka kaadihun ilaa Rabbika kad han famulaaqeeh
+        <li> Fa ammaa man ootiya kitaabahoo biyameenih
+        <li> Fasawfa yuhaasab hisaabany yaseeraa
+        <li> Wa yanqalibu ilaaa ahlihee masrooraa
+        <li> Wa ammaa man ootiya kitaabahoo waraaa'a zahrih
+        <li> Fasawfa yad'oo thubooraa
+        <li> Wa yaslaa sa'eeraa
+        <li> Innahoo kaana feee ahlihee masrooraa
+        <li> Innahoo zanna an lany yahoor
+        <li> Balaaa inna Rabbahoo kaana bihee baseeraa
+        <li> Falaaa uqsimu bishshafaq
+        <li> Wallaili wa maa wasaq
+        <li> Walqamari izat tasaq
+        <li> Latarkabunna tabaqan 'an tabaq
+        <li> Famaa lahum laa yu'minoon
+        <li> Wa izaa quri'a 'alaihimul Quraanu laa yasjudoon (make sajda)
+        <li> Balil lazeena kafaroo yukazziboon
+        <li> Wallaahu a'lamu bimaa yoo'oon
+        <li> Fabashshirhum bi'azaabin aleem
+        <li> Illal lazeena aamanoo wa 'amilus saalihaati lahum ajrun ghairu mamnoon`,
+            //trans
+            'translation':`
+        <li> When the sky is rent asunder,
+        <li> And hearkens to (the Command of) its Lord, and it must needs (do so);-
+        <li> And when the earth is flattened out,
+        <li> And casts forth what is within it and becomes (clean) empty,
+        <li> And hearkens to (the Command of) its Lord,- and it must needs (do so);- (then will come Home the full reality).
+        <li> O thou man! Verily thou art ever toiling on towards thy Lord- painfully toiling,- but thou shalt meet Him.
+        <li> Then he who is given his Record in his right hand,
+        <li> Soon will his account be taken by an easy reckoning,
+        <li> And he will turn to his people, rejoicing!
+        <li> But he who is given his Record behind his back,-
+        <li> Soon will he cry for perdition,
+        <li> And he will enter a Blazing Fire.
+        <li> Truly, did he go about among his people, rejoicing!
+        <li> Truly, did he think that he would not have to return (to Us)!
+        <li> Nay, nay! for his Lord was (ever) watchful of him!
+        <li> So I do call to witness the ruddy glow of Sunset;
+        <li> The Night and its Homing;
+        <li> And the Moon in her fullness:
+        <li> Ye shall surely travel from stage to stage.
+        <li> What then is the matter with them, that they believe not?-
+        <li> And when the Qur�an is read to them, they fall not prostrate,
+        <li> But on the contrary the Unbelievers reject (it).
+        <li> But Allah has full knowledge of what they secrete (in their breasts)
+        <li> So announce to them a Penalty Grievous,
+        <li> Except to those who believe and work righteous deeds: For them is a Reward that will never fail.`
+    },
+    //85
+    {
+        'arb':`
+        <li> وَالسَّمَاءِ ذَاتِ الْبُرُوجِ
+        <li> وَالْيَوْمِ الْمَوْعُودِ
+        <li> وَشَاهِدٍ وَمَشْهُودٍ
+        <li> قُتِلَ أَصْحَابُ الْأُخْدُودِ
+        <li> النَّارِ ذَاتِ الْوَقُودِ
+        <li> إِذْ هُمْ عَلَيْهَا قُعُودٌ
+        <li> وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ
+        <li> وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ
+        <li> الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ
+        <li>  إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ
+        <li>  إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ
+        <li>  إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ
+        <li>  إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ
+        <li>  وَهُوَ الْغَفُورُ الْوَدُودُ
+        <li>  ذُو الْعَرْشِ الْمَجِيدُ
+        <li>  فَعَّالٌ لِمَا يُرِيدُ
+        <li>  هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ
+        <li>  فِرْعَوْنَ وَثَمُودَ
+        <li>  بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ
+        <li>  وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ
+        <li>  بَلْ هُوَ قُرْآنٌ مَجِيدٌ
+        <li>  فِي لَوْحٍ مَحْفُوظٍ`,
+            //english
+            'eng': `
+        <li> Wassamaaa'i zaatil burooj
+        <li> Wal yawmil maw'ood
+        <li> Wa shaahidinw wa mashhood
+        <li> Qutila as haabul ukhdood
+        <li> Annaari zaatil waqood
+        <li> Iz hum 'alaihaa qu'ood
+        <li> Wa hum 'alaa maa yaf'aloona bilmu 'mineena shuhood
+        <li> Wa maa naqamoo minhum illaaa aiyu'minoo billaahil 'azeezil Hameed
+        <li> Allazee lahoo mulkus samaawaati wal ard; wallaahu 'alaa kulli shai 'in Shaheed
+        <li> Innal lazeena fatanul mu'mineena wal mu'minaati summa lam yatooboo falahum 'azaabu Jahannama wa lahum 'azaabul hareeq
+        <li> Innal lazeena aamanoo wa 'amilus saalihaati lahum Jannaatun tajree min tahtihal anhaar; zaalikal fawzul kabeer
+        <li> Inna batsha Rabbika lashadeed
+        <li> Innahoo Huwa yubdi'u wa yu'eed
+        <li> Wa Huwal Ghafoorul Wadood
+        <li> Zul 'Arshil Majeed
+        <li> Fa' 'aalul limaa yureed
+        <li> Hal ataaka hadeesul junood
+        <li> Fir'awna wa Samood
+        <li> Balil lazeena kafaroo fee takzeeb
+        <li> Wallaahu minw waraaa'ihim muheet
+        <li> Bal huwa Quraanum Majeed
+        <li> Fee Lawhim Mahfooz`,
+            //trans
+            'translation':`
+        <li> By the sky, (displaying) the Zodiacal Signs;
+        <li> By the promised Day (of Judgment);
+        <li> By one that witnesses, and the subject of the witness;-
+        <li> Woe to the makers of the pit (of fire),
+        <li> Fire supplied (abundantly) with fuel:
+        <li> Behold! they sat over against the (fire),
+        <li> And they witnessed (all) that they were doing against the Believers.
+        <li> And they ill-treated them for no other reason than that they believed in Allah, Exalted in Power, Worthy of all Praise!-
+        <li> Him to Whom belongs the dominion of the heavens and the earth! And Allah is Witness to all things.
+        <li> Those who persecute (or draw into temptation) the Believers, men and women, and do not turn in repentance, will have the Penalty of Hell: They will have the Penalty of the Burning Fire.
+        <li> For those who believe and do righteous deeds, will be Gardens; beneath which rivers flow: That is the great Salvation, (the fulfilment of all desires),
+        <li> Truly strong is the Grip (and Power) of thy Lord.
+        <li> It is He Who creates from the very beginning, and He can restore (life).
+        <li> And He is the Oft-Forgiving, Full of Loving-Kindness,
+        <li> Lord of the Throne of Glory,
+        <li> Doer (without let) of all that He intends.
+        <li> Has the story reached thee, of the forces-
+        <li> Of Pharaoh and the Thamud?
+        <li> And yet the Unbelievers (persist) in rejecting (the Truth)!
+        <li> But Allah doth encompass them from behind!
+        <li> Day, this is a Glorious Qur�an,
+        <li> (Inscribed) in a Tablet Preserved!`
+    },
+    //86
+    {
+        'arb':`
+        <li> وَالسَّمَاءِ وَالطَّارِقِ
+        <li> وَمَا أَدْرَاكَ مَا الطَّارِقُ
+        <li> النَّجْمُ الثَّاقِبُ
+        <li> إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ
+        <li> فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ
+        <li> خُلِقَ مِنْ مَاءٍ دَافِقٍ
+        <li> يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ
+        <li> إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ
+        <li> يَوْمَ تُبْلَى السَّرَائِرُ
+        <li>  فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ
+        <li>  وَالسَّمَاءِ ذَاتِ الرَّجْعِ
+        <li>  وَالْأَرْضِ ذَاتِ الصَّدْعِ
+        <li>  إِنَّهُ لَقَوْلٌ فَصْلٌ
+        <li>  وَمَا هُوَ بِالْهَزْلِ
+        <li>  إِنَّهُمْ يَكِيدُونَ كَيْدًا
+        <li>  وَأَكِيدُ كَيْدًا
+        <li>  فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا`,
+            //english
+            'eng': `
+        <li> Wassamaaa'i wattaariq
+        <li> Wa maaa adraaka mattaariq
+        <li> Annajmus saaqib
+        <li> In kullu nafsil lammaa 'alaihaa haafiz
+        <li> Fal yanzuril insaanu mimma khuliq
+        <li> Khuliqa mim maaa'in daafiq
+        <li> Yakhruju mim bainissulbi wat taraaa'ib
+        <li> Innahoo 'alaa raj'ihee laqaadir
+        <li> Yawma tublas saraaa'ir
+        <li> Famaa lahoo min quwwatinw wa laa naasir
+        <li> Wassamaaa'i zaatir raj'
+        <li> Wal ardi zaatis sad'
+        <li> Innahoo laqawlun fasl
+        <li> Wa maa huwa bil hazl
+        <li> Innahum yakeedoona kaidaa
+        <li> Wa akeedu kaidaa
+        <li> Famahhilil kaafireena amhilhum ruwaidaa`,
+            //trans
+            'translation':`
+        <li> By the Sky and the Night-Visitant (therein);-
+        <li> And what will explain to thee what the Night-Visitant is?-
+        <li> (It is) the Star of piercing brightness;-
+        <li> There is no soul but has a protector over it.
+        <li> Now let man but think from what he is created!
+        <li> He is created from a drop emitted-
+        <li> Proceeding from between the backbone and the ribs:
+        <li> Surely (Allah) is able to bring him back (to life)!
+        <li> The Day that (all) things secret will be tested,
+        <li> (Man) will have no power, and no helper.
+        <li> By the Firmament which returns (in its round),
+        <li> And by the Earth which opens out (for the gushing of springs or the sprouting of vegetation),-
+        <li> Behold this is the Word that distinguishes (Good from Evil):
+        <li> It is not a thing for amusement.
+        <li> As for them, they are but plotting a scheme,
+        <li> And I am planning a scheme.
+        <li> Therefore grant a delay to the Unbelievers: Give respite to them gently (for awhile).`
+    },
+    //87
+    {
+        'arb':`
+        <li> سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى
+        <li> الَّذِي خَلَقَ فَسَوَّىٰ
+        <li> وَالَّذِي قَدَّرَ فَهَدَىٰ
+        <li> وَالَّذِي أَخْرَجَ الْمَرْعَىٰ
+        <li> فَجَعَلَهُ غُثَاءً أَحْوَىٰ
+        <li> سَنُقْرِئُكَ فَلَا تَنْسَىٰ
+        <li> إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ
+        <li> وَنُيَسِّرُكَ لِلْيُسْرَىٰ
+        <li> فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَىٰ
+        <li>  سَيَذَّكَّرُ مَنْ يَخْشَىٰ
+        <li>  وَيَتَجَنَّبُهَا الْأَشْقَى
+        <li>  الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ
+        <li>  ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
+        <li>  قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ
+        <li>  وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ
+        <li>  بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا
+        <li>  وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ
+        <li>  إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ
+        <li>  صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ`,
+            //english
+            'eng': `
+        <li> Sabbihisma Rabbikal A'laa
+        <li> Allazee khalaqa fasawwaa
+        <li> Wallazee qaddara fahadaa
+        <li> Wallazeee akhrajal mar'aa
+        <li> Faja'alahoo ghusaaa'an ahwaa
+        <li> Sanuqri'uka falaa tansaaa
+        <li> Illaa maa shaaa'al laah; innahoo ya'lamul jahra wa maa yakhfaa
+        <li> Wa nu-yassiruka lilyusraa
+        <li> Fazakkir in nafa'atizzikraa
+        <li> Sa yazzakkaru maiyakhshaa
+        <li> Wa yatajannabuhal ashqaa
+        <li> Allazee yaslan Naaral kubraa
+        <li> Summa laa yamootu feehaa wa laa yahyaa
+        <li> Qad aflaha man tazakkaa
+        <li> Wa zakaras ma Rabbihee fasallaa
+        <li> Bal tu'siroonal hayaatad dunyaa
+        <li> Wal Aakhiratu khairunw wa abqaa
+        <li> Inna haazaa lafis suhu fil oolaa
+        <li> Suhufi Ibraaheema wa Moosaa`,
+            //trans
+            'translation':`
+        <li> Glorify the name of thy Guardian-Lord Most High,
+        <li> Who hath created, and further, given order and proportion;
+        <li> Who hath ordained laws. And granted guidance;
+        <li> And Who bringeth out the (green and luscious) pasture,
+        <li> And then doth make it (but) swarthy stubble.
+        <li> By degrees shall We teach thee to declare (the Message), so thou shalt not forget,
+        <li> Except as Allah wills: For He knoweth what is manifest and what is hidden.
+        <li> And We will make it easy for thee (to follow) the simple (Path).
+        <li> Therefore give admonition in case the admonition profits (the hearer).
+        <li> The admonition will be received by those who fear (Allah):
+        <li> But it will be avoided by those most unfortunate ones,
+        <li> Who will enter the Great Fire,
+        <li> In which they will then neither die nor live.
+        <li> But those will prosper who purify themselves,
+        <li> And glorify the name of their Guardian-Lord, and (lift their hearts) in prayer.
+        <li> Day (behold), ye prefer the life of this world;
+        <li> But the Hereafter is better and more enduring.
+        <li> And this is in the Books of the earliest (Revelation),-
+        <li> The Books of Abraham and Moses.`
+    },
+    //88
+    {
+        'arb':`
+        <li> هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ
+        <li> وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
+        <li> عَامِلَةٌ نَاصِبَةٌ
+        <li> تَصْلَىٰ نَارًا حَامِيَةً
+        <li> تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ
+        <li> لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ
+        <li> لَا يُسْمِنُ وَلَا يُغْنِي مِنْ جُوعٍ
+        <li> وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ
+        <li> لِسَعْيِهَا رَاضِيَةٌ
+        <li>  فِي جَنَّةٍ عَالِيَةٍ
+        <li>  لَا تَسْمَعُ فِيهَا لَاغِيَةً
+        <li>  فِيهَا عَيْنٌ جَارِيَةٌ
+        <li>  فِيهَا سُرُرٌ مَرْفُوعَةٌ
+        <li>  وَأَكْوَابٌ مَوْضُوعَةٌ
+        <li>  وَنَمَارِقُ مَصْفُوفَةٌ
+        <li>  وَزَرَابِيُّ مَبْثُوثَةٌ
+        <li>  أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ
+        <li>  وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ
+        <li>  وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ
+        <li>  وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ
+        <li>  فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ
+        <li>  لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ
+        <li>  إِلَّا مَنْ تَوَلَّىٰ وَكَفَرَ
+        <li>  فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ
+        <li>  إِنَّ إِلَيْنَا إِيَابَهُمْ
+        <li>  ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ`,
+            //english
+            'eng': `
+        <li> Hal ataaka hadeesul ghaashiyah
+        <li> Wujoohuny yawma 'izin khaashi'ah
+        <li> 'Aamilatun naasibah
+        <li> Taslaa naaran haamiyah
+        <li> Tusqaa min 'aynin aaniyah
+        <li> Laisa lahum ta'aamun illaa min daree'
+        <li> Laa yusminu wa laa yughnee min joo'
+        <li> Wujoohuny yawma 'izin naa'imah
+        <li> Lisa'yihaa raadiyah
+        <li> Fee jannatin 'aaliyah
+        <li> Laa tasma'u feehaa laaghiyah
+        <li> Feehaa 'aynun jaariyah
+        <li> Feehaa sururum marfoo'ah
+        <li> Wa akwaabum mawzoo'ah
+        <li> Wa namaariqu masfoofah
+        <li> Wa zaraabiyyu mabsoosah
+        <li> Afalaa yanzuroona ilalibili kaifa khuliqat
+        <li> Wa ilas samaaa'i kaifa rufi'at
+        <li> Wa ilal jibaali kaifa nusibat
+        <li> Wa ilal ardi kaifa sutihat
+        <li> Fazakkir innama anta Muzakkir
+        <li> Lasta 'alaihim bimusaitir
+        <li> Illaa man tawallaa wa kafar
+        <li> Fa yu'azzibuhul laahul 'azaabal akbar
+        <li> Innaa ilainaaa iyaabahum
+        <li> Summa inna 'alainaa hisaabahum`,
+            //trans
+            'translation':`
+        <li> Has the story reached thee of the overwhelming (Event)?
+        <li> Some faces, that Day, will be humiliated,
+        <li> Labouring (hard), weary,-
+        <li> The while they enter the Blazing Fire,-
+        <li> The while they are given, to drink, of a boiling hot spring,
+        <li> No food will there be for them but a bitter Dhari�
+        <li> Which will neither nourish nor satisfy hunger.
+        <li> (Other) faces that Day will be joyful,
+        <li> Pleased with their striving,-
+        <li> In a Garden on high,
+        <li> Where they shall hear no (word) of vanity:
+        <li> Therein will be a bubbling spring:
+        <li> Therein will be Thrones (of dignity), raised on high,
+        <li> Goblets placed (ready),
+        <li> And cushions set in rows,
+        <li> And rich carpets (all) spread out.
+        <li> Do they not look at the Camels, how they are made?-
+        <li> And at the Sky, how it is raised high?-
+        <li> And at the Mountains, how they are fixed firm?-
+        <li> And at the Earth, how it is spread out?
+        <li> Therefore do thou give admonition, for thou art one to admonish.
+        <li> Thou art not one to manage (men�s) affairs.
+        <li> But if any turn away and reject Allah,-
+        <li> Allah will punish him with a mighty Punishment,
+        <li> For to Us will be their return;
+        <li> Then it will be for Us to call them to account.`
+    },
+    //89
+    {
+        'arb':`
+        <li> وَالْفَجْرِ
+        <li> وَلَيَالٍ عَشْرٍ
+        <li> وَالشَّفْعِ وَالْوَتْرِ
+        <li> وَاللَّيْلِ إِذَا يَسْرِ
+        <li> هَلْ فِي ذَٰلِكَ قَسَمٌ لِذِي حِجْرٍ
+        <li> أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ
+        <li> إِرَمَ ذَاتِ الْعِمَادِ
+        <li> الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ
+        <li> وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ
+        <li>  وَفِرْعَوْنَ ذِي الْأَوْتَادِ
+        <li>  الَّذِينَ طَغَوْا فِي الْبِلَادِ
+        <li>  فَأَكْثَرُوا فِيهَا الْفَسَادَ
+        <li>  فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ
+        <li>  إِنَّ رَبَّكَ لَبِالْمِرْصَادِ
+        <li>  فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ
+        <li>  وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ
+        <li>  كَلَّا ۖ بَلْ لَا تُكْرِمُونَ الْيَتِيمَ
+        <li>  وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ
+        <li>  وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا
+        <li>  وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا
+        <li>  كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا
+        <li>  وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا
+        <li>  وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنْسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ
+        <li>  يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي
+        <li>  فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُ أَحَدٌ
+        <li>  وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ
+        <li>  يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ
+        <li>  ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً
+        <li>  فَادْخُلِي فِي عِبَادِي
+        <li>  وَادْخُلِي جَنَّتِي`,
+            //english
+            'eng': `
+        <li> Wal-Fajr
+        <li> Wa layaalin 'ashr
+        <li> Wash shaf'i wal watr
+        <li> Wallaili izaa yasr
+        <li> Hal fee zaalika qasamul lizee hijr
+        <li> Alam tara kaifa fa'ala rabbuka bi'aad
+        <li> Iramaa zaatil 'imaad
+        <li> Allatee lam yukhlaq misluhaa fil bilaad
+        <li> Wa samoodal lazeena jaabus sakhra bil waad
+        <li> Wa fir'awna zil awtaad
+        <li> Allazeena taghaw fil bilaad
+        <li> Fa aksaroo feehal fasaad
+        <li> Fasabba 'alaihim Rabbuka sawta 'azaab
+        <li> Inna Rabbaka labil mirsaad
+        <li> Fa ammal insaanu izaa mab talaahu Rabbuhoo fa akramahoo wa na' 'amahoo fa yaqoolu Rabbeee akraman
+        <li> Wa ammaaa izaa mabtalaahu faqadara 'alaihi rizqahoo fa yaqoolu Rabbeee ahaanan
+        <li> Kalla bal laa tukrimooo nal yateem
+        <li> Wa laa tahaaaddoona 'alaata'aamil miskeen
+        <li> Wa taakuloonat turaasa aklal lammaa
+        <li> Wa tuhibboonal maala hubban jammaa
+        <li> Kallaaa izaaa dukkatil ardu dakkan dakka
+        <li> Wa jaaa'a Rabbuka wal malaku saffan saffaa
+        <li> Wa jeee'a yawma'izim bi jahannnam; Yawma 'iziny yatazakkarul insaanu wa annaa lahuz zikraa
+        <li> Yaqoolu yaa laitanee qaddamtu lihayaatee
+        <li> Fa Yawma izil laa yu'azzibu 'azaabahooo ahad
+        <li> Wa laa yoosiqu wasaaqa hooo ahad
+        <li> Yaaa ayyatuhan nafsul mutma 'innah
+        <li> Irji'eee ilaa Rabbiki raadiyatam mardiyyah
+        <li> Fadkhulee fee 'ibaadee
+        <li> Wadkhulee jannatee`,
+            //trans
+            'translation':`
+        <li> By the break of Day
+        <li> By the Nights twice five;
+        <li> By the even and odd (contrasted);
+        <li> And by the Night when it passeth away;-
+        <li> Is there (not) in these an adjuration (or evidence) for those who understand?
+        <li> Seest thou not how thy Lord dealt with the �Ad (people),-
+        <li> Of the (city of) Iram, with lofty pillars,
+        <li> The like of which were not produced in (all) the land?
+        <li> And with the Thamud (people), who cut out (huge) rocks in the valley?-
+        <li> And with Pharaoh, lord of stakes?
+        <li> (All) these transgressed beyond bounds in the lands,
+        <li> And heaped therein mischief (on mischief).
+        <li> Therefore did thy Lord pour on them a scourge of diverse chastisements:
+        <li> For thy Lord is (as a Guardian) on a watch-tower.
+        <li> Now, as for man, when his Lord trieth him, giving him honour and gifts, then saith he, (puffed up), "My Lord hath honoured me."
+        <li> But when He trieth him, restricting his subsistence for him, then saith he (in despair), "My Lord hath humiliated me!"
+        <li> Nay, nay! but ye honour not the orphans!
+        <li> Nor do ye encourage one another to feed the poor!-
+        <li> And ye devour inheritance - all with greed,
+        <li> And ye love wealth with inordinate love!
+        <li> Nay! When the earth is pounded to powder,
+        <li> And thy Lord cometh, and His angels, rank upon rank,
+        <li> And Hell, that Day, is brought (face to face),- on that Day will man remember, but how will that remembrance profit him?
+        <li> He will say: "Ah! Would that I had sent forth (good deeds) for (this) my (Future) Life!"
+        <li> For, that Day, His Chastisement will be such as none (else) can inflict,
+        <li> And His bonds will be such as none (other) can bind.
+        <li> (To the righteous soul will be said:) "O (thou) soul, in (complete) rest and satisfaction!
+        <li> "Come back thou to thy Lord,- well pleased (thyself), and well-pleasing unto Him!
+        <li> "Enter thou, then, among My devotees!
+        <li> "Yea, enter thou My Heaven!`
+    },
+    //90
+    {
+        'arb':`
+        <li> لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ
+        <li> وَأَنْتَ حِلٌّ بِهَٰذَا الْبَلَدِ
+        <li> وَوَالِدٍ وَمَا وَلَدَ
+        <li> لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ
+        <li> أَيَحْسَبُ أَنْ لَنْ يَقْدِرَ عَلَيْهِ أَحَدٌ
+        <li> يَقُولُ أَهْلَكْتُ مَالًا لُبَدًا
+        <li> أَيَحْسَبُ أَنْ لَمْ يَرَهُ أَحَدٌ
+        <li> أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ
+        <li> وَلِسَانًا وَشَفَتَيْنِ
+        <li>  وَهَدَيْنَاهُ النَّجْدَيْنِ
+        <li>  فَلَا اقْتَحَمَ الْعَقَبَةَ
+        <li>  وَمَا أَدْرَاكَ مَا الْعَقَبَةُ
+        <li>  فَكُّ رَقَبَةٍ
+        <li>  أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ
+        <li>  يَتِيمًا ذَا مَقْرَبَةٍ
+        <li>  أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
+        <li>  ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ
+        <li>  أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ
+        <li>  وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ
+        <li>  عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ`,
+            //english
+            'eng': `
+        <li> Laaa uqsimu bihaazal balad
+        <li> Wa anta hillum bihaazal balad
+        <li> Wa waalidinw wa maa walad
+        <li> Laqad khalaqnal insaana fee kabad
+        <li> Ayahsabu al-lai yaqdira 'alaihi ahad
+        <li> Yaqoolu ahlaktu maalal lubadaa
+        <li> Ayahsabu al lam yarahooo ahad
+        <li> Alam naj'al lahoo 'aynayn
+        <li> Wa lisaananw wa shafatayn
+        <li> Wa hadaynaahun najdayn
+        <li> Falaq tahamal-'aqabah
+        <li> Wa maaa adraaka mal'aqabah
+        <li> Fakku raqabah
+        <li> Aw it'aamun fee yawmin zee masghabah
+        <li> Yateeman zaa maqrabah
+        <li> Aw miskeenan zaa matrabah
+        <li> Summa kaana minal lazeena aamanoo wa tawaasaw bissabri wa tawaasaw bilmarhamah
+        <li> Ulaaa'ika As-haabul maimanah
+        <li> Wallazeena kafaroo bi aayaatinaa hum as-haabul Mash'amah
+        <li> Alaihim naarum mu'sadah`,
+            //trans
+            'translation':`
+        <li> I do call to witness this City;-
+        <li> And thou art a freeman of this City;-
+        <li> And (the mystic ties of) parent and child;-
+        <li> Verily We have created man into toil and struggle.
+        <li> Thinketh he, that none hath power over him?
+        <li> He may say (boastfully); Wealth have I squandered in abundance!
+        <li> Thinketh he that none beholdeth him?
+        <li> Have We not made for him a pair of eyes?-
+        <li> And a tongue, and a pair of lips?-
+        <li> And shown him the two highways?
+        <li> But he hath made no haste on the path that is steep.
+        <li> And what will explain to thee the path that is steep?-
+        <li> (It is:) freeing the bondman;
+        <li> Or the giving of food in a day of privation
+        <li> To the orphan with claims of relationship,
+        <li> Or to the indigent (down) in the dust.
+        <li> Then will he be of those who believe, and enjoin patience, (constancy, and self-restraint), and enjoin deeds of kindness and compassion.
+        <li> Such are the Companions of the Right Hand.
+        <li> But those who reject Our Signs, they are the (unhappy) Companions of the Left Hand.
+        <li> On them will be Fire vaulted over (all round).`
+    },
+    //91
+    {
+        'arb':`
+        <li> وَالشَّمْسِ وَضُحَاهَا
+        <li> وَالْقَمَرِ إِذَا تَلَاهَا
+        <li> وَالنَّهَارِ إِذَا جَلَّاهَا
+        <li> وَاللَّيْلِ إِذَا يَغْشَاهَا
+        <li> وَالسَّمَاءِ وَمَا بَنَاهَا
+        <li> وَالْأَرْضِ وَمَا طَحَاهَا
+        <li> وَنَفْسٍ وَمَا سَوَّاهَا
+        <li> فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا
+        <li> قَدْ أَفْلَحَ مَنْ زَكَّاهَا
+        <li>  وَقَدْ خَابَ مَنْ دَسَّاهَا
+        <li>  كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا
+        <li>  إِذِ انْبَعَثَ أَشْقَاهَا
+        <li>  فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا
+        <li>  فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا
+        <li>  وَلَا يَخَافُ عُقْبَاهَا`,
+            //english
+            'eng': `
+        <li> Wash shamsi wa duhaa haa
+        <li> Wal qamari izaa talaa haa
+        <li> Wannahaari izaa jallaa haa
+        <li> Wallaili izaa yaghshaa haa
+        <li> Wassamaaa'i wa maa banaahaa
+        <li> Wal ardi wa maa tahaahaa
+        <li> Wa nafsinw wa maa sawwaahaa
+        <li> Fa-alhamahaa fujoorahaa wa taqwaahaa
+        <li> Qad aflaha man zakkaahaa
+        <li> Wa qad khaaba man dassaahaa
+        <li> Kazzabat Samoodu bi taghwaahaaa
+        <li> Izim ba'asa ashqaahaa
+        <li> Faqaala lahum Rasoolul laahi naaqatal laahi wa suqiyaahaa
+        <li> Fakazzaboohu fa'aqaroohaa fadamdama 'alaihim Rabbuhum bizambihim fasaw waahaa
+        <li> Wa laa yakhaafu'uqbaahaa`,
+            //trans
+            'translation':`
+        <li> By the Sun and his (glorious) splendour;
+        <li> By the Moon as she follows him;
+        <li> By the Day as it shows up (the Sun�s) glory;
+        <li> By the Night as it conceals it;
+        <li> By the Firmament and its (wonderful) structure;
+        <li> By the Earth and its (wide) expanse:
+        <li> By the Soul, and the proportion and order given to it;
+        <li> And its enlightenment as to its wrong and its right;-
+        <li> Truly he succeeds that purifies it,
+        <li> And he fails that corrupts it!
+        <li> The Thamud (people) rejected (their prophet) through their inordinate wrong-doing,
+        <li> Behold, the most wicked man among them was deputed (for impiety).
+        <li> But the Messenger of Allah said to them: "It is a She-camel of Allah! And (bar her not from) having her drink!"
+        <li> Then they rejected him (as a false prophet), and they hamstrung her. So their Lord, on account of their crime, obliterated their traces and made them equal (in destruction, high and low)!
+        <li> And for Him is no fear of its consequences.`
+    },
+    //92
+    {
+        'arb':`
+        <li> وَاللَّيْلِ إِذَا يَغْشَىٰ
+        <li> وَالنَّهَارِ إِذَا تَجَلَّىٰ
+        <li> وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَىٰ
+        <li> إِنَّ سَعْيَكُمْ لَشَتَّىٰ
+        <li> فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ
+        <li> وَصَدَّقَ بِالْحُسْنَىٰ
+        <li> فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ
+        <li> وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَىٰ
+        <li> وَكَذَّبَ بِالْحُسْنَىٰ
+        <li>  فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ
+        <li>  وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ
+        <li>  إِنَّ عَلَيْنَا لَلْهُدَىٰ
+        <li>  وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ
+        <li>  فَأَنْذَرْتُكُمْ نَارًا تَلَظَّىٰ
+        <li>  لَا يَصْلَاهَا إِلَّا الْأَشْقَى
+        <li>  الَّذِي كَذَّبَ وَتَوَلَّىٰ
+        <li>  وَسَيُجَنَّبُهَا الْأَتْقَى
+        <li>  الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ
+        <li>  وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَىٰ
+        <li>  إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ
+        <li>  وَلَسَوْفَ يَرْضَىٰ`,
+             //english
+            'eng': `
+        <li> Wallaili izaa yaghshaa
+        <li> Wannahaari izaa tajalla
+        <li> Wa maa khalaqaz zakara wal unthaa
+        <li> Inna sa'yakum lashattaa
+        <li> Fa ammaa man a'taa wattaqaa
+        <li> Wa saddaqa bil husnaa
+        <li> Fasanu yassiruhoo lilyusraa
+        <li> Wa ammaa man bakhila wastaghnaa
+        <li> Wa kazzaba bil husnaa
+        <li> Fasanu yassiruhoo lil'usraa
+        <li> Wa maa yughnee 'anhu maaluhooo izaa taraddaa
+        <li> Inna 'alainaa lal hudaa
+        <li> Wa inna lanaa lal Aakhirata wal oolaa
+        <li> Fa anzartukum naaran talazzaa
+        <li> Laa yaslaahaaa illal ashqaa
+        <li> Allazee kazzaba wa tawallaa
+        <li> Wa sa yujannnabuhal atqaa
+        <li> Allazee yu'tee maalahoo yatazakkaa
+        <li> Wa maa li ahadin 'indahoo min ni'matin tujzaaa
+        <li> Illab tighaaa'a wajhi rabbihil a 'laa
+        <li> Wa lasawfa yardaa`,
+            //trans
+            'translation':`
+        <li> By the Night as it conceals (the light);
+        <li> By the Day as it appears in glory;
+        <li> By (the mystery of) the creation of male and female;-
+        <li> Verily, (the ends) ye strive for are diverse.
+        <li> So he who gives (in charity) and fears (Allah),
+        <li> And (in all sincerity) testifies to the best,-
+        <li> We will indeed make smooth for him the path to Bliss.
+        <li> But he who is a greedy miser and thinks himself self-sufficient,
+        <li> And gives the lie to the best,-
+        <li> We will indeed make smooth for him the path to Misery;
+        <li> Nor will his wealth profit him when he falls headlong (into the Pit).
+        <li> Verily We take upon Ourselves to guide,
+        <li> And verily unto Us (belong) the End and the Beginning.
+        <li> Therefore do I warn you of a Fire blazing fiercely;
+        <li> None shall reach it but those most unfortunate ones
+        <li> Who give the lie to Truth and turn their backs.
+        <li> But those most devoted to Allah shall be removed far from it,-
+        <li> Those who spend their wealth for increase in self-purification,
+        <li> And have in their minds no favour from anyone for which a reward is expected in return,
+        <li> But only the desire to seek for the Countenance of their Lord Most High;
+        <li> And soon will they attain (complete) satisfaction.`
+    },
+    //93
+    {
+        'arb':`
+        <li> وَالضُّحَىٰ
+        <li> وَاللَّيْلِ إِذَا سَجَىٰ
+        <li> مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ
+        <li> وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَىٰ
+        <li> وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ
+        <li> أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ
+        <li> وَوَجَدَكَ ضَالًّا فَهَدَىٰ
+        <li> وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ
+        <li> فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ
+        <li>  وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ
+        <li>  وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ`,
+             //english
+             'eng': `
+        <li> Wad duhaa
+        <li> Wal laili iza sajaa
+        <li> Ma wad da'aka rabbuka wa ma qalaa
+        <li> Walal-aakhiratu khairul laka minal-oola
+        <li> Wa la sawfa y'uteeka rabbuka fatarda
+        <li> Alam ya jidka yateeman fa aawaa
+        <li> Wa wa jadaka daal lan fahada
+        <li> Wa wa jadaka 'aa-ilan fa aghnaa
+        <li> Fa am mal yateema fala taqhar
+        <li> Wa am mas saa-ila fala tanhar
+        <li> Wa amma bi ni'mati rabbika fahad dith`,
+            //trans
+            'translation':`
+        <li> By the Glorious Morning Light,
+        <li> And by the Night when it is still,-
+        <li> Thy Guardian-Lord hath not forsaken thee, nor is He displeased.
+        <li> And verily the Hereafter will be better for thee than the present.
+        <li> And soon will thy Guardian-Lord give thee (that wherewith) thou shalt be well-pleased.
+        <li> Did He not find thee an orphan and give thee shelter (and care)?
+        <li> And He found thee wandering, and He gave thee guidance.
+        <li> And He found thee in need, and made thee independent.
+        <li> Therefore, treat not the orphan with harshness,
+        <li> Nor repulse the petitioner (unheard);
+        <li> But the bounty of the Lord - rehearse and proclaim!`
+    },
+    //94
+    {
+        'arb':`
+        <li>أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ
+        <li>وَوَضَعْنَا عَنْكَ وِزْرَكَ
+        <li>الَّذِي أَنْقَضَ ظَهْرَكَ
+        <li>وَرَفَعْنَا لَكَ ذِكْرَكَ
+        <li>فَإِنَّ مَعَ الْعُسْرِ يُسْرًا
+        <li>إِنَّ مَعَ الْعُسْرِ يُسْرًا
+        <li>فَإِذَا فَرَغْتَ فَانْصَبْ
+        <li>وَإِلَىٰ رَبِّكَ فَارْغَبْ`,
+            //english
+            'eng': `
+        <li>Alam nashrah laka sadrak
+        <li>Wa wa d'ana 'anka wizrak
+        <li>Allazee anqada zahrak
+        <li>Wa raf 'ana laka zikrak
+        <li>Fa inna ma'al usri yusra
+        <li>Inna ma'al 'usri yusra
+        <li>Fa iza faragh ta fansab
+        <li>Wa ilaa rabbika far ghab`,
+            //trans
+            'translation':`
+        <li>Have We not expanded thee thy breast?-
+        <li>And removed from thee thy burden
+        <li>The which did gall thy back?-
+        <li>And raised high the esteem (in which) thou (art held)?
+        <li>So, verily, with every difficulty, there is relief:
+        <li>Verily, with every difficulty there is relief.
+        <li>Therefore, when thou art free (from thine immediate task), still labour hard,
+        <li>And to thy Lord turn (all) thy attention.`
+    },
+    //95
+    {
+        'arb':`
+        <li> وَالتِّينِ وَالزَّيْتُونِ
+        <li> وَطُورِ سِينِينَ
+        <li> وَهَٰذَا الْبَلَدِ الْأَمِينِ
+        <li> لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ
+        <li> ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ
+        <li> إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ
+        <li> فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ
+        <li> أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ`,
+            //english
+            'eng': `
+        <li> Wat teeni waz zaitoon
+        <li> Wa toori sineen
+        <li> Wa haazal balad-il ameen
+        <li> Laqad khalaqnal insaana fee ahsani taqweem
+        <li> Thumma ra dad naahu asfala saafileen
+        <li> Ill-lal lazeena aamanoo wa 'amilus saalihaati; falahum ajrun ghairu mamnoon
+        <li> Fama yu kaz zibuka b'adu bid deen
+        <li> Alai sal laahu bi-ahkamil haakimeen`,
+            //trans
+            'translation':`
+        <li> By the Fig and the Olive,
+        <li> And the Mount of Sinai,
+        <li> And this City of security,-
+        <li> We have indeed created man in the best of moulds,
+        <li> Then do We abase him (to be) the lowest of the low,-
+        <li> Except such as believe and do righteous deeds: For they shall have a reward unfailing.
+        <li> Then what can, after this, contradict thee, as to the judgment (to come)?
+        <li> Is not Allah the wisest of judges?`
+    },
+    //96
+    {
+        'arb':`
+        <li>اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ
+        <li>خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ
+        <li>اقْرَأْ وَرَبُّكَ الْأَكْرَمُ
+        <li>الَّذِي عَلَّمَ بِالْقَلَمِ
+        <li>عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ
+        <li>كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ
+        <li>أَنْ رَآهُ اسْتَغْنَىٰ
+        <li>إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ
+        <li>أَرَأَيْتَ الَّذِي يَنْهَىٰ
+        <li> عَبْدًا إِذَا صَلَّىٰ
+        <li> أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَىٰ
+        <li> أَوْ أَمَرَ بِالتَّقْوَىٰ
+        <li> أَرَأَيْتَ إِنْ كَذَّبَ وَتَوَلَّىٰ
+        <li> أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَىٰ
+        <li> كَلَّا لَئِنْ لَمْ يَنْتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ
+        <li> نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ
+        <li> فَلْيَدْعُ نَادِيَهُ
+        <li> سَنَدْعُ الزَّبَانِيَةَ
+        <li> كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩`,
+            //english
+            'eng': `
+        <li>Iqra bismi rab bikal lazee khalaq
+        <li>Khalaqal insaana min 'alaq
+        <li>Iqra wa rab bukal akram
+        <li>Al lazee 'allama bil qalam
+        <li>'Al lamal insaana ma lam y'alam
+        <li>Kallaa innal insaana layatghaa
+        <li>Ar-ra aahus taghnaa
+        <li>Innna ilaa rabbikar ruj'aa
+        <li>Ara-aital lazee yanhaa
+        <li>'Abdan iza sallaa
+        <li>Ara-aita in kana 'alal hudaa
+        <li>Au amara bit taqwaa
+        <li>Ara-aita in kaz zaba wa ta walla
+        <li>Alam y'alam bi-an nal lahaa yaraa
+        <li>Kalla la illam yantahi la nasfa'am bin nasiyah
+        <li>Nasiyatin kazi batin khaatiah
+        <li>Fal yad'u naadiyah
+        <li>Sanad 'uz zabaaniyah
+        <li>Kalla; la tuti'hu wasjud waqtarib (make sajda)`,
+            //trans
+            'translation':`
+        <li>Proclaim! (or read!) in the name of thy Lord and Cherisher, Who created-
+        <li>Created man, out of a (mere) clot of congealed blood:
+        <li>Proclaim! And thy Lord is Most Bountiful,-
+        <li>He Who taught (the use of) the pen,-
+        <li>Taught man that which he knew not.
+        <li>Day, but man doth transgress all bounds,
+        <li>In that he looketh upon himself as self-sufficient.
+        <li>Verily, to thy Lord is the return (of all).
+        <li>Seest thou one who forbids-
+        <li>A votary when he (turns) to pray?
+        <li>Seest thou if he is on (the road of) Guidance?-
+        <li>Or enjoins Righteousness?
+        <li>Seest thou if he denies (Truth) and turns away?
+        <li>Knoweth he not that Allah doth see?
+        <li>Let him beware! If he desist not, We will drag him by the forelock,-
+        <li>A lying, sinful forelock!
+        <li>Then, let him call (for help) to his council (of comrades):
+        <li>We will call on the angels of punishment (to deal with him)!
+        <li>Day, heed him not: But bow down in adoration, and bring thyself the closer (to Allah)!`
+    },
+    //97
+    {
+        'arb':`
+        إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ
+        <li>وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ
+        <li>لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ
+        <li>تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ
+        <li>سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ`,
+            //english
+            'eng': `
+        <li>Innaa anzalnaahu fee lailatil qadr
+        <li>Wa maa adraaka ma lailatul qadr
+        <li>Lailatul qadri khairum min alfee shahr
+        <li>Tanaz zalul malaa-ikatu war roohu feeha bi izni-rab bihim min kulli amr
+        <li>Salaamun hiya hattaa mat la'il fajr`,
+            //trans
+            'translation':`
+        <li>We have indeed revealed this (Message) in the Night of Power:
+        <li>And what will explain to thee what the night of power is?
+        <li>The Night of Power is better than a thousand months.
+        <li>Therein come down the angels and the Spirit by Allah�s permission, on every errand:
+        <li>Peace!...This until the rise of morn!`
+    },
+    //98
+    {
+        'arb':`
+        <li>لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ
+        <li>رَسُولٌ مِنَ اللَّهِ يَتْلُو صُحُفًا مُطَهَّرَةً
+        <li>فِيهَا كُتُبٌ قَيِّمَةٌ
+        <li>وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ
+        <li>وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ
+        <li>إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ
+        <li>إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ
+        <li>جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ`,
+            //english
+            'eng': `
+        <li>Lam ya kunil lazeena kafaru min ahlil kitaabi wal mushri keena mun fak keena hattaa ta-tiya humul bayyinah
+        <li>Rasoolum minal laahi yatlu suhufam mutahharah
+        <li>Feeha kutubun qaiyimah
+        <li>Wa maa tafarraqal lazeena ootul kitaaba il-la mim b'adi ma jaa-at humul baiyyinah
+        <li>Wa maa umiroo il-la liy'abu dul laaha mukhliseena lahud-deena huna faa-a wa yuqeemus salaata wa yu-tuz zakaata; wa zaalika deenul qaiyimah
+        <li>Innal lazeena kafaru min ahlil kitaabi wal mushri keena fee nari jahan nama khaali deena feeha; ulaa-ika hum shar rul ba reeyah
+        <li>Innal lazeena aamanu wa 'amilus saalihaati ula-ika hum khairul bareey yah
+        <li>Jazaa-uhum inda rabbihim jan naatu 'adnin tajree min tahtihal an haaru khalideena feeha abada; radiy-yallaahu 'anhum wa ra du 'an zaalika liman khashiya rabbah.`,
+            //trans
+            'translation':`
+        <li>Those who reject (Truth), among the People of the Book and among the Polytheists, were not going to depart (from their ways) until there should come to them Clear Evidence,-
+        <li>An messenger from Allah, rehearsing scriptures kept pure and holy:
+        <li>Wherein are laws (or decrees) right and straight.
+        <li>Nor did the People of the Book make schisms, until after there came to them Clear Evidence.
+        <li>And they have been commanded no more than this: To worship Allah, offering Him sincere devotion, being true (in faith); to establish regular prayer; and to practise regular charity; and that is the Religion Right and Straight.
+        <li>Those who reject (Truth), among the People of the Book and among the Polytheists, will be in Hell-Fire, to dwell therein (for aye). They are the worst of creatures.
+        <li>Those who have faith and do righteous deeds,- they are the best of creatures.
+        <li>Their reward is with Allah: Gardens of Eternity, beneath which rivers flow; they will dwell therein for ever; Allah well pleased with them, and they with Him: all this for such as fear their Lord and Cherisher.`
+    },
+    //99
+    {
+        'arb':`
+        <li> إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا
+        <li> وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا
+        <li> وَقَالَ الْإِنْسَانُ مَا لَهَا
+        <li> يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
+        <li> بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا
+        <li> يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ
+        <li> فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ
+        <li> وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ`,
+        //english
+        'eng': `
+        <li>Izaa zul zilatil ardu zil zaalaha
+        <li>Wa akh rajatil ardu athqaalaha
+        <li>Wa qaalal insaanu ma laha
+        <li>Yawmaa izin tuhaddithu akhbaaraha
+        <li>Bi-anna rabbaka awhaa laha
+        <li>Yawma iziny yas durun naasu ash tatal liyuraw a'maalahum
+        <li>Famaiy ya'mal mithqala zarratin khai raiy-yarah
+        <li>Wa maiy-y'amal mithqala zarratin sharraiy-yarah`,
+        //trans
+        'translation':`
+        <li>When the earth is shaken to her (utmost) convulsion,
+        <li>And the earth throws up her burdens (from within),
+        <li>And man cries (distressed): �What is the matter with her?�-
+        <li>On that Day will she declare her tidings:
+        <li>For that thy Lord will have given her inspiration.
+        <li>On that Day will men proceed in companies sorted out, to be shown the deeds that they (had done).
+        <li>Then shall anyone who has done an atom�s weight of good, see it!
+        <li>And anyone who has done an atom�s weight of evil, shall see it.`
+    },
+    //100
+    {
+        'arb':`
+        <li> وَالْعَادِيَاتِ ضَبْحًا
+        <li> فَالْمُورِيَاتِ قَدْحًا
+        <li> فَالْمُغِيرَاتِ صُبْحًا
+        <li> فَأَثَرْنَ بِهِ نَقْعًا
+        <li> فَوَسَطْنَ بِهِ جَمْعًا
+        <li> إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ
+        <li> وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ
+        <li> وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ
+        <li> أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ
+        <li>  وَحُصِّلَ مَا فِي الصُّدُورِ
+        <li>  إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ`,
+            //english
+            'eng': `
+        <li> Wal'aadi yaati dabha
+        <li> Fal moori yaati qadha
+        <li> Fal mugheeraati subha
+        <li> Fa atharna bihee naq'a
+        <li> Fawa satna bihee jam'a
+        <li> Innal-insana lirabbihee lakanood
+        <li> Wa innahu 'alaa zaalika la shaheed
+        <li> Wa innahu lihubbil khairi la shadeed
+        <li> Afala ya'lamu iza b'uthira ma filquboor
+        <li> Wa hussila maa fis sudoor
+        <li> Inna rabbahum bihim yauma 'izin lakhabeer`,
+            //trans
+            'translation':`
+        <li> By the (Steeds) that run, with panting (breath),
+        <li> And strike sparks of fire,
+        <li> And push home the charge in the morning,
+        <li> And raise the dust in clouds the while,
+        <li> And penetrate forthwith into the midst (of the foe) en masse;-
+        <li> Truly man is, to his Lord, ungrateful;
+        <li> And to that (fact) he bears witness (by his deeds);
+        <li> And violent is he in his love of wealth.
+        <li> Does he not know,- when that which is in the graves is scattered abroad
+        <li> And that which is (locked up) in (human) breasts is made manifest-
+        <li> That their Lord had been Well-acquainted with them, (even to) that Day?`
+    },
+    //101
+    {
+        'arb':`
+        <li> الْقَارِعَةُ
+        <li> مَا الْقَارِعَةُ
+        <li> وَمَا أَدْرَاكَ مَا الْقَارِعَةُ
+        <li> يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ
+        <li> وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ
+        <li> فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ
+        <li> فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ
+        <li> وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ
+        <li> فَأُمُّهُ هَاوِيَةٌ
+        <li>  وَمَا أَدْرَاكَ مَا هِيَهْ
+        <li>  نَارٌ حَامِيَةٌ`,
+         //english
+         'eng': `
+        <li> Al qaari'ah
+        <li> Mal qaariah
+        <li> Wa maa adraaka mal qaari'ah
+        <li> Yauma ya koonun naasu kal farashil mabthooth
+        <li> Wa ta koonul jibalu kal 'ihnil manfoosh
+        <li> Fa-amma man thaqulat mawa zeenuh
+        <li> Fahuwa fee 'ishatir raadiyah
+        <li> Wa amma man khaffat mawa zeenuh
+        <li> Fa-ummuhu haawiyah
+        <li> Wa maa adraaka maa hiyah
+        <li> Naarun hamiyah`,
+             //trans
+             'translation':`
+        <li> The (Day) of Noise and Clamour:
+        <li> What is the (Day) of Noise and Clamour?
+        <li> And what will explain to thee what the (Day) of Noise and Clamour is?
+        <li> (It is) a Day whereon men will be like moths scattered about,
+        <li> And the mountains will be like carded wool.
+        <li> Then, he whose balance (of good deeds) will be (found) heavy,
+        <li> Will be in a life of good pleasure and satisfaction.
+        <li> But he whose balance (of good deeds) will be (found) light,-
+        <li> Will have his home in a (bottomless) Pit.
+        <li> And what will explain to thee what this is?
+        <li> (It is) a Fire Blazing fiercely!`
+    },
+    //102
+    {
+        'arb':`
+        <li> أَلْهَاكُمُ التَّكَاثُرُ
+        <li> حَتَّىٰ زُرْتُمُ الْمَقَابِرَ
+        <li> كَلَّا سَوْفَ تَعْلَمُونَ
+        <li> ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ
+        <li> كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ
+        <li> لَتَرَوُنَّ الْجَحِيمَ
+        <li> ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ
+        <li> ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ`,
+            //english
+            'eng': `
+        <li> Al haaku mut takathur
+        <li> Hatta zurtumul-maqaabir
+        <li> Kalla sawfa ta'lamoon
+        <li> Thumma kalla sawfa ta'lamoon
+        <li> Kalla law ta'lamoona 'ilmal yaqeen
+        <li> Latara-wun nal jaheem
+        <li> Thumma latara wunnaha 'ainal yaqeen
+        <li> Thumma latus alunna yauma-izin 'anin na'eem`,
+            //trans
+            'translation':`
+        <li> The mutual rivalry for piling up (the good things of this world) diverts you (from the more serious things),
+        <li> Until ye visit the graves.
+        <li> But nay, ye soon shall know (the reality).
+        <li> Again, ye soon shall know!
+        <li> Nay, were ye to know with certainty of mind, (ye would beware!)
+        <li> Ye shall certainly see Hell-Fire!
+        <li> Again, ye shall see it with certainty of sight!
+        <li> Then, shall ye be questioned that Day about the joy (ye indulged in!).`
+    },
+    //103
+    {
+        'arb':`
+        <li>وَالْعَصْرِ
+        <li>إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ
+        <li>إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ`,
+        //english
+        'eng': `
+        <li>Wal 'asr
+        <li>Innal insaana lafee khusr
+        <li>Illal lazeena aamanoo wa 'amilus saalihaati wa tawaasaw bilhaqqi wa tawaasaw bissabr`,
+            //trans
+            'translation':`
+        <li>By (the Token of) Time (through the ages),
+        <li>Verily Man is in loss,
+        <li>Except such as have Faith, and do righteous deeds, and (join together) in the mutual teaching of Truth, and of Patience and Constancy.`
+    },
+    //104
+    {
+        'arb':`
+        <li>وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ
+        <li>الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ
+        <li>يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ
+        <li>كَلَّا ۖ لَيُنْبَذَنَّ فِي الْحُطَمَةِ
+        <li>وَمَا أَدْرَاكَ مَا الْحُطَمَةُ
+        <li>نَارُ اللَّهِ الْمُوقَدَةُ
+        <li>الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ
+        <li>إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ
+        <li>فِي عَمَدٍ مُمَدَّدَةٍ`,
+            //english
+            'eng': `
+        <li>Wailul-likulli hu mazatil-lumazah
+        <li>Allazee jama'a maalanw wa 'addadah
+        <li>Yahsabu anna maalahooo akhladah
+        <li>Kallaa; layumbazanna fil hutamah
+        <li>Wa maa adraaka mal-hutamah
+        <li>Naarul laahil-mooqada
+        <li>Allatee tattali'u 'alal af'idah
+        <li>Innahaa 'alaihim mu'sada
+        <li>Fee 'amadim mumaddadah`,
+            //trans
+            'translation':`
+        <li>Woe to every (kind of) scandal-monger and-backbiter,
+        <li>Who pileth up wealth and layeth it by,
+        <li>Thinking that his wealth would make him last for ever!
+        <li>By no means! He will be sure to be thrown into That which Breaks to Pieces,
+        <li>And what will explain to thee That which Breaks to Pieces?
+        <li>(It is) the Fire of (the Wrath of) Allah kindled (to a blaze),
+        <li>The which doth mount (Right) to the Hearts:
+        <li>It shall be made into a vault over them,
+        <li>In columns outstretched.`
+    },
+    //105
+    {
+        'arb':`
+        <li> أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ
+        <li> أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ
+        <li> وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ
+        <li> تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ
+        <li> فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ`,
+            //english
+            'eng': `
+        <li> Alam tara kaifa fa'ala rabbuka bi ashaabil feel
+        <li> Alam yaj'al kaidahum fee tadleel
+        <li> Wa arsala 'alaihim tairan abaabeel
+        <li> Tarmeehim bihijaaratim min sijjeel
+        <li> Faja 'alahum ka'asfim m'akool`,
+            //trans
+            'translation':`
+        <li> Seest thou not how thy Lord dealt with the Companions of the Elephant?
+        <li> Did He not make their treacherous plan go astray?
+        <li> And He sent against them Flights of Birds,
+        <li> Striking them with stones of baked clay.
+        <li> Then did He make them like an empty field of stalks and straw, (of which the corn) has been eaten up.`
+    },
+    //106
+    {
+        'arb':`
+        <li>لِإِيلَافِ قُرَيْشٍ
+        <li>إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ
+        <li>فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ
+        <li>الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ`,
+        //english
+        'eng': `
+        <li>Li-eelaafi quraish
+        <li>Eelaafihim rihlatash shitaaa'i wassaif
+        <li>Faly'abudoo rabba haazal-bait
+        <li>Allazeee at'amahum min joo'inw-wa-aamanahum min khawf`,
+        //trans
+        'translation':`
+        <li>For the covenants (of security and safeguard enjoyed) by the Quraish,
+        <li>Their covenants (covering) journeys by winter and summer,-
+        <li>Let them adore the Lord of this House,
+        <li>Who provides them with food against hunger, and with security against fear (of danger).`
+    },
+    //107
+    {
+        'arb':`
+        <li>أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ
+        <li>فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ
+        <li>وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ
+        <li>فَوَيْلٌ لِلْمُصَلِّينَ
+        <li>الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ
+        <li>الَّذِينَ هُمْ يُرَاءُونَ
+        <li>وَيَمْنَعُونَ الْمَاعُونَ`,
+        //english
+        'eng': `
+        <li>Seest thou one who denies the Judgment (to come)?
+        <li>Then such is the (man) who repulses the orphan (with harshness),
+        <li>And encourages not the feeding of the indigent.
+        <li>So woe to the worshippers
+        <li>Who are neglectful of their prayers,
+        <li>Those who (want but) to be seen (of men),
+        <li>But refuse (to supply) (even) neighbourly needs.`,
+        //trans
+        'translation':`
+        <li>Ara 'aytal lazee yukazzibu biddeen
+        <li>Fazaalikal lazee yadu'ul-yateem
+        <li>Wa la yahuddu 'alaa ta'aamil miskeen
+        <li>Fa wailul-lil musalleen
+        <li>Allazeena hum 'an salaatihim saahoon
+        <li>Allazeena hum yuraaa'oon
+        <li>Wa yamna'oonal maa'oon`
+    },
+    //108
+    {
+        'arb':`
+        <li>إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ
+        <li>فَصَلِّ لِرَبِّكَ وَانْحَرْ
+        <li>إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ`,
+        //english
+        'eng': `
+        <li>Innaaa a'tainaa kal kauthar
+        <li>Fasalli li rabbika wanhar
+        <li>Inna shaani'aka huwal abtar`,
+        //trans
+        'translation':`
+        <li>To thee have We granted the Fount (of Abundance).
+        <li>Therefore to thy Lord turn in Prayer and Sacrifice.
+        <li>For he who hateth thee, he will be cut off (from Future Hope).`
+    },
+    //109
+    {
+        'arb':`
+        <li>قُلْ يَا أَيُّهَا الْكَافِرُونَ
+        <li>لَا أَعْبُدُ مَا تَعْبُدُونَ
+        <li>وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ
+        <li>وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ
+        <li>وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ
+        <li>لَكُمْ دِينُكُمْ وَلِيَ دِينِ`,
+        //english
+        'eng': `
+        <li>Qul yaaa-ayyuhal kaafiroon
+        <li>Laaa a'budu maa t'abudoon
+        <li>Wa laaa antum 'aabidoona maaa a'bud
+        <li>Wa laaa ana 'abidum maa 'abattum
+        <li>Wa laaa antum 'aabidoona maaa a'bud
+        <li>Lakum deenukum wa liya deen.`,
+        //trans
+        'translation':`
+        <li>Say : O ye that reject Faith!
+        <li>I worship not that which ye worship,
+        <li>Nor will ye worship that which I worship.
+        <li>And I will not worship that which ye have been wont to worship,
+        <li>Nor will ye worship that which I worship.
+        <li>To you be your Way, and to me mine.`
+    },
+    //110
+    {
+        'arb':`
+        <li>إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ
+        <li>وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا
+        <li>فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا`,
+        //english
+        'eng': `
+        <li>Iza jaaa'a nasrul-laahi walfath
+        <li>Wa ra-aitan naasa yadkhuloona fee deenil laahi afwajaa
+        <li>Fasabbih bihamdi rabbika wastaghfirh, innahoo kaana tawwaaba`,
+        //trans
+        'translation':`
+        <li>When comes the Help of Allah, and Victory,
+        <li>And thou dost see the people enter Allah�s Religion in crowds,
+        <li>Celebrate the praises of thy Lord, and pray for His Forgiveness: For He is Oft-Returning (in Grace and Mercy).`
+    },
+    //111
+    {
+        'arb':`
+        <li>تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
+        <li>مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ
+        <li>سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ
+        <li>وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ
+        <li>فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ`,
+        //english
+        'eng': `
+        <li>Tabbat yadaa abee Lahabinw-wa tabb
+        <li>Maa aghnaa 'anhu maaluhoo wa ma kasab
+        <li>Sa-yaslaa naaran zaata lahab
+        <li>Wamra-atuhoo hammaa latal-hatab
+        <li>Fee jeedihaa hablum mim-masad`,
+        //trans
+        'translation':`
+        <li>Perish the hands of the Father of Flame! Perish he!
+        <li>No profit to him from all his wealth, and all his gains!
+        <li>Burnt soon will he be in a Fire of Blazing Flame!
+        <li>His wife shall carry the (crackling) wood - As fuel!-
+        <li>A twisted rope of palm-leaf fibre round her (own) neck!`
+    },
+    //112
+    {
+        'arb':`
+        <li>قُلْ هُوَ اللَّهُ أَحَدٌ
+        <li>اللَّهُ الصَّمَدُ
+        <li>لَمْ يَلِدْ وَلَمْ يُولَدْ
+        <li>وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ`,
+        //english
+        'eng': `
+        <li>Qul huwal laahu ahad
+        <li>Allah hus-samad
+        <li>Lam yalid wa lam yoolad
+        <li>Wa lam yakul-lahoo kufuwan ahad (section 1)`,
+        //trans
+        'translation':`
+        <li>Say: He is Allah, the One and Only;
+        <li>Allah, the Eternal, Absolute;
+        <li>He begetteth not, nor is He begotten;
+        <li>And there is none like unto Him.`
+    },
+    //113
+    {
+        'arb':`
+        <li>قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ
+        <li>مِنْ شَرِّ مَا خَلَقَ
+        <li>وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ
+        <li>وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ
+        <li>وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ`,
+        //english
+        'eng': `
+        <li>Qul a'oozu bi rabbil-falaq
+        <li>Min sharri maa khalaq
+        <li>Wa min sharri ghaasiqin izaa waqab
+        <li>Wa min sharrin-naffaa-saati fil 'uqad
+        <li>Wa min sharri haasidin izaa hasad`,
+        //trans
+        'translation':`
+        <li>Say: I seek refuge with the Lord of the Dawn
+        <li>From the mischief of created things;
+        <li>From the mischief of Darkness as it overspreads;
+        <li>From the mischief of those who practise secret arts;
+        <li>And from the mischief of the envious one as he practises envy.`
+    },
+    //114
+    {
+        'arb':`
+        <li>قُلْ أَعُوذُ بِرَبِّ النَّاسِ
+        <li>مَلِكِ النَّاسِ
+        <li>إِلَٰهِ النَّاسِ
+        <li>مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ
+        <li>الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ
+        <li>مِنَ الْجِنَّةِ وَالنَّاسِ`,
+        //english
+        'eng': `
+        <li>Qul a'oozu birabbin naas
+        <li>Malikin naas
+        <li>Ilaahin naas
+        <li>Min sharril waswaasil khannaas
+        <li>Allazee yuwaswisu fee sudoorin naas
+        <li>Minal jinnati wannaas (End Juz 30)`,
+        //trans
+        'translation':`
+        <li>Say: I seek refuge with the Lord and Cherisher of Mankind,
+        <li>The King (or Ruler) of Mankind,
+        <li>The god (or judge) of Mankind,-
+        <li>From the mischief of the Whisperer (of Evil), who withdraws (after his whisper),-
+        <li>(The same) who whispers into the hearts of Mankind,-
+        <li>Among Jinns and among men.`
 }
-];
+]; 
