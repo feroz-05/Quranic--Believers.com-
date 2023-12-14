@@ -146,27 +146,35 @@
     .subtitle{
         font-size: 11px;
     }
+
+
+
+    
     .surah{
         flex: 1;
-        font-size: 18px;
+        font-size: 16px;
         line-height: 25px;
     }
 
     .surah h4{
-        font-size: 20px;
+        font-size: 15px;
         text-align: center;
     }
 
     .surah li{
-        padding: 15px 5px;
+        padding: 5px 5px;
     }
 
     .surah-arabic{
         letter-spacing: 1px;
         line-height: 40px;
-        font-size: 25px;
+        font-size: 20px;
         font-weight: bold;
         margin-right: 10px;
         padding: 20px 0px;
+    }
+
+    .audio-arb{
+        width: 80%;
     }
 }
