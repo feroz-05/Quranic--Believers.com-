@@ -116,6 +116,7 @@ body{
     text-align: center;
     align-items: center;
     transition: all 0.3s;
+    font-weight: bold;
 }
 
 .button-item{
