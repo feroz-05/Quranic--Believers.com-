@@ -98,11 +98,11 @@ body{
 
 .display-names{
     justify-content: center;
-    margin: 0px 10%;
+    align-items: center;
+    margin: 0px 8%;
     display: grid;
     gap: 10px;
     grid-template-columns:1fr 1fr 1fr ;
-    flex-wrap: nowrap;
     font-size: 15px;
     font-weight: bold;
 }

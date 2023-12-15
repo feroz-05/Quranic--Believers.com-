@@ -126,7 +126,20 @@
     }
 
     .search{
-        margin: 0px 0px 0px 10% ;
+        margin: 0px 0px 0px 8% ;
+    }
+
+    .display-names{
+        grid-template-columns: 1fr 1fr 1fr;
+        font-size: 13px;
+        font-weight: bold;
+        
+    }
+    
+    .display-names span{
+        display: block;
+        background-color: white;
+        padding: 5px 15px;
     }
 
     .container{
@@ -188,6 +201,5 @@
         flex: 1;
         width: 80%;
         padding: 10px 25px;
-
     }
 }
