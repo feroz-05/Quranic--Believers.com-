@@ -2,13 +2,13 @@
 //console.log("pk",attribute);
 
 
-import { arabicAudio } from "../audio/audio.js";
+import { arabicAudio, englishAudio } from "../audio/audio.js";
 import {surahs} from "../data/fullsurahdata.js";
 import { namesOfSurah } from "../data/namesofsurah.js";
 export let attributevalue=[];
 
 const surahNumber = Number(JSON.parse(localStorage.getItem('attribute')));
-console.log(surahNumber);
+//console.log(englishAudio);
 
 // this codde is to display the surah;
 let surahHtml='';
@@ -66,12 +66,17 @@ let namesHtml =`<h3>${ namesOfSurah[surahNumber-1].number}. ${namesOfSurah[surah
 
 
     // code to addd audio;
-
+    //1 arabic audio.
     const audioHtml =`<source src="${arabicAudio[surahNumber-1]}" 
     type="audio/mpeg">`;
     document.querySelector('.audio-arb').
         innerHTML=audioHtml;
-
+    
+    //2 english and arabic audio.
+    const audioArbicEngHtml =`<source src="${englishAudio[surahNumber-1]}" 
+    type="audio/mpeg">`;
+    document.querySelector('.audio-eng-arb').
+        innerHTML=audioArbicEngHtml;
 
     
 

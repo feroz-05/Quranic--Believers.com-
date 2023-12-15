@@ -180,8 +180,14 @@
         font-family:Naskh;
     }
     
-
     .audio-arb{
         width: 80%;
+    }
+
+    .audio-eng-arb{
+        flex: 1;
+        width: 80%;
+        padding: 10px 25px;
+
     }
 }

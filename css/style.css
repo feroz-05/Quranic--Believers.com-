@@ -6,7 +6,7 @@
 body{
     margin: 0px 100px;
     background:radial-gradient(rgb(90, 2, 2), #010e14);
-    height: 1808vh;
+    height: 1650vh;
 }
 
 .header-main{
@@ -31,7 +31,6 @@ body{
     letter-spacing: 2px;
     display: block;
 }
-
 
 .header-icons{
     width: 50px;
@@ -58,6 +57,7 @@ body{
     flex: 1;
     margin-top: 60px;
     fill: white;
+    transition: all 2s;
 }
 
 .search-box{
@@ -190,6 +190,12 @@ font-family: roboto;
     flex-direction: column;
     padding: 10px 0px;
     margin-left: 20px;
+}
+
+.blink-logo{
+    transition: all 2s;
+    fill: red;
+
 }
 
 

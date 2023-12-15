@@ -48,8 +48,23 @@ document.querySelectorAll(".button-item")
             localStorage.setItem('subname',JSON.stringify(subname));
             window.location.href="/html/surahpage.html";
         })
-
 });
+
+let value = true;
+setInterval(()=>{
+    const data = document.querySelector('.logo-image');
+    if(value == true){
+        data.classList.add('blink-logo');
+        value=false;
+        console.log("blinking");
+
+    }else{
+        data.classList.remove('blink-logo');
+        value=true;
+        console.log("blinking");
+
+    }
+},3000);
 
 
 
