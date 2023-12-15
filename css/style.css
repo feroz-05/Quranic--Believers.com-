@@ -195,7 +195,7 @@ font-family: roboto;
 
 .blink-logo{
     transition: all 2s;
-    fill: rgb(0, 180, 235);
+    fill:rgb(230, 3, 3);
 
 }
 
