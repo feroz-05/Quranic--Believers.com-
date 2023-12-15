@@ -50,11 +50,11 @@
                 "  What do you want to read?">
             </div>
             <div class="display-names">
-                <span>The Quran</span>
-                <span>Al Mulk</span>
-                <span>Yaseen</span>
-                <span>Al Kahf</span>
-                <span>Al Waqi'ah</span>
+                <button class="span" onclick="Surah('quran');">The Quran</button>
+                <button class="span" onclick="Surah('mulk');">Al Mulk</button>
+                <button class="span" onclick="Surah('yaseen');">Yaseen</button>
+                <button class="span" onclick="Surah('Kahf');">Al Kahf</button>
+                <button class="span" onclick="Surah('Waqiah');">Al Waqi'ah</button>
             </div>
 
             <section>
@@ -67,5 +67,32 @@
 
     <script type="module" src="/javascript/main.js"></script>
     <script type="module" src="javascript/practice.js"></script>
+    
+    <script>
+    //function to rederict to direct suahpage
+        function Surah(data) {
+    if(data ==='mulk'){
+        const attribute = 67;
+        localStorage.setItem('attribute',JSON.stringify(attribute));
+        window.location.href="/html/surahpage.html";
+    }else if(data ==='yaseen'){
+        const attribute = 36;
+        localStorage.setItem('attribute',JSON.stringify(attribute));
+        window.location.href="/html/surahpage.html"
+    }else if(data ==='Kahf'){
+        const attribute = 18;
+        localStorage.setItem('attribute',JSON.stringify(attribute));
+        window.location.href="/html/surahpage.html"
+    }else if(data ==='Waqiah'){
+        const attribute = 56;
+        localStorage.setItem('attribute',JSON.stringify(attribute));
+        window.location.href="/html/surahpage.html"
+    }else if(data ==='quran'){
+        const attribute = 37;
+        localStorage.setItem('attribute',JSON.stringify(attribute));
+        window.location.href="/html/about-quran.html"
+    }   
+};
+    </script>    
 </body>
 </html>

@@ -56,15 +56,18 @@ setInterval(()=>{
     if(value == true){
         data.classList.add('blink-logo');
         value=false;
-        console.log("blinking");
-
     }else{
         data.classList.remove('blink-logo');
         value=true;
-        console.log("blinking");
-
     }
 },3000);
+
+//function to display surahs
+
+// const redirectSurah = document.querySelectorAll('.span');
+// redirectSurah.forEach((item)=>{
+// });
+
 
 
 

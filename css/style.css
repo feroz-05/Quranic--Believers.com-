@@ -107,9 +107,10 @@ body{
     font-weight: bold;
 }
 
-.display-names span{
+.display-names .span{
     background-color: white;
     padding: 5px 0px;
+    border:none;
     border-radius: 25px;
     justify-content: center;
     text-align: center;

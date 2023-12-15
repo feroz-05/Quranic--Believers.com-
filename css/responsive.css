@@ -113,10 +113,7 @@
 }
 
 @media (0px <= width <= 555px){
-    .display-names{
-        grid-template-columns: 1fr 1fr ;
-        margin: 0px 40px;
-    }
+
     body{
         margin: 0px 0px;
     }
@@ -126,18 +123,18 @@
     }
 
     .search{
-        margin: 0px 0px 0px 6% ;
+        margin: 0px 0px 0px 6.3% ;
     }
 
     .display-names{
         grid-template-columns: 1fr 1fr 1fr;
         font-size: 13px;
         font-weight: bold;
-        margin: 0px 65px;
+        margin: 0px 70px;
         
     }
     
-    .display-names span{
+    .display-names .span{
         display: block;
         background-color: white;
         padding: 5px 6px;
