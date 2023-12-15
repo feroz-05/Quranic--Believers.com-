@@ -60,14 +60,7 @@ setInterval(()=>{
         data.classList.remove('blink-logo');
         value=true;
     }
-},3000);
-
-//function to display surahs
-
-// const redirectSurah = document.querySelectorAll('.span');
-// redirectSurah.forEach((item)=>{
-// });
-
+},2000);
 
 
 
