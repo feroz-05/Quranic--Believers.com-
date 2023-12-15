@@ -1,11 +1,10 @@
-let given =2;
-import { namesOfSurah } from "../data/namesofsurah.js";
 
-console.log(namesOfSurah);
-console.log(namesOfSurah[given-1].firstname);
-console.log(namesOfSurah[given-1].number);
-console.log(namesOfSurah[given-1].subname);
+import { arabicAudio } from "../audio/audio.js";
+console.log(arabicAudio.audio1);
 
+// document.body.innerHTML=` <audio controls class="audio-eng-arb">
+// <source src="${arabicAudio.audio1}">
+// </audio>`
 
 
 

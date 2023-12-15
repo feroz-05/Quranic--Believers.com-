@@ -1,10 +1,12 @@
 *{
     font-family: roboto;
+
 }
 
 body{
-    background-color: #272f33;
     margin: 0px 100px;
+    background:radial-gradient(rgb(90, 2, 2), #05001b);
+    height: 1808vh;
 }
 
 .header-main{

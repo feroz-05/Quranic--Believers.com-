@@ -69,13 +69,14 @@ body{
     background-color: rgb(17, 147, 187);
     border: none;
     border-radius: 20px;
-    width: 130px;
     color: white;
     font-size: 18px;
-    padding: 5px 10px;
+    width: 110px;
+    padding: 3px 0px;
     margin-bottom: 30px;
     font-weight: bold;
     transition: all 0.3s;
+    letter-spacing: 1px;
 }
 .play-next button:hover{
     color: rgb(255, 255, 255);
