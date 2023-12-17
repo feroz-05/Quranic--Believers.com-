@@ -85,9 +85,10 @@ body{
     cursor: pointer;
 }
 
-.play-next button span{
+.play-next .next,.play-next .previous{
     font-size: 13px;
     text-align: center;
+    padding: 5px 0px;
 }
 
 

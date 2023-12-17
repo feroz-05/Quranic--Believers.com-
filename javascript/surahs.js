@@ -78,8 +78,31 @@ let namesHtml =`<h3>${ namesOfSurah[surahNumber-1].number}. ${namesOfSurah[surah
     document.querySelector('.audio-eng-arb').
         innerHTML=audioArbicEngHtml;
 
-    
+    //next buttons
+    console.log(surahNumber);
 
+    if(surahNumber == 1){
+    document.querySelector('.previous').innerHTML 
+        =namesOfSurah[surahNumber+112].firstname;
+
+        document.querySelector('.next').innerHTML 
+        =namesOfSurah[surahNumber].firstname;
+    }else if(surahNumber == 114){
+        document.querySelector('.previous').innerHTML 
+            =namesOfSurah[surahNumber-2].firstname;
+    
+            document.querySelector('.next').innerHTML 
+            =namesOfSurah[surahNumber-114].firstname;
+        }
+    else{
+        document.querySelector('.previous').innerHTML 
+        =namesOfSurah[surahNumber-2].firstname;
+
+        document.querySelector('.next').innerHTML 
+        =namesOfSurah[surahNumber].firstname;
+    }
+
+    //end
 
 
 
