@@ -141,10 +141,6 @@ body{
     padding: 20px 5px;
 }
 
-.surah h4{
-    text-align: center;
-}
-
 h5{
     text-align: center;
     padding-right: 50px;
@@ -154,14 +150,17 @@ h5{
     list-style-type: arabic-indic;
 }
 
-.arabic-ol li{
+.arabic-ol li ,.surah p{
     font-family: mirza;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 40px;
     letter-spacing: 1px;
-    font-size: 27px;
+    font-size: 28px;
     text-align: center;
+}
 
+.surah p{
+    font-size: 23px;
 }
 
 
