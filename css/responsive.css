@@ -21,6 +21,7 @@
     }
         body{
         margin: 0px 60px;
+        height: 600vh;
     }
     .audio-arb{
         width: 80%;
@@ -51,21 +52,27 @@
     .surah{
         flex: 1;
         font-size: 22px;
-        line-height: 35px;
+        line-height: 40px;
     }
     
     .surah-arabic{
-        letter-spacing: 1.5px;
+        letter-spacing: 1px;
         font-size: 33px;
         line-height: 40px;
-        font-weight: bold;
     }
 }
 
 
+
+
+
+
+
+
+
 @media (651px <= width <= 1089px){
     .display-names{
-        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
         margin: 0px 18%;
     }
 
@@ -82,11 +89,16 @@
     }
     body{
         margin: 0px 35px;
+        height: 500vh;
     }
 }
+
+
+
 @media (375px <= width <= 650px){
     body{
         margin: 0px 20px;
+        height: 500vh;
     }
 
     .display-names{
@@ -168,12 +180,12 @@
     
     .surah{
         flex: 1;
-        font-size: 15px;
-        line-height: 25px;
+        font-size: 18px;
+        line-height: 30px;
     }
 
     .surah h4{
-        font-size: 15px;
+        font-size: 18px;
         text-align: center;
     }
 
@@ -186,9 +198,7 @@
         line-height: 40px;
         font-size: 17px;
         font-weight: bold;
-        margin-right: 15px;
-        padding: 20px 0px;
-        font-family:Naskh;
+        margin-right: 25px;
     }
     
     .audio-arb{

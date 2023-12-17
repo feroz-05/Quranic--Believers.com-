@@ -81,6 +81,7 @@ body{
 .play-next button:hover{
     color: rgb(255, 255, 255);
     background-color: rgba(17, 147, 187, 0.664);
+    cursor: pointer;
 }
 
 .play-next button span{
@@ -92,7 +93,7 @@ body{
 .display-surah-container{
     display: flex;
     flex-direction: column;
-    background-color: #15191b;
+    background-color: #20192c86;
     padding: 10px 10px;
     border-radius: 10px;
     margin: 0px 5px;
@@ -109,6 +110,7 @@ body{
     transition: all 0.3s;
 }
 .language button:hover{
+    cursor: pointer;
     color:  rgba(17, 147, 187, 0.664);
 }
 
@@ -138,12 +140,13 @@ body{
     border-bottom-color: rgba(130, 131, 131, 0.26);
     border-bottom-style: solid;
     border-bottom-width: 0.1px;
-    padding: 20px 5px;
-}
+    padding: 0px 5px;}
 
 h5{
     text-align: center;
     padding-right: 50px;
+    font-size: 17px;
+    font-weight: 300;
 }
 
 .arabic-ol{
