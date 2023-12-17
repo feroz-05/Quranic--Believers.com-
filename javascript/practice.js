@@ -7,4 +7,3 @@ console.log(arabicAudio.audio1);
 // </audio>`
 
 
-
