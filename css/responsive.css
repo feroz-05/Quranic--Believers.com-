@@ -98,8 +98,7 @@
 @media (375px <= width <= 650px){
     body{
         margin: 0px 20px;
-        height: 500vh;
-    }
+        }
 
     .display-names{
         grid-template-columns: 1fr 1fr 1fr;
