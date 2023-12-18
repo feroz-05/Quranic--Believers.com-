@@ -202,4 +202,15 @@
         width: 80%;
         padding: 10px 25px;
     }
-}
+
+        .search-container{
+            background-color: #ffffff;
+            margin: 0px auto 0;
+            width: 330px;
+        }
+
+        .input-search{
+            font-size: 18px;
+        }
+    }
+

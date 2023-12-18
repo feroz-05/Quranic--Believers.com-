@@ -207,7 +207,6 @@ font-family: roboto;
     margin: 0px auto 0;
     width: 430px;
     border-radius: 30px;
-
 }
 
 .search-box{
@@ -215,7 +214,6 @@ font-family: roboto;
     flex-direction: row;
     align-items: center;
     padding: 0px 20px;
-
 }
 
 .input-search{
