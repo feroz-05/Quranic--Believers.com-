@@ -127,15 +127,7 @@
 
     body{
         margin: 0px 0px;
-        height: fit-content;
-    }
-
-    .search-bar{
-        width: 80%;
-    }
-
-    .search{
-        margin: 0px 0px 0px 6.3% ;
+        height: 1500vh;
     }
 
     .display-names{

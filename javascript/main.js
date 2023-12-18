@@ -1,6 +1,6 @@
 
 import { namesOfSurah } from "../data/namesofsurah.js";
-
+import{arabicAudio} from "../audio/audio.js";
 
 let namesHTML ='';
 
@@ -63,6 +63,31 @@ setInterval(()=>{
 },2000);
 
 
+//searchbox code;
+
+const resultbox=document.querySelector('.search-display');
+const inputbox=document.querySelector('.input-search');
+
+let surahArray=[];
+namesOfSurah.forEach((data)=>{
+    surahArray.push(data.firstname);
+});
+
+console.log(surahArray);
+inputbox.onkeyup = function(){
+    let result= [];
+    let resultHtml='';
+    let input = inputbox.value;
+    if(input.length){
+        result = surahArray.filter((keyword)=>{
+            return keyword.includes(input);
+        });
+    }
+    result.forEach((data)=>{
+        resultHtml += `<li>${data}</li>`;
+    })
+resultbox.innerHTML=resultHtml ;   
+}
 
 
 
